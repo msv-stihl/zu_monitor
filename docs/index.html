@@ -3,23 +3,23 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Incident Board</title>
+    <title>Painel de ZUs</title>
     <link rel="stylesheet" href="./styles.css" />
   </head>
   <body>
     <main class="page">
       <header class="header">
         <div class="titleBlock">
-          <h1 class="title">INCIDENT BOARD</h1>
-          <div class="subtitle">Monitors incidents like an airport departures panel</div>
+          <h1 class="title">TIMER ZUS</h1>
+          <div class="subtitle">Monitora ZUs em tempo real | Atualização a cada 10min</div>
         </div>
         <div class="meta">
           <div class="metaRow">
-            <span class="metaLabel">LAST UPDATE</span>
+            <span class="metaLabel">ÚLTIMA ATUALIZAÇÃO</span>
             <span id="lastUpdated" class="metaValue">—</span>
           </div>
           <div class="metaRow">
-            <span class="metaLabel">ROWS</span>
+            <span class="metaLabel">QUANTIDADE</span>
             <span id="rowCount" class="metaValue">0</span>
           </div>
         </div>
@@ -32,17 +32,17 @@
             <span class="pill pillYellow">30–60m</span>
             <span class="pill pillRed">&gt;60m</span>
           </div>
-          <button id="refreshBtn" class="btn" type="button">REFRESH</button>
+          <button id="refreshBtn" class="btn" type="button">ATUALIZAR</button>
         </div>
 
         <div class="tableWrap">
           <table class="board" aria-label="Incident list">
             <thead>
               <tr>
-                <th class="colName">INCIDENT</th>
-                <th class="colLoc">LOCATION</th>
-                <th class="colOpened">OPENED</th>
-                <th class="colLeft">TIME LEFT</th>
+                <th class="colName">ATENDIMENTO EMERGENCIAL</th>
+                <th class="colLoc">LOCAL</th>
+                <th class="colOpened">ABERTA</th>
+                <th class="colLeft">TEMPO RESTANTE</th>
               </tr>
             </thead>
             <tbody id="rows"></tbody>
