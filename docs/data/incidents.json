@@ -1,0 +1,16 @@
+{
+  "incidents": [
+    {
+      "id": "sample-1",
+      "name": "Sample Incident A",
+      "location": "Site 01",
+      "opened_at": "2026-04-09T12:00:00Z"
+    },
+    {
+      "id": "sample-2",
+      "name": "Sample Incident B",
+      "location": "Site 02",
+      "opened_at": "2026-04-09T12:40:00Z"
+    }
+  ]
+}

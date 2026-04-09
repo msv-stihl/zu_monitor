@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Incident Board</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="page">
+      <header class="header">
+        <div class="titleBlock">
+          <h1 class="title">INCIDENT BOARD</h1>
+          <div class="subtitle">Monitors incidents like an airport departures panel</div>
+        </div>
+        <div class="meta">
+          <div class="metaRow">
+            <span class="metaLabel">LAST UPDATE</span>
+            <span id="lastUpdated" class="metaValue">—</span>
+          </div>
+          <div class="metaRow">
+            <span class="metaLabel">ROWS</span>
+            <span id="rowCount" class="metaValue">0</span>
+          </div>
+        </div>
+      </header>
+
+      <section class="panel">
+        <div class="panelHeader">
+          <div class="legend">
+            <span class="pill pillGreen">0–30m</span>
+            <span class="pill pillYellow">30–60m</span>
+            <span class="pill pillRed">&gt;60m</span>
+          </div>
+          <button id="refreshBtn" class="btn" type="button">REFRESH</button>
+        </div>
+
+        <div class="tableWrap">
+          <table class="board" aria-label="Incident list">
+            <thead>
+              <tr>
+                <th class="colName">INCIDENT</th>
+                <th class="colLoc">LOCATION</th>
+                <th class="colOpened">OPENED</th>
+                <th class="colLeft">TIME LEFT</th>
+              </tr>
+            </thead>
+            <tbody id="rows"></tbody>
+          </table>
+        </div>
+
+        <div id="emptyState" class="emptyState" hidden>
+          No incidents found.
+        </div>
+
+        <div id="errorState" class="errorState" hidden>
+          Failed to load data.
+        </div>
+      </section>
+    </main>
+
+    <script src="./app.js" type="module"></script>
+  </body>
+</html>
