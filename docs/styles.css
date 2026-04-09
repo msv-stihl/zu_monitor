@@ -64,7 +64,7 @@ body {
   justify-content: space-between;
   gap: 12px;
   padding: 10px 12px;
-  background: rgba(11, 15, 24, 0.7);
+  background: rgb(11, 15, 24);
   border: 1px solid rgba(27, 34, 51, 0.9);
   border-radius: 10px;
 }
@@ -81,8 +81,8 @@ body {
 }
 
 .panel {
-  background: rgba(11, 15, 24, 0.85);
-  border: 1px solid rgba(27, 34, 51, 0.95);
+  background: rgb(11, 15, 24);
+  border: 1px solid rgb(27, 34, 51);
   border-radius: 14px;
   overflow: hidden;
 }
@@ -93,7 +93,7 @@ body {
   align-items: center;
   gap: 10px;
   padding: 14px 14px;
-  border-bottom: 1px solid rgba(27, 34, 51, 0.95);
+  border-bottom: 1px solid rgb(27, 34, 51);
 }
 
 .legend {
@@ -108,8 +108,8 @@ body {
   border-radius: 999px;
   font-size: 11px;
   letter-spacing: 0.12em;
-  border: 1px solid rgba(27, 34, 51, 0.95);
-  background: rgba(6, 8, 12, 0.55);
+  border: 1px solid rgb(27, 34, 51);
+  background: rgb(6, 8, 12);
 }
 
 .pillGreen {
