@@ -116,15 +116,18 @@ def fetch_payload():
         },
     ]
 
-    try:
-        from scripts.insomnia_api_request import fetch_api_payload  # type: ignore
-    except ImportError:
+    if os.environ.get("USE_SAMPLE_DATA", "").strip() == "1":
         return sample
 
     try:
+        from insomnia_api_request import fetch_api_payload  # type: ignore
+    except ImportError as e:
+        raise RuntimeError("Could not import scripts/insomnia_api_request.py") from e
+
+    try:
         return fetch_api_payload()
-    except NotImplementedError:
-        return sample
+    except Exception as e:
+        raise RuntimeError(f"API fetch failed: {type(e).__name__}: {e}") from e
 
 
 def main():
@@ -134,9 +137,11 @@ def main():
 
     payload = fetch_payload()
     rows = _extract_rows(payload)
+    print(f"Fetched {len(rows)} raw rows")
 
     incidents = [_normalize_item(item, i) for i, item in enumerate(rows, start=1)]
     incidents.sort(key=lambda x: x.get("opened_at") or "9999-99-99T99:99:99Z")
+    print(f"Normalized {len(incidents)} incidents")
 
     incidents_path = os.path.join(docs_data_dir, "incidents.json")
     meta_path = os.path.join(docs_data_dir, "generated_at.json")

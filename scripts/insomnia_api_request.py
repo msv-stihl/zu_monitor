@@ -7,6 +7,9 @@ import requests
 def _read_payload() -> str:
     payload = os.environ.get("API_PAYLOAD")
     if payload and payload.strip():
+        payload = payload.strip()
+        if (payload.startswith('"') and payload.endswith('"')) or (payload.startswith("'") and payload.endswith("'")):
+            payload = payload[1:-1].strip()
         return payload
 
     repo_root = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
@@ -20,6 +23,9 @@ def _read_payload() -> str:
     payload = payload.strip()
     if not payload:
         raise RuntimeError("Missing API payload. Set API_PAYLOAD or fill scripts/request_payload.txt.")
+
+    if (payload.startswith('"') and payload.endswith('"')) or (payload.startswith("'") and payload.endswith("'")):
+        payload = payload[1:-1].strip()
 
     return payload
 

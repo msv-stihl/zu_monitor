@@ -70,6 +70,7 @@ They are already passed into the workflow environment (but your pasted Insomnia 
    - `pip install -r requirements.txt`
 2. Generate data:
    - `python scripts/build_data.py`
+   - (Optional) `USE_SAMPLE_DATA=1 python scripts/build_data.py` to force sample data
 3. Serve the site:
    - `python -m http.server --directory docs 8000`
 4. Open `http://localhost:8000`
