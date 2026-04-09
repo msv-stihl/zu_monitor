@@ -76,10 +76,11 @@ def _resolve_url() -> str:
     if full and full.strip():
         return full.strip()
 
-    base = os.environ.get("API_BASE_URL", "https://prisma4.manserv.com.br").strip()
-    if not base:
-        raise RuntimeError("Missing API_BASE_URL or API_URL.")
-    return f"{base.rstrip('/')}/Prisma4/api/Search/Data"
+    base = os.environ.get("API_BASE_URL")
+    if not base or not base.strip():
+        base = "https://prisma4.manserv.com.br"
+        
+    return f"{base.strip().rstrip('/')}/Prisma4/api/Search/Data"
 
 
 def fetch_api_payload():
