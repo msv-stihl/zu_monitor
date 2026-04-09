@@ -1,18 +1,6 @@
 {
   "incidents": [
     {
-      "id": "88235",
-      "name": "ZU - [FC]LIMPEZA - PISO",
-      "location": "RS-ST01-38",
-      "opened_at": "2026-04-09T14:14:31.457000Z"
-    },
-    {
-      "id": "88247",
-      "name": "ZU - [CG]RECOLHIMENTO RESÍDUOS",
-      "location": "RS-ST01-15",
-      "opened_at": "2026-04-09T16:44:12.950000Z"
-    },
-    {
       "id": "88248",
       "name": "ZU - [CG]LIMPEZA - PISO",
       "location": "RS-ST01-15",
