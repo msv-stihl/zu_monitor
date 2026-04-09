@@ -21,7 +21,7 @@ body {
 
 body {
   margin: 0;
-  background: radial-gradient(1200px 800px at 20% 0%, #0f1630 0%, var(--bg) 45%, #04060a 100%);
+  background: var(--bg);
   color: var(--text);
   font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
