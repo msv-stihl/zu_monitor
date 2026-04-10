@@ -48,7 +48,7 @@ body {
 
 .subtitle {
   margin-top: 8px;
-  color: var(--muted);
+  color: var(--text);
   letter-spacing: 0.08em;
   font-size: 12px;
 }
@@ -70,7 +70,7 @@ body {
 }
 
 .metaLabel {
-  color: var(--muted);
+  color: var(--text);
   font-size: 11px;
   letter-spacing: 0.12em;
 }
@@ -78,6 +78,7 @@ body {
 .metaValue {
   font-size: 12px;
   letter-spacing: 0.12em;
+  color: #ffffff; 
 }
 
 .panel {
@@ -157,7 +158,7 @@ body {
   padding: 14px 14px;
   font-size: 12px;
   letter-spacing: 0.16em;
-  color: var(--muted);
+  color: var(--text);
   background: rgba(6, 8, 12, 0.4);
   border-bottom: 1px solid rgba(27, 34, 51, 0.95);
   position: sticky;

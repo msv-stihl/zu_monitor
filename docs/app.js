@@ -26,12 +26,11 @@ function pad2(n) {
 
 function fmtOpened(d) {
   if (!d) return "—";
-  const yyyy = d.getFullYear();
   const mm = pad2(d.getMonth() + 1);
   const dd = pad2(d.getDate());
   const hh = pad2(d.getHours());
   const mi = pad2(d.getMinutes());
-  return `${yyyy}-${mm}-${dd} ${hh}:${mi}`;
+  return `${dd}/${mm} ${hh}:${mi}`;
 }
 
 function fmtDuration(secondsLeft) {
@@ -71,6 +70,9 @@ function buildRow(incident, now) {
   const tdLoc = document.createElement("td");
   tdLoc.textContent = incident.location ?? "—";
 
+  const tdTeam = document.createElement("td");
+  tdTeam.textContent = incident.team ?? "—";
+
   const tdOpened = document.createElement("td");
   tdOpened.textContent = fmtOpened(openedAt);
 
@@ -80,7 +82,7 @@ function buildRow(incident, now) {
   tdLeft.dataset.openedAt = openedAt ? openedAt.toISOString() : "";
   tdLeft.dataset.leftSeconds = String(secondsLeft);
 
-  tr.append(tdName, tdLoc, tdOpened, tdLeft);
+  tr.append(tdName, tdLoc, tdTeam, tdOpened, tdLeft);
   return tr;
 }
 

@@ -8,7 +8,7 @@ Static “airport board” website that lists incidents in the order they were o
 - Time left until 2 hours since opening
 - Row color by age: green (<30m), yellow (30–60m), red (>60m)
 
-The site lives in [docs/](file:///c:/Users/manserv/OneDrive%20-%20MANSERV/%C3%81rea%20de%20Trabalho/Projetos_Wesley/zu_monitor/docs) so it can be published with GitHub Pages. Incident data is stored in [docs/data/incidents.json](file:///c:/Users/manserv/OneDrive%20-%20MANSERV/%C3%81rea%20de%20Trabalho/Projetos_Wesley/zu_monitor/docs/data/incidents.json) and refreshed by GitHub Actions every 10 minutes.
+The site lives in [docs/](file:///c:/Users/manserv/OneDrive%20-%20MANSERV/%C3%81rea%20de%20Trabalho/Projetos_Wesley/zu_monitor/docs) so it can be published with GitHub Pages. Incident data is stored in [docs/data/incidents.json](file:///c:/Users/manserv/OneDrive%20-%20MANSERV/%C3%81rea%20de%20Trabalho/Projetos_Wesley/zu_monitor/docs/data/incidents.json) and refreshed on a schedule.
 
 ## Publish on GitHub Pages
 
@@ -20,13 +20,43 @@ The site lives in [docs/](file:///c:/Users/manserv/OneDrive%20-%20MANSERV/%C3%81
    - Folder: **/docs**
 4. Save. Your site URL will appear there.
 
-## Automated refresh (every 10 minutes)
+## Automated refresh (GitHub Actions)
 
 The workflow is in [.github/workflows/update-data.yml](file:///c:/Users/manserv/OneDrive%20-%20MANSERV/%C3%81rea%20de%20Trabalho/Projetos_Wesley/zu_monitor/.github/workflows/update-data.yml). It:
 
 1. Runs `python scripts/build_data.py`
 2. Writes updated JSON into `docs/data/`
 3. Commits and pushes changes (only when data changes)
+
+## Automated refresh (Google Apps Script)
+
+If GitHub’s scheduler is too inconsistent for your needs, you can run the same “fetch → normalize → update JSON” job from Google Apps Script (time-based trigger every 15 minutes) and push the updated JSON back into this repo via the GitHub API.
+
+Code to paste into Apps Script is in:
+
+- [apps-script/Code.gs](file:///c:/Users/manserv/OneDrive%20-%20MANSERV/%C3%81rea%20de%20Trabalho/Projetos_Wesley/zu_monitor/apps-script/Code.gs)
+
+### Setup
+
+1. Create a new Apps Script project (script.google.com).
+2. Paste the contents of [Code.gs](file:///c:/Users/manserv/OneDrive%20-%20MANSERV/%C3%81rea%20de%20Trabalho/Projetos_Wesley/zu_monitor/apps-script/Code.gs).
+3. In Apps Script: **Project Settings → Script Properties**, add:
+   - `API_URL` = `https://prisma4.manserv.com.br/Prisma4/api/Search/Data`
+   - `API_PAYLOAD` = your full urlencoded payload (same as Insomnia)
+   - `API_COOKIE` = your cookie string (if required)
+   - `PRISMA_REQUEST_VERIFICATION_TOKEN` (if required)
+   - `PRISMA_SIGNALR_ID_CONNECTION` (if required)
+   - `API_HEADERS_JSON` (optional JSON object string)
+   - `GITHUB_OWNER` = e.g. `msv-stihl`
+   - `GITHUB_REPO` = e.g. `zu_monitor`
+   - `GITHUB_BRANCH` = `main`
+   - `GITHUB_TOKEN` = a GitHub Personal Access Token with repo contents write access
+4. Run `updateIncidentData()` once manually to authorize.
+5. Create a trigger: **Triggers → Add Trigger**
+   - Function: `updateIncidentData`
+   - Event source: Time-driven
+   - Type: Minutes timer
+   - Every 15 minutes
 
 ## Connect your API request code (from Insomnia)
 
