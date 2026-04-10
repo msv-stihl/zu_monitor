@@ -42,7 +42,10 @@ Code to paste into Apps Script is in:
 2. Paste the contents of [Code.gs](file:///c:/Users/manserv/OneDrive%20-%20MANSERV/%C3%81rea%20de%20Trabalho/Projetos_Wesley/zu_monitor/apps-script/Code.gs).
 3. In Apps Script: **Project Settings → Script Properties**, add:
    - `API_URL` = `https://prisma4.manserv.com.br/Prisma4/api/Search/Data`
-   - `API_PAYLOAD` = your full urlencoded payload (same as Insomnia)
+   - `API_PAYLOAD` = your full urlencoded payload (same as Insomnia) (may be too large for Apps Script properties)
+   - If Apps Script won’t save it, use one of:
+     - `API_PAYLOAD_FILE_ID` = Google Drive file id of a text file containing the full payload
+     - `API_PAYLOAD_PART_1`, `API_PAYLOAD_PART_2`, ... = split payload into multiple parts and the script will concatenate
    - `API_COOKIE` = your cookie string (if required)
    - `PRISMA_REQUEST_VERIFICATION_TOKEN` (if required)
    - `PRISMA_SIGNALR_ID_CONNECTION` (if required)

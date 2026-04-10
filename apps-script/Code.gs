@@ -2,7 +2,7 @@ function updateIncidentData() {
   var props = PropertiesService.getScriptProperties();
 
   var apiUrl = _getProp_(props, "API_URL", true);
-  var apiPayload = _getProp_(props, "API_PAYLOAD", true);
+  var apiPayload = _getPayload_(props);
 
   var apiCookie = _getProp_(props, "API_COOKIE", false);
   var prismaToken = _getProp_(props, "PRISMA_REQUEST_VERIFICATION_TOKEN", false);
@@ -36,6 +36,30 @@ function _getProp_(props, key, required) {
     throw new Error("Missing script property: " + key);
   }
   return v;
+}
+
+function _getPayload_(props) {
+  var direct = _getProp_(props, "API_PAYLOAD", false);
+  if (direct) return direct;
+
+  var fileId = _getProp_(props, "API_PAYLOAD_FILE_ID", false);
+  if (fileId) {
+    try {
+      return DriveApp.getFileById(fileId).getBlob().getDataAsString("UTF-8").trim();
+    } catch (e) {
+      throw new Error("Failed to read API payload from Drive file id. Check API_PAYLOAD_FILE_ID. " + e);
+    }
+  }
+
+  var parts = [];
+  for (var i = 1; i <= 20; i++) {
+    var p = _getProp_(props, "API_PAYLOAD_PART_" + i, false);
+    if (!p) break;
+    parts.push(p);
+  }
+  if (parts.length) return parts.join("");
+
+  throw new Error("Missing API payload. Set API_PAYLOAD (small), or API_PAYLOAD_FILE_ID (recommended), or API_PAYLOAD_PART_1..n.");
 }
 
 function _fetchApiPayload_(url, payload, cookie, prismaToken, prismaSignal, extraHeadersJson) {
