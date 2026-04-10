@@ -1,12 +1,6 @@
 {
   "incidents": [
     {
-      "id": "88313",
-      "name": "ZU - HIDROSANITÁRIA - MANUTENÇÃO",
-      "location": "RS-ST01-28",
-      "opened_at": "2026-04-10T16:36:57.493000Z"
-    },
-    {
       "id": "88317",
       "name": "ZU - [CG]LIMPEZA - PISO",
       "location": "RS-ST01-50-00T-LAB03",
