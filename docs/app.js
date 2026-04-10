@@ -163,3 +163,6 @@ async function refresh() {
 
 refreshBtn.addEventListener("click", refresh);
 refresh();
+
+// Auto-refresh data every 60 seconds so the user never has to click the button
+setInterval(refresh, 60000);
