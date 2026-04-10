@@ -144,6 +144,7 @@ async function refresh() {
         id: x.id ?? "",
         name: x.name ?? "",
         location: x.location ?? "",
+        team: x.team ?? "",
         opened_at: x.opened_at ?? "",
       }))
       .sort((a, b) => {
