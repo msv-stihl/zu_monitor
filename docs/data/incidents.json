@@ -1,22 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "88290",
-      "name": "ZU - [FC]LIMPEZA - PISO",
-      "location": "RS-ST01-43",
-      "opened_at": "2026-04-10T11:29:42.747000Z"
-    },
-    {
-      "id": "88293",
-      "name": "ZU - [CG]RECOLHIMENTO RESÍDUOS",
-      "location": "RS-ST01-52",
-      "opened_at": "2026-04-10T11:59:15.683000Z"
-    },
-    {
-      "id": "88295",
-      "name": "ZU - DESENTUPIMENTO PIA",
-      "location": "RS-ST01-49-04P-WCF01-PIA01",
-      "opened_at": "2026-04-10T12:17:52.610000Z"
-    }
-  ]
+  "incidents": []
 }
