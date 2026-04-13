@@ -1,24 +1,10 @@
 {
   "incidents": [
     {
-      "id": "88348",
-      "name": "ZU - [CG]REPOSIÇÃO MATERIAL",
-      "location": "RS-ST01-03-00T-WCM01",
-      "opened_at": "2026-04-13T11:05:55.817Z",
-      "team": "LIMPEZA CONVENCIONAL"
-    },
-    {
-      "id": "88350",
+      "id": "88353",
       "name": "ZU - AR CONDICIONADO - NÃO RESFRIA",
-      "location": "RS-ST01-40-UTL-SUB00",
-      "opened_at": "2026-04-13T11:33:16.747Z",
-      "team": "REFRIGERAÇÃO"
-    },
-    {
-      "id": "88352",
-      "name": "ZU - AR CONDICIONADO - NÃO RESFRIA",
-      "location": "RS-ST01-31-01P-SLA11",
-      "opened_at": "2026-04-13T11:44:14.810Z",
+      "location": "PA-ST03",
+      "opened_at": "2026-04-13T12:08:26.337Z",
       "team": "REFRIGERAÇÃO"
     }
   ]
