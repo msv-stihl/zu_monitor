@@ -13,6 +13,13 @@
       "location": "RS-ST01-40-UTL-SUB00",
       "opened_at": "2026-04-13T11:33:16.747Z",
       "team": "REFRIGERAÇÃO"
+    },
+    {
+      "id": "88352",
+      "name": "ZU - AR CONDICIONADO - NÃO RESFRIA",
+      "location": "RS-ST01-31-01P-SLA11",
+      "opened_at": "2026-04-13T11:44:14.810Z",
+      "team": "REFRIGERAÇÃO"
     }
   ]
 }
