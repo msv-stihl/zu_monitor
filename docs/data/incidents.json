@@ -6,6 +6,13 @@
       "location": "PA-ST03",
       "opened_at": "2026-04-13T12:08:26.337Z",
       "team": "REFRIGERAÇÃO"
+    },
+    {
+      "id": "88355",
+      "name": "ZU - HIDROSANITÁRIA - VAZAMENTO",
+      "location": "RS-ST01-28-00T-WCF01",
+      "opened_at": "2026-04-13T12:38:17.687Z",
+      "team": "CIVIL"
     }
   ]
 }
