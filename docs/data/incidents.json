@@ -6,6 +6,13 @@
       "location": "RS-ST01-03-00T-WCM01",
       "opened_at": "2026-04-13T11:05:55.817Z",
       "team": "LIMPEZA CONVENCIONAL"
+    },
+    {
+      "id": "88350",
+      "name": "ZU - AR CONDICIONADO - NÃO RESFRIA",
+      "location": "RS-ST01-40-UTL-SUB00",
+      "opened_at": "2026-04-13T11:33:16.747Z",
+      "team": "REFRIGERAÇÃO"
     }
   ]
 }
