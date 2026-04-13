@@ -6,6 +6,13 @@
       "location": "PA-ST03",
       "opened_at": "2026-04-13T12:08:26.337Z",
       "team": "REFRIGERAÇÃO"
+    },
+    {
+      "id": "88364",
+      "name": "ZU - TOMADA - SEM ENERGIA",
+      "location": "RS-ST01-27-00T-SLA02",
+      "opened_at": "2026-04-13T13:38:59.733Z",
+      "team": "ELÉTRICA"
     }
   ]
 }
