@@ -1,13 +1,6 @@
 {
   "incidents": [
     {
-      "id": "88404",
-      "name": "ZU - DESENTUPIMENTO VASO",
-      "location": "RS-ST01-01-00T-WCM01",
-      "opened_at": "2026-04-14T12:46:45.860Z",
-      "team": "CIVIL"
-    },
-    {
       "id": "88412",
       "name": "ZU - [CG]REPOSIÇÃO MATERIAL",
       "location": "RS-ST01-38-00T-WCM01",
