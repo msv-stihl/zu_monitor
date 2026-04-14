@@ -1,11 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "88436",
-      "name": "ZU - AR CONDICIONADO - NÃO RESFRIA",
-      "location": "RS-ST01-50-UTL-SUB09",
-      "opened_at": "2026-04-14T19:03:20.213Z",
-      "team": "REFRIGERAÇÃO"
-    }
-  ]
+  "incidents": []
 }
