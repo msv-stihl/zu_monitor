@@ -6,6 +6,13 @@
       "location": "RS-ST01-43-02P-COP01-BBD006",
       "opened_at": "2026-04-14T16:39:33.777Z",
       "team": "REFRIGERAÇÃO"
+    },
+    {
+      "id": "88425",
+      "name": "ZU - DESENTUPIMENTO VASO",
+      "location": "RS-ST01-15-00T-WCM01-PNE01",
+      "opened_at": "2026-04-14T16:47:30.227Z",
+      "team": "CIVIL"
     }
   ]
 }
