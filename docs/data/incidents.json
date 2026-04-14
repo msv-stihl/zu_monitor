@@ -6,6 +6,27 @@
       "location": "RS-ST01-32-00T-WCM01",
       "opened_at": "2026-04-14T11:01:19.613Z",
       "team": "LIMPEZA CONVENCIONAL"
+    },
+    {
+      "id": "88387",
+      "name": "ZU - TOMADA - SEM ENERGIA",
+      "location": "RS-ST01-31",
+      "opened_at": "2026-04-14T11:22:08.070Z",
+      "team": "ELÉTRICA"
+    },
+    {
+      "id": "88389",
+      "name": "ZU - [CG]REPOSIÇÃO MATERIAL",
+      "location": "RS-ST01-15-00T-STR01",
+      "opened_at": "2026-04-14T11:28:43.207Z",
+      "team": "LIMPEZA CONVENCIONAL"
+    },
+    {
+      "id": "88390",
+      "name": "ZU - [CG]RECOLHIMENTO RESÍDUOS",
+      "location": "RS-ST01-43",
+      "opened_at": "2026-04-14T11:30:43.337Z",
+      "team": "LIMPEZA CONVENCIONAL"
     }
   ]
 }
