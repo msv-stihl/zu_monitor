@@ -20,6 +20,13 @@
       "location": "RS-ST01-31-00T-WCM02",
       "opened_at": "2026-04-15T13:14:04.370Z",
       "team": "CIVIL"
+    },
+    {
+      "id": "88459",
+      "name": "ZU - HIDROSANITÁRIA - VAZAMENTO",
+      "location": "RS-ST01-56",
+      "opened_at": "2026-04-15T13:34:59.997Z",
+      "team": "CIVIL"
     }
   ]
 }
