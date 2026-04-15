@@ -1,13 +1,6 @@
 {
   "incidents": [
     {
-      "id": "88477",
-      "name": "ZU - [CG]REPOSIÇÃO MATERIAL",
-      "location": "RS-ST01-31-00T-WCM01",
-      "opened_at": "2026-04-15T17:11:10.960Z",
-      "team": "LIMPEZA CONVENCIONAL"
-    },
-    {
       "id": "88478",
       "name": "ZU - HIDRÁULICA - TORNEIRA",
       "location": "RS-ST01-31-00T-WCM01",
