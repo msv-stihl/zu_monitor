@@ -13,6 +13,13 @@
       "location": "RS-ST01-50-00T-STR05",
       "opened_at": "2026-04-15T13:06:47.563Z",
       "team": "LIMPEZA CONVENCIONAL"
+    },
+    {
+      "id": "88457",
+      "name": "ZU - DESENTUPIMENTO VASO",
+      "location": "RS-ST01-31-00T-WCM02",
+      "opened_at": "2026-04-15T13:14:04.370Z",
+      "team": "CIVIL"
     }
   ]
 }
