@@ -6,6 +6,20 @@
       "location": "RS-ST01-50-00T-WCM02-MCT08",
       "opened_at": "2026-04-16T18:55:21.683Z",
       "team": "CIVIL"
+    },
+    {
+      "id": "88550",
+      "name": "ZU - TOMADA - MANUTENÇÃO",
+      "location": "RS-ST01-50-00T-STR03",
+      "opened_at": "2026-04-16T19:02:16.423Z",
+      "team": "ELÉTRICA"
+    },
+    {
+      "id": "88553",
+      "name": "ZU - [FC]LIMPEZA - PISO",
+      "location": "RS-ST01-42",
+      "opened_at": "2026-04-16T19:09:21.477Z",
+      "team": "LIMPEZA CONVENCIONAL"
     }
   ]
 }
