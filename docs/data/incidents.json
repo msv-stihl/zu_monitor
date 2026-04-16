@@ -1,32 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "88513",
-      "name": "ZU - [FC]LIMPEZA - PISO",
-      "location": "RS-ST01-11",
-      "opened_at": "2026-04-16T13:41:35.490Z",
-      "team": "LIMPEZA CONVENCIONAL"
-    },
-    {
-      "id": "88521",
-      "name": "ZU - [CG]REPOSIÇÃO MATERIAL",
-      "location": "RS-ST01-31-02P-WCM01",
-      "opened_at": "2026-04-16T14:29:29.913Z",
-      "team": "LIMPEZA CONVENCIONAL"
-    },
-    {
-      "id": "88530",
-      "name": "ZU - AR CONDICIONADO - NÃO LIGA",
-      "location": "RS-ST01-28-01P-SLA08-SPL018",
-      "opened_at": "2026-04-16T16:11:41.297Z",
-      "team": "REFRIGERAÇÃO"
-    },
-    {
-      "id": "88533",
-      "name": "ZU - TOMADA - SEM ENERGIA=",
-      "location": "RS-ST01-01-00T-STR02",
-      "opened_at": "2026-04-16T16:37:45.170Z",
-      "team": "ELÉTRICA"
-    }
-  ]
+  "incidents": []
 }
