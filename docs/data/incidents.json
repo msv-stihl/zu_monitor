@@ -1,13 +1,6 @@
 {
   "incidents": [
     {
-      "id": "88553",
-      "name": "ZU - [FC]LIMPEZA - PISO",
-      "location": "RS-ST01-42",
-      "opened_at": "2026-04-16T19:09:21.477Z",
-      "team": "LIMPEZA CONVENCIONAL"
-    },
-    {
       "id": "88557",
       "name": "ZU - [CG]REPOSIÇÃO MATERIAL",
       "location": "RS-ST01-52",
