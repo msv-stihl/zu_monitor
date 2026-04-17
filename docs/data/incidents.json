@@ -6,6 +6,13 @@
       "location": "RS-ST01-28-00T-SLA19",
       "opened_at": "2026-04-17T13:40:17.357Z",
       "team": "LIMPEZA CONVENCIONAL"
+    },
+    {
+      "id": "88590",
+      "name": "ZU - VAZAMENTO AR COMPRIMIDO=",
+      "location": "RS-ST01-50",
+      "opened_at": "2026-04-17T14:26:08.377Z",
+      "team": "UTILIDADES"
     }
   ]
 }
