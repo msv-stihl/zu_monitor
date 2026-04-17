@@ -1,11 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "88590",
-      "name": "ZU - VAZAMENTO AR COMPRIMIDO=",
-      "location": "RS-ST01-50",
-      "opened_at": "2026-04-17T14:26:08.377Z",
-      "team": "UTILIDADES"
-    }
-  ]
+  "incidents": []
 }
