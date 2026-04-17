@@ -20,6 +20,13 @@
       "location": "RS-ST01-27-00T-SLA23",
       "opened_at": "2026-04-17T12:41:58.220Z",
       "team": "ELÉTRICA"
+    },
+    {
+      "id": "88583",
+      "name": "ZU - AR CONDICIONADO - VAZAMENTO",
+      "location": "RS-ST01-37-00T-SLA01-SPL001",
+      "opened_at": "2026-04-17T13:10:29.690Z",
+      "team": "REFRIGERAÇÃO"
     }
   ]
 }
