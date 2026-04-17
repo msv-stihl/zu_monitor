@@ -6,6 +6,13 @@
       "location": "RS-ST01-52",
       "opened_at": "2026-04-16T19:39:37.810Z",
       "team": "LIMPEZA CONVENCIONAL"
+    },
+    {
+      "id": "88564",
+      "name": "ZU - FALTA DE ENERGIA - FÁBRICA",
+      "location": "RS-ST01-50",
+      "opened_at": "2026-04-17T10:49:54.543Z",
+      "team": "ELÉTRICA"
     }
   ]
 }
