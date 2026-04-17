@@ -1,20 +1,6 @@
 {
   "incidents": [
     {
-      "id": "88568",
-      "name": "ZU - [CG]REPOSIÇÃO MATERIAL",
-      "location": "RS-ST01-31-02P-WCM01",
-      "opened_at": "2026-04-17T11:49:24.163Z",
-      "team": "LIMPEZA CONVENCIONAL"
-    },
-    {
-      "id": "88569",
-      "name": "ZU - [CG]RECOLHIMENTO RESÍDUOS",
-      "location": "RS-ST01-28-00T-STR04",
-      "opened_at": "2026-04-17T11:52:53.617Z",
-      "team": "LIMPEZA CONVENCIONAL"
-    },
-    {
       "id": "88587",
       "name": "ZU - [CG]LIMPEZA - PISO",
       "location": "RS-ST01-28-00T-SLA19",
