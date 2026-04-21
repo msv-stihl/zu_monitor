@@ -34,6 +34,13 @@
       "location": "RS-ST01-50",
       "opened_at": "2026-04-21T12:13:33.750Z",
       "team": "LIMPEZA CONVENCIONAL"
+    },
+    {
+      "id": "88642",
+      "name": "ZU - POCETO - MANUTENÇÃO",
+      "location": "RS-ST01-16-UTL",
+      "opened_at": "2026-04-21T12:21:53.157Z",
+      "team": "UTILIDADES"
     }
   ]
 }
