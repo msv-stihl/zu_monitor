@@ -20,6 +20,13 @@
       "location": "RS-ST01-31",
       "opened_at": "2026-04-21T11:59:45.280Z",
       "team": "LIMPEZA CONVENCIONAL"
+    },
+    {
+      "id": "88640",
+      "name": "ZU - [CG]LIMPEZA - BANHEIRO",
+      "location": "RS-ST01-28-01P-WCM02",
+      "opened_at": "2026-04-21T12:03:26.683Z",
+      "team": "LIMPEZA CONVENCIONAL"
     }
   ]
 }
