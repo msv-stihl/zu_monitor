@@ -13,20 +13,6 @@
       "location": "RS-ST01-18-00T-WCM02",
       "opened_at": "2026-04-21T17:04:38.240Z",
       "team": "CIVIL"
-    },
-    {
-      "id": "88678",
-      "name": "ZU - DESENTUPIMENTO VASO",
-      "location": "RS-ST01-28-01P-WCM02-BOX02",
-      "opened_at": "2026-04-21T17:17:33.787Z",
-      "team": "CIVIL"
-    },
-    {
-      "id": "88679",
-      "name": "ZU - BEBEDOURO - MANUTENÇÃO",
-      "location": "RS-ST01-28-00T-STR03-BBD005",
-      "opened_at": "2026-04-21T17:17:59.937Z",
-      "team": "REFRIGERAÇÃO"
     }
   ]
 }
