@@ -13,6 +13,13 @@
       "location": "RS-ST01-31-00T-STR04",
       "opened_at": "2026-04-22T10:48:12.123Z",
       "team": "ELÉTRICA"
+    },
+    {
+      "id": "88731",
+      "name": "ZU - AR CONDICIONADO - RUÍDO",
+      "location": "RS-ST01-03",
+      "opened_at": "2026-04-22T10:54:51.297Z",
+      "team": "REFRIGERAÇÃO"
     }
   ]
 }
