@@ -6,6 +6,13 @@
       "location": "RS-ST01-15",
       "opened_at": "2026-04-22T16:27:55.317Z",
       "team": "ELÉTRICA"
+    },
+    {
+      "id": "88767",
+      "name": "ZU - EXTINTOR - LACRE ROMPIDO",
+      "location": "RS-ST01-50-00T-STR02",
+      "opened_at": "2026-04-22T16:40:35.033Z",
+      "team": "SPCI"
     }
   ]
 }
