@@ -6,6 +6,13 @@
       "location": "RS-ST01-43-00T-WCM03",
       "opened_at": "2026-04-22T11:38:11.720Z",
       "team": "CIVIL"
+    },
+    {
+      "id": "88736",
+      "name": "ZU - CTF - SECADOR DESLIGADO",
+      "location": "RS-ST01-11-UTL-ARC01-CTF001",
+      "opened_at": "2026-04-22T11:49:57.673Z",
+      "team": "UTILIDADES"
     }
   ]
 }
