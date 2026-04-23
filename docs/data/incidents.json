@@ -13,20 +13,6 @@
       "location": "RS-ST01-49-00T-WCM01-BOX02",
       "opened_at": "2026-04-23T16:35:00.273Z",
       "team": "CIVIL"
-    },
-    {
-      "id": "88815",
-      "name": "ZU - DESENTUPIMENTO MICTÓRIO",
-      "location": "RS-ST01-28-00T-WCM02",
-      "opened_at": "2026-04-23T16:35:05.137Z",
-      "team": "CIVIL"
-    },
-    {
-      "id": "88816",
-      "name": "ZU - CÂMARA FRIA - MANUTENÇÃO",
-      "location": "RS-ST01-27",
-      "opened_at": "2026-04-23T16:49:43.910Z",
-      "team": "REFRIGERAÇÃO"
     }
   ]
 }
