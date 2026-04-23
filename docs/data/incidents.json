@@ -6,6 +6,13 @@
       "location": "RS-ST01-49-00T-WCM01-BOX02",
       "opened_at": "2026-04-23T16:35:00.273Z",
       "team": "CIVIL"
+    },
+    {
+      "id": "88822",
+      "name": "ZU - FALTA DE ENERGIA - ADMINISTRATIVO",
+      "location": "RS-ST01-27-00T-SLA23",
+      "opened_at": "2026-04-23T18:04:56.180Z",
+      "team": "ELÉTRICA"
     }
   ]
 }
