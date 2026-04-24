@@ -1,11 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "88841",
-      "name": "ZU - AR CONDICIONADO - VAZAMENTO",
-      "location": "RS-ST01-28-00T-SLA09-SPL011",
-      "opened_at": "2026-04-24T12:38:24.330Z",
-      "team": "REFRIGERAÇÃO"
-    }
-  ]
+  "incidents": []
 }
