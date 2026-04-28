@@ -6,6 +6,20 @@
       "location": "RS-ST01-11-01P-WCM02",
       "opened_at": "2026-04-28T11:18:05.403Z",
       "team": "LIMPEZA CONVENCIONAL"
+    },
+    {
+      "id": "88942",
+      "name": "ZU - PORTA RÁPIDA - VERIFICAÇÃO",
+      "location": "RS-ST01-31-00T-AIN01-PRR011",
+      "opened_at": "2026-04-28T11:45:40.043Z",
+      "team": "ELÉTRICA"
+    },
+    {
+      "id": "88943",
+      "name": "ZU - [CG]LIMPEZA - BANHEIRO",
+      "location": "RS-ST01-32-00T-WCM01",
+      "opened_at": "2026-04-28T11:50:18.050Z",
+      "team": "LIMPEZA CONVENCIONAL"
     }
   ]
 }
