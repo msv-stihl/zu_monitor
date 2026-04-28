@@ -8,13 +8,6 @@
       "team": "LIMPEZA CONVENCIONAL"
     },
     {
-      "id": "88942",
-      "name": "ZU - PORTA RÁPIDA - VERIFICAÇÃO",
-      "location": "RS-ST01-31-00T-AIN01-PRR011",
-      "opened_at": "2026-04-28T11:45:40.043Z",
-      "team": "ELÉTRICA"
-    },
-    {
       "id": "88943",
       "name": "ZU - [CG]LIMPEZA - BANHEIRO",
       "location": "RS-ST01-32-00T-WCM01",
@@ -27,6 +20,13 @@
       "location": "RS-ST01-28-00T-STR05",
       "opened_at": "2026-04-28T11:57:44.873Z",
       "team": "UTILIDADES"
+    },
+    {
+      "id": "88946",
+      "name": "ZU - CÂMARA FRIA - MANUTENÇÃO",
+      "location": "RS-ST01-15",
+      "opened_at": "2026-04-28T12:07:42.497Z",
+      "team": "REFRIGERAÇÃO"
     }
   ]
 }
