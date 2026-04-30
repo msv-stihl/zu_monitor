@@ -6,20 +6,6 @@
       "location": "RS-ST01-31",
       "opened_at": "2026-04-29T19:40:01.987Z",
       "team": "LIMPEZA CONVENCIONAL"
-    },
-    {
-      "id": "89035",
-      "name": "ZU - HIDROSANITÁRIA - VAZAMENTO",
-      "location": "RS-ST01-31-00T-WCM02-MCT02",
-      "opened_at": "2026-04-30T10:52:03.797Z",
-      "team": "CIVIL"
-    },
-    {
-      "id": "89036",
-      "name": "ZU - FALTA DE ÁGUA",
-      "location": "RS-ST01-31-00T-WCF02",
-      "opened_at": "2026-04-30T10:52:04.753Z",
-      "team": "CIVIL"
     }
   ]
 }
