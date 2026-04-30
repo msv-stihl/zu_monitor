@@ -6,20 +6,6 @@
       "location": "RS-ST01-52-01P-WCM02-MCT01",
       "opened_at": "2026-04-30T17:25:13.720Z",
       "team": "CIVIL"
-    },
-    {
-      "id": "89065",
-      "name": "ZU - DESENTUPIMENTO VASO",
-      "location": "RS-ST01-52-00T-WCM01",
-      "opened_at": "2026-04-30T17:25:15.133Z",
-      "team": "CIVIL"
-    },
-    {
-      "id": "89067",
-      "name": "ZU - TESTE LCO",
-      "location": "RS-ST01-07-00T-SLA02",
-      "opened_at": "2026-04-30T17:29:56.017Z",
-      "team": "LIMPEZA CONVENCIONAL"
     }
   ]
 }
