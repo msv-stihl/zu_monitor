@@ -27,6 +27,13 @@
       "location": "RS-ST01-15",
       "opened_at": "2026-04-30T11:06:10.880Z",
       "team": "REFRIGERAÇÃO"
+    },
+    {
+      "id": "89042",
+      "name": "ZU - CANALETA - DESOBSTRUÇÃO",
+      "location": "RS-ST01-28-UTL",
+      "opened_at": "2026-04-30T11:21:27.973Z",
+      "team": "UTILIDADES"
     }
   ]
 }
