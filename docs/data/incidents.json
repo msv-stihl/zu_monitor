@@ -1,11 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "89055",
-      "name": "ZU - TESTE LCO",
-      "location": "RS-ST01-07-00T-SLA02",
-      "opened_at": "2026-04-30T13:23:07.053Z",
-      "team": "LIMPEZA CONVENCIONAL"
-    }
-  ]
+  "incidents": []
 }
