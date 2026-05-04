@@ -1,13 +1,6 @@
 {
   "incidents": [
     {
-      "id": "89708",
-      "name": "ZU - DESENTUPIMENTO VASO",
-      "location": "RS-ST01-49-00T-WCM01-BOX02",
-      "opened_at": "2026-05-04T12:56:50.743Z",
-      "team": "CIVIL"
-    },
-    {
       "id": "90886",
       "name": "ZU - BACIA DE CONTENÇÃO - VAZAMENTO",
       "location": "RS-ST01-28-UTL",
