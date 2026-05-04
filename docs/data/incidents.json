@@ -6,6 +6,20 @@
       "location": "RS-ST01-27",
       "opened_at": "2026-05-04T10:55:16.087Z",
       "team": "ELÉTRICA"
+    },
+    {
+      "id": "89693",
+      "name": "ZU - [CG]RECOLHIMENTO RESÍDUOS",
+      "location": "RS-ST01-31",
+      "opened_at": "2026-05-04T11:05:30.090Z",
+      "team": "LIMPEZA CONVENCIONAL"
+    },
+    {
+      "id": "89694",
+      "name": "ZU - HIDROSANITÁRIA - VAZAMENTO",
+      "location": "RS-ST01-16-00T-WCM01",
+      "opened_at": "2026-05-04T11:08:35.017Z",
+      "team": "CIVIL"
     }
   ]
 }
