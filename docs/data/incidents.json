@@ -1,13 +1,6 @@
 {
   "incidents": [
     {
-      "id": "90897",
-      "name": "ZU - [CG]RECOLHIMENTO RESÍDUOS",
-      "location": "RS-ST01-31",
-      "opened_at": "2026-05-04T18:03:39.617Z",
-      "team": "LIMPEZA CONVENCIONAL"
-    },
-    {
       "id": "90905",
       "name": "ZU - TANQUE - MANUTENÇÃO",
       "location": "RS-ST01-49-UTL-MTC01-TAN012",
