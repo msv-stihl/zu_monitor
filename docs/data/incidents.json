@@ -1,18 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "90886",
-      "name": "ZU - BACIA DE CONTENÇÃO - VAZAMENTO",
-      "location": "RS-ST01-28-UTL",
-      "opened_at": "2026-05-04T14:09:58.310Z",
-      "team": "UTILIDADES"
-    },
-    {
-      "id": "90888",
-      "name": "ZU - CURTO CIRCUITO",
-      "location": "RS-ST01-27",
-      "opened_at": "2026-05-04T15:38:34.007Z",
-      "team": "ELÉTRICA"
-    }
-  ]
+  "incidents": []
 }
