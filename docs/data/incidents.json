@@ -1,11 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "90911",
-      "name": "ZU - CORTINA DE AR - MANUTENÇÃO",
-      "location": "RS-ST01-56",
-      "opened_at": "2026-05-05T10:50:32.100Z",
-      "team": "REFRIGERAÇÃO"
-    }
-  ]
+  "incidents": []
 }
