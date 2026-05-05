@@ -13,6 +13,13 @@
       "location": "RS-ST01-38-00T-WCF01",
       "opened_at": "2026-05-05T16:37:29.393Z",
       "team": "CIVIL"
+    },
+    {
+      "id": "90944",
+      "name": "ZU - AR CONDICIONADO - NÃO RESFRIA",
+      "location": "RS-ST01-43-00T-SLA02-CSE007",
+      "opened_at": "2026-05-05T16:44:15.747Z",
+      "team": "REFRIGERAÇÃO"
     }
   ]
 }
