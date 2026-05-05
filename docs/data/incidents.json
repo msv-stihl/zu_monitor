@@ -6,6 +6,20 @@
       "location": "RS-ST01-50-00T-WCM02",
       "opened_at": "2026-05-05T12:17:54.883Z",
       "team": "LIMPEZA CONVENCIONAL"
+    },
+    {
+      "id": "90919",
+      "name": "ZU - HIDROSANITÁRIA - VAZAMENTO",
+      "location": "RS-ST01-01-00T-WCM01",
+      "opened_at": "2026-05-05T12:41:08.473Z",
+      "team": "CIVIL"
+    },
+    {
+      "id": "90924",
+      "name": "ZU - CURTO CIRCUITO",
+      "location": "RS-ST01-15",
+      "opened_at": "2026-05-05T12:44:56.320Z",
+      "team": "ELÉTRICA"
     }
   ]
 }
