@@ -6,6 +6,13 @@
       "location": "RS-ST01-31-00T-STR02",
       "opened_at": "2026-05-05T18:35:50.827Z",
       "team": "REFRIGERAÇÃO"
+    },
+    {
+      "id": "90970",
+      "name": "ZU - [CG]REPOSIÇÃO MATERIAL",
+      "location": "RS-ST01-50-01P-WCM01",
+      "opened_at": "2026-05-05T18:41:28.737Z",
+      "team": "LIMPEZA CONVENCIONAL"
     }
   ]
 }
