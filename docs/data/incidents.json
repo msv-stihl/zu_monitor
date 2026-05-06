@@ -8,11 +8,25 @@
       "team": "SPCI"
     },
     {
-      "id": "90993",
-      "name": "ZU - VAZAMENTO - AR COMPRIMIDO",
-      "location": "RS-ST01-43-UTL",
-      "opened_at": "2026-05-06T11:15:31.420Z",
-      "team": "UTILIDADES"
+      "id": "90994",
+      "name": "ZU - AR CONDICIONADO - NÃO LIGA",
+      "location": "RS-ST01-50-00T-SLA08-CSE009",
+      "opened_at": "2026-05-06T11:51:59.263Z",
+      "team": "REFRIGERAÇÃO"
+    },
+    {
+      "id": "90995",
+      "name": "ZU - BEBEDOURO - MANUTENÇÃO",
+      "location": "RS-ST01-01-00T-STR03-BBD003",
+      "opened_at": "2026-05-06T11:57:25.280Z",
+      "team": "REFRIGERAÇÃO"
+    },
+    {
+      "id": "90996",
+      "name": "ZU - [CG]RECOLHIMENTO RESÍDUOS",
+      "location": "RS-ST01-15",
+      "opened_at": "2026-05-06T12:00:28.577Z",
+      "team": "LIMPEZA CONVENCIONAL"
     }
   ]
 }
