@@ -1,13 +1,6 @@
 {
   "incidents": [
     {
-      "id": "91013",
-      "name": "ZU - [CG]RECOLHIMENTO RESÍDUOS",
-      "location": "RS-ST01-31-00T-STR08",
-      "opened_at": "2026-05-06T17:34:35.967Z",
-      "team": "LIMPEZA CONVENCIONAL"
-    },
-    {
       "id": "91029",
       "name": "ZU - VAZAMENTO - AR COMPRIMIDO",
       "location": "RS-ST01-43-UTL",
