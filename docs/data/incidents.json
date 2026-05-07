@@ -1,11 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "91097",
-      "name": "ZU - HIDRÁULICA - VAZAMENTO",
-      "location": "RS-ST01-27",
-      "opened_at": "2026-05-07T19:31:00.717Z",
-      "team": "CIVIL"
-    }
-  ]
+  "incidents": []
 }
