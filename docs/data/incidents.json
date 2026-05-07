@@ -13,6 +13,20 @@
       "location": "RS-ST01-20-00T-WCM01-MCT03",
       "opened_at": "2026-05-07T18:03:33.087Z",
       "team": "CIVIL"
+    },
+    {
+      "id": "91094",
+      "name": "ZU - TOMADA - SEM ENERGIA",
+      "location": "RS-ST01-15",
+      "opened_at": "2026-05-07T18:31:20.497Z",
+      "team": "ELÉTRICA"
+    },
+    {
+      "id": "91095",
+      "name": "ZU - BOMBA - MANUTENÇÃO",
+      "location": "RS-ST01-28-UTL",
+      "opened_at": "2026-05-07T18:38:24.467Z",
+      "team": "UTILIDADES"
     }
   ]
 }
