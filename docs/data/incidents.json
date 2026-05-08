@@ -13,6 +13,13 @@
       "location": "RS-ST01-01-00T-STR02",
       "opened_at": "2026-05-08T10:55:58.197Z",
       "team": "LIMPEZA CONVENCIONAL"
+    },
+    {
+      "id": "91107",
+      "name": "ZU - DESCARTE MATERIAL",
+      "location": "RS-ST01-15",
+      "opened_at": "2026-05-08T11:07:10.213Z",
+      "team": "CIVIL"
     }
   ]
 }
