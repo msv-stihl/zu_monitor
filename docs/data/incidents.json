@@ -1,18 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "91124",
-      "name": "ZU - FALTA DE ENERGIA - ADMINISTRATIVO",
-      "location": "RS-ST01-27",
-      "opened_at": "2026-05-08T11:59:08.130Z",
-      "team": "ELÉTRICA"
-    },
-    {
-      "id": "91131",
-      "name": "ZU - [CG]REPOSIÇÃO MATERIAL",
-      "location": "RS-ST01-16-00T-STR01-BBD001",
-      "opened_at": "2026-05-08T12:14:02.493Z",
-      "team": "LIMPEZA CONVENCIONAL"
-    }
-  ]
+  "incidents": []
 }
