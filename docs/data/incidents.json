@@ -1,20 +1,6 @@
 {
   "incidents": [
     {
-      "id": "91105",
-      "name": "ZU - [CG]RECOLHIMENTO RESÍDUOS",
-      "location": "RS-ST01-01-00T-STR02",
-      "opened_at": "2026-05-08T10:55:14.670Z",
-      "team": "LIMPEZA CONVENCIONAL"
-    },
-    {
-      "id": "91106",
-      "name": "ZU - [FC]LIMPEZA - PISO",
-      "location": "RS-ST01-01-00T-STR02",
-      "opened_at": "2026-05-08T10:55:58.197Z",
-      "team": "LIMPEZA CONVENCIONAL"
-    },
-    {
       "id": "91108",
       "name": "ZU - DESENTUPIMENTO VASO",
       "location": "RS-ST01-56-02P-WCM05",
@@ -27,13 +13,6 @@
       "location": "RS-ST01-56-01P-WCM04",
       "opened_at": "2026-05-08T11:14:11.577Z",
       "team": "CIVIL"
-    },
-    {
-      "id": "91110",
-      "name": "ZU - [CG]RECOLHIMENTO RESÍDUOS",
-      "location": "RS-ST01-31",
-      "opened_at": "2026-05-08T11:18:28.453Z",
-      "team": "LIMPEZA CONVENCIONAL"
     }
   ]
 }
