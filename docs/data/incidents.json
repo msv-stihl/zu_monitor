@@ -13,6 +13,13 @@
       "location": "RS-ST01-27-00T-SLA02",
       "opened_at": "2026-05-11T14:42:26.090Z",
       "team": "ELÉTRICA"
+    },
+    {
+      "id": "91295",
+      "name": "ZU - HIDROSANITÁRIA - VAZAMENTO",
+      "location": "RS-ST01-43-00T-WCF01",
+      "opened_at": "2026-05-11T15:41:57.780Z",
+      "team": "CIVIL"
     }
   ]
 }
