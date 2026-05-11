@@ -8,13 +8,6 @@
       "team": "CIVIL"
     },
     {
-      "id": "91279",
-      "name": "ZU - DESENTUPIMENTO MICTÓRIO",
-      "location": "RS-ST01-28-00T-WCM01-MCT03",
-      "opened_at": "2026-05-11T12:33:18.027Z",
-      "team": "CIVIL"
-    },
-    {
       "id": "91281",
       "name": "ZU - HIDROSANITÁRIA - VAZAMENTO",
       "location": "RS-ST01-50-01P-WCM01-BOX02",
@@ -24,7 +17,7 @@
     {
       "id": "91285",
       "name": "ZU - PORTA RÁPIDA - VERIFICAÇÃO",
-      "location": "RS-ST01-52-00T-AIN01-VHD001",
+      "location": "RS-ST01-52-00T-AIN01-PRR001",
       "opened_at": "2026-05-11T13:10:10.043Z",
       "team": "ELÉTRICA"
     }
