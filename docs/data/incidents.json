@@ -1,25 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "91256",
-      "name": "ZU - [CG]RECOLHIMENTO RESÍDUOS",
-      "location": "RS-ST01-31",
-      "opened_at": "2026-05-11T10:55:00.037Z",
-      "team": "LIMPEZA CONVENCIONAL"
-    },
-    {
-      "id": "91260",
-      "name": "ZU - [CG]REPOSIÇÃO MATERIAL",
-      "location": "RS-ST01-01-00T-STR02",
-      "opened_at": "2026-05-11T11:03:16.277Z",
-      "team": "LIMPEZA CONVENCIONAL"
-    },
-    {
-      "id": "91261",
-      "name": "ZU - [CG]REPOSIÇÃO MATERIAL",
-      "location": "RS-ST01-31-01P-SLA11",
-      "opened_at": "2026-05-11T11:06:57.663Z",
-      "team": "LIMPEZA CONVENCIONAL"
-    }
-  ]
+  "incidents": []
 }
