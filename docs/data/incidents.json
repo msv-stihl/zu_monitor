@@ -13,6 +13,13 @@
       "location": "RS-ST01-27-00T-SLA02",
       "opened_at": "2026-05-11T14:42:26.090Z",
       "team": "ELÉTRICA"
+    },
+    {
+      "id": "91296",
+      "name": "ZU - BEBEDOURO - MANUTENÇÃO",
+      "location": "RS-ST01-28-00T-STR06-BBD004",
+      "opened_at": "2026-05-11T16:35:27.940Z",
+      "team": "REFRIGERAÇÃO"
     }
   ]
 }
