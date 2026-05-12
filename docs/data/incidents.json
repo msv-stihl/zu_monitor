@@ -6,6 +6,20 @@
       "location": "RS-ST01-31-02P-WCM01-PIA01",
       "opened_at": "2026-05-12T11:05:36.927Z",
       "team": "CIVIL"
+    },
+    {
+      "id": "91560",
+      "name": "ZU - EXTINTOR - SUBSTITUIÇÃO",
+      "location": "RS-ST01-43-00T-AIN01-EXT119",
+      "opened_at": "2026-05-12T11:12:07.790Z",
+      "team": "SPCI"
+    },
+    {
+      "id": "91561",
+      "name": "ZU - [CG]RECOLHIMENTO DE RESÍDUOS",
+      "location": "RS-ST01-31-00T-SLA05",
+      "opened_at": "2026-05-12T11:19:04.083Z",
+      "team": "LIMPEZA CONVENCIONAL"
     }
   ]
 }
