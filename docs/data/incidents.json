@@ -13,6 +13,13 @@
       "location": "RS-ST01-31-00T-SLA05",
       "opened_at": "2026-05-12T11:19:04.083Z",
       "team": "LIMPEZA CONVENCIONAL"
+    },
+    {
+      "id": "91563",
+      "name": "ZU - FALTA DE ENERGIA - ADMINISTRATIVO",
+      "location": "RS-ST01-27-00T-AIN01",
+      "opened_at": "2026-05-12T12:03:26.617Z",
+      "team": "ELÉTRICA"
     }
   ]
 }
