@@ -1,18 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "91602",
-      "name": "ZU - BOMBA - MANUTENÇÃO",
-      "location": "RS-ST01-56-03P-AEX01",
-      "opened_at": "2026-05-13T13:44:46.343Z",
-      "team": "CIVIL"
-    },
-    {
-      "id": "91603",
-      "name": "ZU - FALTA DE ENERGIA",
-      "location": "RS-ST01-27-00T-SLA02",
-      "opened_at": "2026-05-13T13:47:47.137Z",
-      "team": "ELÉTRICA"
-    }
-  ]
+  "incidents": []
 }
