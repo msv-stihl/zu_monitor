@@ -1,13 +1,6 @@
 {
   "incidents": [
     {
-      "id": "91613",
-      "name": "ZU - SPRINKLER - MANUTENÇÃO",
-      "location": "RS-ST01-31-00T-SLA13",
-      "opened_at": "2026-05-14T10:44:16.020Z",
-      "team": "SPCI"
-    },
-    {
       "id": "91616",
       "name": "ZU - KIT DE EMERGÊNCIA - LACRE ROMPIDO",
       "location": "RS-ST01-31-00T-AIN01-KTE001",
