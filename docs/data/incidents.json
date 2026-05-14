@@ -1,13 +1,6 @@
 {
   "incidents": [
     {
-      "id": "91633",
-      "name": "ZU - DESENTUPIMENTO PIA",
-      "location": "RS-ST01-56-00T-WPF01",
-      "opened_at": "2026-05-14T17:43:00.630Z",
-      "team": "CIVIL"
-    },
-    {
       "id": "91635",
       "name": "ZU - ELEVADOR - MANUTENÇÃO",
       "location": "RS-ST01-49-00T-SLA02",
