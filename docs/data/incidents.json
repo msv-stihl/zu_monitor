@@ -1,13 +1,6 @@
 {
   "incidents": [
     {
-      "id": "91618",
-      "name": "ZU - HIDROSSANITÁRIA - MANUTENÇÃO",
-      "location": "RS-ST01-28-00T-WCF01",
-      "opened_at": "2026-05-14T11:50:23.923Z",
-      "team": "CIVIL"
-    },
-    {
       "id": "91628",
       "name": "ZU - CAIXA HIDRANTE - LACRE ROMPIDO",
       "location": "RS-ST01-50-00T-AIN01-CXH005",
