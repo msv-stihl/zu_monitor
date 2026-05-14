@@ -13,6 +13,13 @@
       "location": "RS-ST01-18-00T-WCM02-BOX01",
       "opened_at": "2026-05-14T11:40:47.347Z",
       "team": "CIVIL"
+    },
+    {
+      "id": "91618",
+      "name": "ZU - HIDROSSANITÁRIA - MANUTENÇÃO",
+      "location": "RS-ST01-28-00T-WCF01",
+      "opened_at": "2026-05-14T11:50:23.923Z",
+      "team": "CIVIL"
     }
   ]
 }
