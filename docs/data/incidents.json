@@ -1,20 +1,6 @@
 {
   "incidents": [
     {
-      "id": "91616",
-      "name": "ZU - KIT DE EMERGÊNCIA - LACRE ROMPIDO",
-      "location": "RS-ST01-31-00T-AIN01-KTE001",
-      "opened_at": "2026-05-14T11:17:07.640Z",
-      "team": "SPCI"
-    },
-    {
-      "id": "91617",
-      "name": "ZU - HIDROSSANITÁRIA VAZAMENTO",
-      "location": "RS-ST01-18-00T-WCM02-BOX01",
-      "opened_at": "2026-05-14T11:40:47.347Z",
-      "team": "CIVIL"
-    },
-    {
       "id": "91618",
       "name": "ZU - HIDROSSANITÁRIA - MANUTENÇÃO",
       "location": "RS-ST01-28-00T-WCF01",
