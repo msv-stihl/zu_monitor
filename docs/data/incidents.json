@@ -6,6 +6,13 @@
       "location": "RS-ST01-28-00T-WCF01",
       "opened_at": "2026-05-14T11:50:23.923Z",
       "team": "CIVIL"
+    },
+    {
+      "id": "91626",
+      "name": "ZU - APOIO - ELETRICISTA",
+      "location": "RS-ST01-43-02P-SLA08",
+      "opened_at": "2026-05-14T13:20:55.650Z",
+      "team": "ELÉTRICA"
     }
   ]
 }
