@@ -1,11 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "91749",
-      "name": "ZU - AR CONDICIONADO - VAZAMENTO",
-      "location": "RS-ST01-27-00T-SLA08-SPL009",
-      "opened_at": "2026-05-15T19:39:32.927Z",
-      "team": "CIVIL"
-    }
-  ]
+  "incidents": []
 }
