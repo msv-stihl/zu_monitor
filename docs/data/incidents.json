@@ -1,13 +1,6 @@
 {
   "incidents": [
     {
-      "id": "91732",
-      "name": "ZU - [CG]RECOLHIMENTO DE RESÍDUOS FÁBRICA",
-      "location": "RS-ST01-31-00T-STR08",
-      "opened_at": "2026-05-15T18:37:40.027Z",
-      "team": "LIMPEZA CONVENCIONAL"
-    },
-    {
       "id": "91733",
       "name": "ZU - [CG]LIMPEZA - PISO",
       "location": "RS-ST01-11-01P-SLA07",
