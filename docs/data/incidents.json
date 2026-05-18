@@ -8,24 +8,17 @@
       "team": "CIVIL"
     },
     {
-      "id": "91760",
-      "name": "ZU - DESENTUPIMENTO MICTÓRIO",
-      "location": "RS-ST01-28-01P-WCM01-MCT03",
-      "opened_at": "2026-05-18T11:26:30.400Z",
-      "team": "CIVIL"
-    },
-    {
-      "id": "91767",
-      "name": "ZU - [FC]LIMPEZA - PISO",
-      "location": "RS-ST01-43-01P-SLA07",
-      "opened_at": "2026-05-18T12:04:13.893Z",
-      "team": "LIMPEZA CONVENCIONAL"
-    },
-    {
       "id": "91768",
       "name": "ZU - EQUIPAMENTOS - MANUTENÇÃO",
       "location": "RS-ST01-50-00T-WCF02",
       "opened_at": "2026-05-18T12:10:10.903Z",
+      "team": "ELÉTRICA"
+    },
+    {
+      "id": "91769",
+      "name": "ZU - FALTA DE ENERGIA - FÁBRICA",
+      "location": "RS-ST01-50-00T-STR03",
+      "opened_at": "2026-05-18T12:16:13.443Z",
       "team": "ELÉTRICA"
     }
   ]
