@@ -1,13 +1,6 @@
 {
   "incidents": [
     {
-      "id": "91768",
-      "name": "ZU - EQUIPAMENTOS - MANUTENÇÃO",
-      "location": "RS-ST01-50-00T-WCF02",
-      "opened_at": "2026-05-18T12:10:10.903Z",
-      "team": "ELÉTRICA"
-    },
-    {
       "id": "91770",
       "name": "ZU - HIDROSANITÁRIA - VAZAMENTO",
       "location": "RS-ST01-38-00T-WCM01",
