@@ -6,6 +6,20 @@
       "location": "RS-ST01-56-00T-WPM01",
       "opened_at": "2026-05-19T17:57:45.897Z",
       "team": "CIVIL"
+    },
+    {
+      "id": "91816",
+      "name": "ZU - TOMADA - SEM ENERGIA",
+      "location": "RS-ST01-27-00T-SLA02",
+      "opened_at": "2026-05-19T18:02:43.220Z",
+      "team": "ELÉTRICA"
+    },
+    {
+      "id": "91817",
+      "name": "ZU - [CG]REPOSIÇÃO MATERIAL",
+      "location": "RS-ST01-16",
+      "opened_at": "2026-05-19T18:05:09.427Z",
+      "team": "LIMPEZA CONVENCIONAL"
     }
   ]
 }
