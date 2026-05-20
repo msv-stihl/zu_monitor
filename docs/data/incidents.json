@@ -1,13 +1,6 @@
 {
   "incidents": [
     {
-      "id": "91861",
-      "name": "ZU - [CG]RECOLHIMENTO DE RESÍDUOS FÁBRICA",
-      "location": "RS-ST01-31-00T-STR08",
-      "opened_at": "2026-05-20T17:56:22.913Z",
-      "team": "LIMPEZA CONVENCIONAL"
-    },
-    {
       "id": "91862",
       "name": "ZU - FALTA DE ÁGUA",
       "location": "RS-ST01-27-00T-SLA02",
@@ -20,6 +13,13 @@
       "location": "RS-ST01-50-00T-AIN01-CXH005",
       "opened_at": "2026-05-20T18:17:13.447Z",
       "team": "SPCI"
+    },
+    {
+      "id": "91864",
+      "name": "ZU - BEBEDOURO - MANUTENÇÃO",
+      "location": "RS-ST01-43-02P-COP02",
+      "opened_at": "2026-05-20T18:29:35.397Z",
+      "team": "REFRIGERAÇÃO"
     }
   ]
 }
