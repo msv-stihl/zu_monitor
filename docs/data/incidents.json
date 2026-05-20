@@ -1,18 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "91839",
-      "name": "ZU - POCETO - MANUTENÇÃO",
-      "location": "RS-ST01-31-UTL-EFL01",
-      "opened_at": "2026-05-20T10:54:58.000Z",
-      "team": "UTILIDADES"
-    },
-    {
-      "id": "91840",
-      "name": "ZU - [CG]RECOLHIMENTO DE RESÍDUOS SALA",
-      "location": "RS-ST01-31-01P-SLA25",
-      "opened_at": "2026-05-20T10:58:46.340Z",
-      "team": "LIMPEZA CONVENCIONAL"
-    }
-  ]
+  "incidents": []
 }
