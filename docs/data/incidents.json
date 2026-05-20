@@ -1,11 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "91864",
-      "name": "ZU - BEBEDOURO - MANUTENÇÃO",
-      "location": "RS-ST01-43-02P-COP02",
-      "opened_at": "2026-05-20T18:29:35.397Z",
-      "team": "REFRIGERAÇÃO"
-    }
-  ]
+  "incidents": []
 }
