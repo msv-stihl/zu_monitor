@@ -1,13 +1,6 @@
 {
   "incidents": [
     {
-      "id": "91862",
-      "name": "ZU - FALTA DE ÁGUA",
-      "location": "RS-ST01-27-00T-SLA02",
-      "opened_at": "2026-05-20T18:03:18.393Z",
-      "team": "CIVIL"
-    },
-    {
       "id": "91863",
       "name": "ZU - CAIXA HIDRANTE - LACRE ROMPIDO",
       "location": "RS-ST01-50-00T-AIN01-CXH005",
