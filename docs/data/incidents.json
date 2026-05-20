@@ -1,11 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "91875",
-      "name": "ZU - CURTO CIRCUITO",
-      "location": "RS-ST01-43",
-      "opened_at": "2026-05-20T19:59:51.530Z",
-      "team": "ELÉTRICA"
-    }
-  ]
+  "incidents": []
 }
