@@ -1,11 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "91892",
-      "name": "ZU - SPRINKLER - VAZAMENTO",
-      "location": "RS-ST01-28-00T-AIN01-EST004",
-      "opened_at": "2026-05-21T13:18:46.000Z",
-      "team": "SPCI"
-    }
-  ]
+  "incidents": []
 }
