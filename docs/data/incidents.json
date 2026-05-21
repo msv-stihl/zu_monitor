@@ -1,11 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "91878",
-      "name": "ZU - TORRE RESFRIAMENTO - MANUTENÇÃO",
-      "location": "RS-ST01-22-UTL-RES01-TRR001",
-      "opened_at": "2026-05-21T11:22:59.717Z",
-      "team": "UTILIDADES"
-    }
-  ]
+  "incidents": []
 }
