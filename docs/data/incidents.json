@@ -1,13 +1,6 @@
 {
   "incidents": [
     {
-      "id": "91891",
-      "name": "ZU - [CG]RECOLHIMENTO DE RESÍDUOS FÁBRICA",
-      "location": "RS-ST01-31-01S-STR01",
-      "opened_at": "2026-05-21T13:07:34.477Z",
-      "team": ""
-    },
-    {
       "id": "91892",
       "name": "ZU - SPRINKLER - VAZAMENTO",
       "location": "RS-ST01-28-00T-AIN01-EST004",
