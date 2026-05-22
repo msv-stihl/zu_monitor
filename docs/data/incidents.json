@@ -6,6 +6,13 @@
       "location": "RS-ST01-27",
       "opened_at": "2026-05-22T16:38:27.803Z",
       "team": "REFRIGERAÇÃO"
+    },
+    {
+      "id": "91935",
+      "name": "ZU - CALHA - MANUTENÇÃO",
+      "location": "RS-ST01-28-00T-SLA13",
+      "opened_at": "2026-05-22T16:47:19.727Z",
+      "team": "CIVIL"
     }
   ]
 }
