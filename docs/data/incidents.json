@@ -8,18 +8,18 @@
       "team": "CIVIL"
     },
     {
-      "id": "91986",
-      "name": "ZU - HIDROSANITÁRIA - VAZAMENTO",
-      "location": "RS-ST01-28-00T-WCF01-BOX02",
-      "opened_at": "2026-05-25T12:56:02.670Z",
-      "team": "CIVIL"
-    },
-    {
       "id": "91987",
       "name": "ZU - VAZAMENTO DE ÁGUA",
       "location": "RS-ST01-27",
       "opened_at": "2026-05-25T13:04:42.373Z",
       "team": "CIVIL"
+    },
+    {
+      "id": "91988",
+      "name": "ZU - BEBEDOURO - MANUTENÇÃO",
+      "location": "RS-ST01-50-00T-STR02-BBD009",
+      "opened_at": "2026-05-25T13:14:24.690Z",
+      "team": "REFRIGERAÇÃO"
     }
   ]
 }
