@@ -6,27 +6,6 @@
       "location": "RS-ST01-27",
       "opened_at": "2026-05-25T13:04:42.373Z",
       "team": "CIVIL"
-    },
-    {
-      "id": "91988",
-      "name": "ZU - BEBEDOURO - MANUTENÇÃO",
-      "location": "RS-ST01-50-00T-STR02-BBD009",
-      "opened_at": "2026-05-25T13:14:24.690Z",
-      "team": "REFRIGERAÇÃO"
-    },
-    {
-      "id": "91990",
-      "name": "ZU - HIDROSANITÁRIA - VAZAMENTO",
-      "location": "RS-ST01-56-00T-WCF01",
-      "opened_at": "2026-05-25T13:27:40.253Z",
-      "team": "CIVIL"
-    },
-    {
-      "id": "91992",
-      "name": "ZU - [CG]RECOLHIMENTO RESÍDUOS",
-      "location": "RS-ST01-31-00T-SLA17",
-      "opened_at": "2026-05-25T13:37:19.277Z",
-      "team": "LIMPEZA CONVENCIONAL"
     }
   ]
 }
