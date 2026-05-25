@@ -1,13 +1,6 @@
 {
   "incidents": [
     {
-      "id": "91987",
-      "name": "ZU - VAZAMENTO DE ÁGUA",
-      "location": "RS-ST01-27",
-      "opened_at": "2026-05-25T13:04:42.373Z",
-      "team": "CIVIL"
-    },
-    {
       "id": "91998",
       "name": "ZU - CURTO CIRCUITO",
       "location": "RS-ST01-27",
