@@ -20,6 +20,13 @@
       "location": "RS-ST01-50-00T-STR02-BBD009",
       "opened_at": "2026-05-25T13:14:24.690Z",
       "team": "REFRIGERAÇÃO"
+    },
+    {
+      "id": "91990",
+      "name": "ZU - HIDROSANITÁRIA - VAZAMENTO",
+      "location": "RS-ST01-56-00T-WCF01",
+      "opened_at": "2026-05-25T13:27:40.253Z",
+      "team": "CIVIL"
     }
   ]
 }
