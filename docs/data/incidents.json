@@ -6,6 +6,13 @@
       "location": "RS-ST01-27",
       "opened_at": "2026-05-25T14:28:38.843Z",
       "team": "ELÉTRICA"
+    },
+    {
+      "id": "92002",
+      "name": "ZU - [CG]RECOLHIMENTO RESÍDUOS",
+      "location": "RS-ST01-31-00T-STR02",
+      "opened_at": "2026-05-25T14:42:04.527Z",
+      "team": "LIMPEZA CONVENCIONAL"
     }
   ]
 }
