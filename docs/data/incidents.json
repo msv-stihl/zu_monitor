@@ -1,11 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "92029",
-      "name": "ZU - KIT DE EMERGÊNCIA - LACRE ROMPIDO",
-      "location": "RS-ST01-32-00T-AIN01-KTE002",
-      "opened_at": "2026-05-26T11:27:45.130Z",
-      "team": "SPCI"
-    }
-  ]
+  "incidents": []
 }
