@@ -6,6 +6,20 @@
       "location": "RS-ST01-28-UTL-EFL01-PCT001",
       "opened_at": "2026-05-26T10:58:05.003Z",
       "team": "UTILIDADES"
+    },
+    {
+      "id": "92028",
+      "name": "ZU - KIT DE EMERGÊNCIA - LACRE ROMPIDO",
+      "location": "RS-ST01-32-00T-AIN01-KTE001",
+      "opened_at": "2026-05-26T11:21:52.440Z",
+      "team": "SPCI"
+    },
+    {
+      "id": "92029",
+      "name": "ZU - KIT DE EMERGÊNCIA - LACRE ROMPIDO",
+      "location": "RS-ST01-32-00T-AIN01-KTE002",
+      "opened_at": "2026-05-26T11:27:45.130Z",
+      "team": "SPCI"
     }
   ]
 }
