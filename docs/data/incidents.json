@@ -1,25 +1,11 @@
 {
   "incidents": [
     {
-      "id": "92028",
-      "name": "ZU - KIT DE EMERGÊNCIA - LACRE ROMPIDO",
-      "location": "RS-ST01-32-00T-AIN01-KTE001",
-      "opened_at": "2026-05-26T11:21:52.440Z",
-      "team": "SPCI"
-    },
-    {
       "id": "92029",
       "name": "ZU - KIT DE EMERGÊNCIA - LACRE ROMPIDO",
       "location": "RS-ST01-32-00T-AIN01-KTE002",
       "opened_at": "2026-05-26T11:27:45.130Z",
       "team": "SPCI"
-    },
-    {
-      "id": "92030",
-      "name": "ZU - POCETO - MANUTENÇÃO",
-      "location": "RS-ST01-28-UTL-EFL01-PCT003",
-      "opened_at": "2026-05-26T11:32:08.797Z",
-      "team": "UTILIDADES"
     }
   ]
 }
