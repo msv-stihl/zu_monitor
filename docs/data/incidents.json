@@ -8,17 +8,10 @@
       "team": "CIVIL"
     },
     {
-      "id": "92073",
+      "id": "92078",
       "name": "ZU - POCETO - MANUTENÇÃO",
-      "location": "RS-ST01-28-UTL-EFL01-PCT001",
-      "opened_at": "2026-05-27T10:43:30.207Z",
-      "team": "UTILIDADES"
-    },
-    {
-      "id": "92074",
-      "name": "ZU - POCETO - MANUTENÇÃO",
-      "location": "RS-ST01-11-UTL-EFL01-PCT003",
-      "opened_at": "2026-05-27T10:46:12.383Z",
+      "location": "RS-ST01-16-UTL-EFL01-PCT006",
+      "opened_at": "2026-05-27T11:08:27.177Z",
       "team": "UTILIDADES"
     }
   ]
