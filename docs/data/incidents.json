@@ -6,6 +6,27 @@
       "location": "RS-ST01-28-00T-SLA12",
       "opened_at": "2026-05-26T17:31:22.563Z",
       "team": "CIVIL"
+    },
+    {
+      "id": "92073",
+      "name": "ZU - POCETO - MANUTENÇÃO",
+      "location": "RS-ST01-28-UTL-EFL01-PCT001",
+      "opened_at": "2026-05-27T10:43:30.207Z",
+      "team": "UTILIDADES"
+    },
+    {
+      "id": "92072",
+      "name": "ZU - BEBEDOURO - MANUTENÇÃO",
+      "location": "RS-ST01-11-01P-SLA03-BBD005",
+      "opened_at": "2026-05-27T10:45:06.290Z",
+      "team": "REFRIGERAÇÃO"
+    },
+    {
+      "id": "92074",
+      "name": "ZU - POCETO - MANUTENÇÃO",
+      "location": "RS-ST01-11-UTL-EFL01-PCT003",
+      "opened_at": "2026-05-27T10:46:12.383Z",
+      "team": "UTILIDADES"
     }
   ]
 }
