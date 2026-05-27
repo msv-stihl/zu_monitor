@@ -6,13 +6,6 @@
       "location": "RS-ST01-28-00T-SLA12",
       "opened_at": "2026-05-26T17:31:22.563Z",
       "team": "CIVIL"
-    },
-    {
-      "id": "92123",
-      "name": "ZU - BEBEDOURO - MANUTENÇÃO",
-      "location": "RS-ST01-43-00T-STR02-BBD002",
-      "opened_at": "2026-05-27T18:46:13.373Z",
-      "team": "REFRIGERAÇÃO"
     }
   ]
 }
