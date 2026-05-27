@@ -6,20 +6,6 @@
       "location": "RS-ST01-28-00T-SLA12",
       "opened_at": "2026-05-26T17:31:22.563Z",
       "team": "CIVIL"
-    },
-    {
-      "id": "92116",
-      "name": "ZU - LIMPEZA - PISO",
-      "location": "RS-ST01-50-00T-WCM01",
-      "opened_at": "2026-05-27T18:07:03.243Z",
-      "team": "LIMPEZA CONVENCIONAL"
-    },
-    {
-      "id": "92118",
-      "name": "ZU - LIMPEZA - BANHEIRO",
-      "location": "RS-ST01-31-01P-WCM01-PNE01",
-      "opened_at": "2026-05-27T18:10:32.693Z",
-      "team": "LIMPEZA CONVENCIONAL"
     }
   ]
 }
