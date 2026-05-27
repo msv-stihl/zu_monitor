@@ -13,6 +13,13 @@
       "location": "RS-ST01-11-01P-SLA04",
       "opened_at": "2026-05-27T11:35:55.813Z",
       "team": "REFRIGERAÇÃO"
+    },
+    {
+      "id": "92084",
+      "name": "ZU - BEBEDOURO - MANUTENÇÃO",
+      "location": "RS-ST01-28-00T-STR03-BBD001",
+      "opened_at": "2026-05-27T11:50:13.443Z",
+      "team": "REFRIGERAÇÃO"
     }
   ]
 }
