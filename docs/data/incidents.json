@@ -6,13 +6,6 @@
       "location": "RS-ST01-01-00T-SLA13",
       "opened_at": "2026-05-28T13:56:41.543Z",
       "team": "LIMPEZA CONVENCIONAL"
-    },
-    {
-      "id": "92145",
-      "name": "ZU - PORTA RÁPIDA - VERIFICAÇÃO",
-      "location": "RS-ST01-31-00T-AIN01-PRR010",
-      "opened_at": "2026-05-28T14:06:18.567Z",
-      "team": "ELÉTRICA"
     }
   ]
 }
