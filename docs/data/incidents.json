@@ -1,11 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "92061",
-      "name": "ZU - MANUTENÇÃO FORRO",
-      "location": "RS-ST01-28-00T-SLA12",
-      "opened_at": "2026-05-26T17:31:22.563Z",
-      "team": "CIVIL"
-    }
-  ]
+  "incidents": []
 }
