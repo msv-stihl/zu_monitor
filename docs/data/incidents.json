@@ -1,11 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "92144",
-      "name": "ZU - [FG]LIMPEZA - SALA",
-      "location": "RS-ST01-01-00T-SLA13",
-      "opened_at": "2026-05-28T13:56:41.543Z",
-      "team": "LIMPEZA CONVENCIONAL"
-    }
-  ]
+  "incidents": []
 }
