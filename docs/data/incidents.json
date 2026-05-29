@@ -6,13 +6,6 @@
       "location": "RS-ST01-32-00T-SLA01",
       "opened_at": "2026-05-29T11:40:02.967Z",
       "team": "LIMPEZA CONVENCIONAL"
-    },
-    {
-      "id": "92179",
-      "name": "ZU - HIDRÁULICA - VAZAMENTO",
-      "location": "RS-ST01-56-00T-WPU01",
-      "opened_at": "2026-05-29T11:47:25.523Z",
-      "team": "CIVIL"
     }
   ]
 }
