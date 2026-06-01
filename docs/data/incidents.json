@@ -1,13 +1,6 @@
 {
   "incidents": [
     {
-      "id": "92963",
-      "name": "ZU - TUBULAÇÃO AR COMPRIMIDO - MANUTENÇÃO",
-      "location": "RS-ST01-50-UTL",
-      "opened_at": "2026-06-01T12:05:38.597Z",
-      "team": "UTILIDADES"
-    },
-    {
       "id": "92964",
       "name": "ZU - HIDROSANITÁRIA - VAZAMENTO",
       "location": "RS-ST01-31",
