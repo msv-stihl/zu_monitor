@@ -1,11 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "92943",
-      "name": "ZU - DESENTUPIMENTO MICTÓRIO",
-      "location": "RS-ST01-11-00T-WCM01-MCT01",
-      "opened_at": "2026-06-01T10:54:14.150Z",
-      "team": "CIVIL"
-    }
-  ]
+  "incidents": []
 }
