@@ -1,11 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "92973",
-      "name": " ZU - MANUTENÇÃO FECHADURA",
-      "location": "RS-ST01-28-01P-WCF02",
-      "opened_at": "2026-06-01T13:34:39.973Z",
-      "team": "CIVIL"
-    }
-  ]
+  "incidents": []
 }
