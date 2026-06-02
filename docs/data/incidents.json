@@ -1,13 +1,6 @@
 {
   "incidents": [
     {
-      "id": "94143",
-      "name": "ZU - FALTA DE ÁGUA",
-      "location": "RS-ST01-16-00T-WCM01-MCT04",
-      "opened_at": "2026-06-02T13:23:13.213Z",
-      "team": "CIVIL"
-    },
-    {
       "id": "94149",
       "name": "ZU - COMPRESSOR - MANUTENÇÃO",
       "location": "RS-ST01-35-UTL",
