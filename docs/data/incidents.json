@@ -1,25 +1,11 @@
 {
   "incidents": [
     {
-      "id": "94177",
-      "name": "ZU - HIDROSSANITÁRIA - MANUTENÇÃO",
-      "location": "RS-ST01-28-00T-WCM02",
-      "opened_at": "2026-06-02T17:01:27.567Z",
+      "id": "94195",
+      "name": "ZU - VAZAMENTO DE ÁGUA",
+      "location": "RS-ST01-16-00T-SLA01",
+      "opened_at": "2026-06-02T18:23:42.390Z",
       "team": "CIVIL"
-    },
-    {
-      "id": "94187",
-      "name": "ZU - [FC]RECOLHIMENTO RESÍDUOS FÁBRICA",
-      "location": "RS-ST01-31-00T-STR08",
-      "opened_at": "2026-06-02T17:43:29.290Z",
-      "team": "LIMPEZA CONVENCIONAL"
-    },
-    {
-      "id": "94191",
-      "name": "ZU - FALTA DE ENERGIA - ADMINISTRATIVO",
-      "location": "RS-ST01-31-00T-ESD01",
-      "opened_at": "2026-06-02T18:04:39.917Z",
-      "team": "ELÉTRICA"
     }
   ]
 }
