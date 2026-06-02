@@ -6,6 +6,13 @@
       "location": "RS-ST01-28-00T-WCM02",
       "opened_at": "2026-06-02T17:01:27.567Z",
       "team": "CIVIL"
+    },
+    {
+      "id": "94182",
+      "name": "ZU - DESENTUPIMENTO MICTÓRIO",
+      "location": "RS-ST01-28-01P-WCM01-MCT03",
+      "opened_at": "2026-06-02T17:20:37.347Z",
+      "team": "CIVIL"
     }
   ]
 }
