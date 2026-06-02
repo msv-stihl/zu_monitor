@@ -15,10 +15,17 @@
       "team": "CIVIL"
     },
     {
-      "id": "94138",
-      "name": "ZU - FALTA DE ÁGUA",
-      "location": "RS-ST01-27-00T-WCM02-MCT01",
-      "opened_at": "2026-06-02T13:04:49.053Z",
+      "id": "94140",
+      "name": "ZU - DESENTUPIMENTO VASO",
+      "location": "RS-ST01-27-00T-WCM02-BOX01",
+      "opened_at": "2026-06-02T13:12:14.223Z",
+      "team": "CIVIL"
+    },
+    {
+      "id": "94142",
+      "name": "ZU - DESENTUPIMENTO VASO",
+      "location": "RS-ST01-16-00T-WCM01-BOX01",
+      "opened_at": "2026-06-02T13:18:21.683Z",
       "team": "CIVIL"
     }
   ]
