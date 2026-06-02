@@ -1,11 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "94208",
-      "name": "ZU - PORTA RÁPIDA - VERIFICAÇÃO",
-      "location": "RS-ST01-31-00T-AIN01-PRR008",
-      "opened_at": "2026-06-02T19:26:31.353Z",
-      "team": "ELÉTRICA"
-    }
-  ]
+  "incidents": []
 }
