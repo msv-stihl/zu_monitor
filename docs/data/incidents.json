@@ -1,13 +1,6 @@
 {
   "incidents": [
     {
-      "id": "94215",
-      "name": "ZU - [CG]REPOSIÇÃO MATERIAL",
-      "location": "RS-ST01-31-02P-SLA08",
-      "opened_at": "2026-06-03T11:23:11.623Z",
-      "team": "LIMPEZA CONVENCIONAL"
-    },
-    {
       "id": "94221",
       "name": "ZU - FALTA DE ENERGIA - ADMINISTRATIVO",
       "location": "RS-ST01-27",
@@ -19,6 +12,13 @@
       "name": "ZU - DESENTUPIMENTO VASO",
       "location": "RS-ST01-50-00T-WCM01-BOX04",
       "opened_at": "2026-06-03T12:10:37.803Z",
+      "team": "CIVIL"
+    },
+    {
+      "id": "94224",
+      "name": "ZU - DESENTUPIMENTO VASO",
+      "location": "RS-ST01-27-00T-WCM02-BOX06",
+      "opened_at": "2026-06-03T12:26:22.147Z",
       "team": "CIVIL"
     }
   ]
