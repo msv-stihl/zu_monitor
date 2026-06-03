@@ -6,6 +6,20 @@
       "location": "RS-ST01-31-02P-SLA08",
       "opened_at": "2026-06-03T11:23:11.623Z",
       "team": "LIMPEZA CONVENCIONAL"
+    },
+    {
+      "id": "94217",
+      "name": "ZU - [CG]REPOSIÇÃO MATERIAL",
+      "location": "RS-ST01-11-01P-WCM02",
+      "opened_at": "2026-06-03T11:31:55.613Z",
+      "team": "LIMPEZA CONVENCIONAL"
+    },
+    {
+      "id": "94218",
+      "name": "ZU - PORTA RÁPIDA - VERIFICAÇÃO",
+      "location": "RS-ST01-01-00T-AIN01-PRR002",
+      "opened_at": "2026-06-03T11:38:11.480Z",
+      "team": "ELÉTRICA"
     }
   ]
 }
