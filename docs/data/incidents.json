@@ -27,6 +27,13 @@
       "location": "RS-ST01-27",
       "opened_at": "2026-06-03T11:59:57.407Z",
       "team": "ELÉTRICA"
+    },
+    {
+      "id": "94222",
+      "name": "ZU - DESENTUPIMENTO VASO",
+      "location": "RS-ST01-50-00T-WCM01-BOX04",
+      "opened_at": "2026-06-03T12:10:37.803Z",
+      "team": "CIVIL"
     }
   ]
 }
