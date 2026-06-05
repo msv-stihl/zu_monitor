@@ -1,25 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "94295",
-      "name": "ZU - [FC]RECOLHIMENTO RESÍDUOS FÁBRICA",
-      "location": "RS-ST01-31-01S-STR01",
-      "opened_at": "2026-06-05T16:38:56.183Z",
-      "team": "LIMPEZA CONVENCIONAL"
-    },
-    {
-      "id": "94296",
-      "name": "ZU - [FC]REPOSIÇÃO MATERIAL",
-      "location": "RS-ST01-31-01S-STR01",
-      "opened_at": "2026-06-05T16:46:49.137Z",
-      "team": "LIMPEZA CONVENCIONAL"
-    },
-    {
-      "id": "94304",
-      "name": "ZU - BEBEDOURO - MANUTENÇÃO",
-      "location": "RS-ST01-27",
-      "opened_at": "2026-06-05T17:57:20.653Z",
-      "team": "REFRIGERAÇÃO"
-    }
-  ]
+  "incidents": []
 }
