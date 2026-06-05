@@ -6,6 +6,13 @@
       "location": "RS-ST01-56",
       "opened_at": "2026-06-05T11:09:00.693Z",
       "team": "CIVIL"
+    },
+    {
+      "id": "94261",
+      "name": "ZU - [FC]RECOLHIMENTO RESÍDUOS SALA",
+      "location": "RS-ST01-52-00T-SLA02",
+      "opened_at": "2026-06-05T11:19:09.980Z",
+      "team": "LIMPEZA CONVENCIONAL"
     }
   ]
 }
