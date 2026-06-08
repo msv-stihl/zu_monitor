@@ -1,13 +1,6 @@
 {
   "incidents": [
     {
-      "id": "94320",
-      "name": "ZU - HIDROSSANITÁRIA - MANUTENÇÃO",
-      "location": "RS-ST01-28-00T-WCM01-BOX03",
-      "opened_at": "2026-06-08T11:22:45.187Z",
-      "team": "CIVIL"
-    },
-    {
       "id": "94323",
       "name": "ZU  - [FC]LIMPEZA - BANHEIRO",
       "location": "RS-ST01-43-00T-WPU01",
