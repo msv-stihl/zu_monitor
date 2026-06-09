@@ -3,16 +3,9 @@
     {
       "id": "94397",
       "name": "ZU - TESTE PAINEL¢",
-      "location": "RS-ST01-07",
+      "location": "RS-ST01-28",
       "opened_at": "2026-06-09T17:37:35.843Z",
-      "team": "CIVIL"
-    },
-    {
-      "id": "94398",
-      "name": "ZU - [CG]RECOLHIMENTO RESÍDUOS",
-      "location": "RS-ST01-31",
-      "opened_at": "2026-06-09T17:45:24.127Z",
-      "team": "LIMPEZA CONVENCIONAL"
+      "team": "ELÉTRICA"
     }
   ]
 }
