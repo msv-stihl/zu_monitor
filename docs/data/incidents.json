@@ -13,13 +13,6 @@
       "location": "RS-ST01-43-00T-STR01-BBD001",
       "opened_at": "2026-06-09T11:11:04.923Z",
       "team": "REFRIGERAÇÃO"
-    },
-    {
-      "id": "94368",
-      "name": "ZU -  [CG]LIMPEZA - SALA",
-      "location": "RS-ST01-31-01P-SLA05",
-      "opened_at": "2026-06-09T11:28:03.790Z",
-      "team": "LIMPEZA CONVENCIONAL"
     }
   ]
 }
