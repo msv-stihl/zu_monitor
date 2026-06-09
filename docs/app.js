@@ -7,11 +7,31 @@ const rowCountEl = document.getElementById("rowCount");
 const emptyStateEl = document.getElementById("emptyState");
 const errorStateEl = document.getElementById("errorState");
 const refreshBtn = document.getElementById("refreshBtn");
+const themeToggleBtn = document.getElementById("themeToggleBtn");
 
 const MAX_MINUTES = 120;
+const THEME_STORAGE_KEY = "zu-monitor-theme";
 
 let current = [];
 let tickHandle = null;
+let wakeLockSentinel = null;
+
+function setTheme(theme) {
+  const nextTheme = theme === "light" ? "light" : "dark";
+  document.documentElement.dataset.theme = nextTheme;
+  localStorage.setItem(THEME_STORAGE_KEY, nextTheme);
+
+  if (themeToggleBtn) {
+    const isDark = nextTheme === "dark";
+    themeToggleBtn.textContent = `TEMA: ${isDark ? "ESCURO" : "CLARO"}`;
+    themeToggleBtn.setAttribute("aria-pressed", String(isDark));
+  }
+}
+
+function initTheme() {
+  const savedTheme = localStorage.getItem(THEME_STORAGE_KEY);
+  setTheme(savedTheme === "light" ? "light" : "dark");
+}
 
 function parseDate(value) {
   if (!value) return null;
@@ -164,7 +184,41 @@ async function refresh() {
   }
 }
 
+async function requestWakeLock() {
+  if (!("wakeLock" in navigator)) {
+    console.log("Wake Lock API nao suportada neste navegador.");
+    return;
+  }
+
+  try {
+    wakeLockSentinel = await navigator.wakeLock.request("screen");
+    console.log("Bloqueio de tela ativado.");
+    wakeLockSentinel.addEventListener("release", () => {
+      wakeLockSentinel = null;
+    });
+  } catch (err) {
+    console.error(`Falha no Wake Lock: ${err.message}`);
+  }
+}
+
+async function keepScreenAwake() {
+  await requestWakeLock();
+
+  document.addEventListener("visibilitychange", async () => {
+    if (document.visibilityState === "visible" && wakeLockSentinel === null) {
+      await requestWakeLock();
+    }
+  });
+}
+
+themeToggleBtn?.addEventListener("click", () => {
+  const currentTheme = document.documentElement.dataset.theme === "light" ? "light" : "dark";
+  setTheme(currentTheme === "dark" ? "light" : "dark");
+});
+
 refreshBtn.addEventListener("click", refresh);
+initTheme();
+keepScreenAwake();
 refresh();
 
 // Auto-refresh data every 60 seconds so the user never has to click the button
