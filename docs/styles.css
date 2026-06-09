@@ -225,15 +225,24 @@ body {
 }
 
 .rowGreen {
-  background: rgba(22, 193, 114, 0.24);
+  background: #16c172;
+  color: #04110b;
 }
 
 .rowYellow {
-  background: rgba(255, 204, 77, 0.24);
+  background: #ffcc4d;
+  color: #2f2300;
 }
 
 .rowRed {
-  background: rgba(255, 94, 94, 0.24);
+  background: #ff5e5e;
+  color: #240404;
+}
+
+.rowGreen td,
+.rowYellow td,
+.rowRed td {
+  border-bottom-color: rgba(0, 0, 0, 0.18);
 }
 
 .emptyState,
