@@ -1,10 +1,10 @@
 {
   "incidents": [
     {
-      "id": "94454",
-      "name": "ZU - [FC]LIMPEZA - PISO",
-      "location": "RS-ST01-31-00T-SLA11",
-      "opened_at": "2026-06-10T17:51:53.043Z",
+      "id": "94456",
+      "name": "ZU - [CG]RECOLHIMENTO RESÍDUOS",
+      "location": "RS-ST01-31-01S-STR01",
+      "opened_at": "2026-06-10T18:07:11.490Z",
       "team": "LIMPEZA CONVENCIONAL"
     }
   ]
