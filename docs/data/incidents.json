@@ -1,20 +1,6 @@
 {
   "incidents": [
     {
-      "id": "94428",
-      "name": "ZU - VAZAMENTO DE ÁGUA",
-      "location": "RS-ST01-43-02P-WCF01-PIA02",
-      "opened_at": "2026-06-10T12:13:43.800Z",
-      "team": "CIVIL"
-    },
-    {
-      "id": "94429",
-      "name": "ZU - [FC]LIMPEZA - SALA",
-      "location": "RS-ST01-31-00T-SLA11",
-      "opened_at": "2026-06-10T12:39:22.140Z",
-      "team": "LIMPEZA CONVENCIONAL"
-    },
-    {
       "id": "94430",
       "name": "ZU - DESENTUPIMENTO VASO",
       "location": "RS-ST01-01-00T-WCM01-BOX05",
