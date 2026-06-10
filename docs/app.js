@@ -15,6 +15,7 @@ const THEME_STORAGE_KEY = "zu-monitor-theme";
 let current = [];
 let tickHandle = null;
 let wakeLockSentinel = null;
+let tvIdleHandle = null;
 
 function setTheme(theme) {
   const nextTheme = theme === "light" ? "light" : "dark";
@@ -211,6 +212,32 @@ async function keepScreenAwake() {
   });
 }
 
+function preventTvIdle() {
+  if (tvIdleHandle !== null) return;
+
+  tvIdleHandle = window.setInterval(() => {
+    let ghostPixel = document.getElementById("tv-anti-idle");
+
+    if (!ghostPixel) {
+      ghostPixel = document.createElement("div");
+      ghostPixel.id = "tv-anti-idle";
+      ghostPixel.style.position = "fixed";
+      ghostPixel.style.top = "0";
+      ghostPixel.style.left = "0";
+      ghostPixel.style.width = "1px";
+      ghostPixel.style.height = "1px";
+      ghostPixel.style.pointerEvents = "none";
+      ghostPixel.style.zIndex = "-9999";
+      document.body.appendChild(ghostPixel);
+    }
+
+    const currentOpacity = ghostPixel.style.opacity;
+    ghostPixel.style.opacity = currentOpacity === "0.01" ? "0.02" : "0.01";
+
+    console.log("Sinal de atividade enviado para a TV.");
+  }, 30000);
+}
+
 themeToggleBtn?.addEventListener("click", () => {
   const currentTheme = document.documentElement.dataset.theme === "light" ? "light" : "dark";
   setTheme(currentTheme === "dark" ? "light" : "dark");
@@ -219,6 +246,7 @@ themeToggleBtn?.addEventListener("click", () => {
 refreshBtn.addEventListener("click", refresh);
 initTheme();
 keepScreenAwake();
+preventTvIdle();
 refresh();
 
 // Auto-refresh data every 60 seconds so the user never has to click the button
