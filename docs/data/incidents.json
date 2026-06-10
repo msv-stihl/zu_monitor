@@ -1,18 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "94413",
-      "name": "ZU - HIDRÁULICA - TORNEIRA",
-      "location": "RS-ST01-50-00T-WPU01",
-      "opened_at": "2026-06-10T11:01:50.297Z",
-      "team": "CIVIL"
-    },
-    {
-      "id": "94416",
-      "name": "ZU - HIDRANTE - VAZAMENTO",
-      "location": "RS-ST01-43-00T-AIN01-CXH047",
-      "opened_at": "2026-06-10T11:12:09.637Z",
-      "team": "SPCI"
-    }
-  ]
+  "incidents": []
 }
