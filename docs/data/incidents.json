@@ -1,11 +1,11 @@
 {
   "incidents": [
     {
-      "id": "94467",
-      "name": "ZU - BOMBA - MANUTENÇÃO",
-      "location": "RS-ST01-48-UTL",
-      "opened_at": "2026-06-11T11:29:39.473Z",
-      "team": "UTILIDADES"
+      "id": "94474",
+      "name": "ZU - RÉGUA ELÉTRICA - MANUTENÇÃO",
+      "location": "RS-ST01-50-00T-STR03",
+      "opened_at": "2026-06-11T12:24:29.430Z",
+      "team": "ELÉTRICA"
     }
   ]
 }
