@@ -6,6 +6,13 @@
       "location": "RS-ST01-29-00T-WCF01",
       "opened_at": "2026-06-12T13:10:07.410Z",
       "team": "CIVIL"
+    },
+    {
+      "id": "94521",
+      "name": "ZU - [CG]REPOSIÇÃO MATERIAL",
+      "location": "RS-ST01-50-00T-STR03",
+      "opened_at": "2026-06-12T13:37:43.427Z",
+      "team": "LIMPEZA CONVENCIONAL"
     }
   ]
 }
