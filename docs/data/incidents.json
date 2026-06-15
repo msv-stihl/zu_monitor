@@ -6,6 +6,13 @@
       "location": "RS-ST01-27",
       "opened_at": "2026-06-15T10:56:38.147Z",
       "team": "ELÉTRICA"
+    },
+    {
+      "id": "94736",
+      "name": "ZU - POCETO - MANUTENÇÃO",
+      "location": "RS-ST01-32-UTL-EFL01-PCT001",
+      "opened_at": "2026-06-15T11:01:25.420Z",
+      "team": "UTILIDADES"
     }
   ]
 }
