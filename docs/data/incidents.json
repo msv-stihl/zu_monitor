@@ -13,6 +13,13 @@
       "location": "RS-ST01-32-UTL-EFL01-PCT001",
       "opened_at": "2026-06-15T11:01:25.420Z",
       "team": "UTILIDADES"
+    },
+    {
+      "id": "94737",
+      "name": "ZU - FALTA DE ENERGIA - FÁBRICA",
+      "location": "RS-ST01-15-00T-SLA06",
+      "opened_at": "2026-06-15T11:16:43.813Z",
+      "team": "ELÉTRICA"
     }
   ]
 }
