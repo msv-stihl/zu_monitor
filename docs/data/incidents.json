@@ -1,11 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "94808",
-      "name": "ZU - CAIXA HIDRANTE - LACRE ROMPIDO",
-      "location": "RS-ST01-50-00T-AIN01-CXH005",
-      "opened_at": "2026-06-16T14:25:21.993Z",
-      "team": "SPCI"
-    }
-  ]
+  "incidents": []
 }
