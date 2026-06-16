@@ -6,6 +6,13 @@
       "location": "RS-ST01-11-UTL-EFL01-PCT003",
       "opened_at": "2026-06-16T12:54:22.177Z",
       "team": "UTILIDADES"
+    },
+    {
+      "id": "94806",
+      "name": "ZU - TOMADA - SEM ENERGIA",
+      "location": "RS-ST01-27",
+      "opened_at": "2026-06-16T13:55:14.183Z",
+      "team": "ELÉTRICA"
     }
   ]
 }
