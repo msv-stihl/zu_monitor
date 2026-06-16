@@ -1,13 +1,6 @@
 {
   "incidents": [
     {
-      "id": "94787",
-      "name": "ZU - DESENTUPIMENTO MICTÓRIO",
-      "location": "RS-ST01-31-02P-WCM01-MCT02",
-      "opened_at": "2026-06-16T10:49:10.217Z",
-      "team": "CIVIL"
-    },
-    {
       "id": "94788",
       "name": "ZU - [CG]RECOLHIMENTO RESÍDUOS",
       "location": "RS-ST01-11",
@@ -19,6 +12,13 @@
       "name": "ZU - [CG]RECOLHIMENTO RESÍDUOS",
       "location": "RS-ST01-28-01S-STR01",
       "opened_at": "2026-06-16T11:12:10.680Z",
+      "team": "LIMPEZA CONVENCIONAL"
+    },
+    {
+      "id": "94790",
+      "name": "ZU - [CG]LIMPEZA - SALA",
+      "location": "RS-ST01-31-00T-SLA11",
+      "opened_at": "2026-06-16T11:23:23.787Z",
       "team": "LIMPEZA CONVENCIONAL"
     }
   ]
