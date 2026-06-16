@@ -1,13 +1,6 @@
 {
   "incidents": [
     {
-      "id": "94834",
-      "name": "ZU - AR CONDICIONADO - NÃO LIGA",
-      "location": "RS-ST01-27-00T-SLA22-SPL014",
-      "opened_at": "2026-06-16T18:43:14.557Z",
-      "team": "REFRIGERAÇÃO"
-    },
-    {
       "id": "94836",
       "name": "ZU - HIDROSANITÁRIA - VAZAMENTO",
       "location": "RS-ST01-56-00T-WCF01",
