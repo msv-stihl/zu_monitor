@@ -13,6 +13,13 @@
       "location": "RS-ST01-11",
       "opened_at": "2026-06-16T11:04:23.883Z",
       "team": "LIMPEZA CONVENCIONAL"
+    },
+    {
+      "id": "94789",
+      "name": "ZU - [CG]RECOLHIMENTO RESÍDUOS",
+      "location": "RS-ST01-28-01S-STR01",
+      "opened_at": "2026-06-16T11:12:10.680Z",
+      "team": "LIMPEZA CONVENCIONAL"
     }
   ]
 }
