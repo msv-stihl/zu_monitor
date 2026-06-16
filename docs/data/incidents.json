@@ -13,6 +13,13 @@
       "location": "RS-ST01-31-01P-WCM01",
       "opened_at": "2026-06-16T16:20:06.937Z",
       "team": "LIMPEZA CONVENCIONAL"
+    },
+    {
+      "id": "94812",
+      "name": "ZU - VAZAMENTO DE ÁGUA ",
+      "location": "RS-ST01-11-00T-WCF01-PIA02",
+      "opened_at": "2026-06-16T16:29:07.633Z",
+      "team": "CIVIL"
     }
   ]
 }
