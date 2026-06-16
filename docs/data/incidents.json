@@ -27,6 +27,20 @@
       "location": "RS-ST01-27",
       "opened_at": "2026-06-16T12:20:24.013Z",
       "team": "ELÉTRICA"
+    },
+    {
+      "id": "94797",
+      "name": "ZU - BEBEDOURO - MANUTENÇÃO",
+      "location": "RS-ST01-01-00T-STR03-BBD003",
+      "opened_at": "2026-06-16T12:25:09.147Z",
+      "team": "REFRIGERAÇÃO"
+    },
+    {
+      "id": "94798",
+      "name": "ZU - FALTA DE ÁGUA",
+      "location": "RS-ST01-27",
+      "opened_at": "2026-06-16T12:29:32.473Z",
+      "team": "CIVIL"
     }
   ]
 }
