@@ -1,13 +1,6 @@
 {
   "incidents": [
     {
-      "id": "94860",
-      "name": "ZU - BEBEDOURO - MANUTENÇÃO",
-      "location": "RS-ST01-43-01P-COP02-BBD009",
-      "opened_at": "2026-06-17T15:42:46.250Z",
-      "team": "REFRIGERAÇÃO"
-    },
-    {
       "id": "94864",
       "name": "ZU - [FC]RECOLHIMENTO RESÍDUOS SALA",
       "location": "RS-ST01-43-02P-SLA07",
@@ -20,6 +13,13 @@
       "location": "RS-ST01-50-00T-AIN01-PRR016",
       "opened_at": "2026-06-17T16:50:26.650Z",
       "team": "ELÉTRICA"
+    },
+    {
+      "id": "94866",
+      "name": "ZU - DESENTUPIMENTO MICTÓRIO",
+      "location": "RS-ST01-01-00T-WCM019-MCT01",
+      "opened_at": "2026-06-17T16:54:32.127Z",
+      "team": "CIVIL"
     }
   ]
 }
