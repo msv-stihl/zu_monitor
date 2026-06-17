@@ -1,13 +1,6 @@
 {
   "incidents": [
     {
-      "id": "94850",
-      "name": "ZU - BOMBA - MANUTENÇÃO",
-      "location": "RS-ST01-49-UTL",
-      "opened_at": "2026-06-17T11:45:05.153Z",
-      "team": "UTILIDADES"
-    },
-    {
       "id": "94852",
       "name": "ZU - TOMADA - SEM ENERGIA",
       "location": "RS-ST01-27",
