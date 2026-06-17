@@ -6,6 +6,13 @@
       "location": "RS-ST01-01-00T-WCM019-MCT01",
       "opened_at": "2026-06-17T16:54:32.127Z",
       "team": "CIVIL"
+    },
+    {
+      "id": "94871",
+      "name": "ZU - PORTA RÁPIDA - VERIFICAÇÃO",
+      "location": "RS-ST01-28-00T-AIN01-PRR001",
+      "opened_at": "2026-06-17T17:21:27.570Z",
+      "team": "ELÉTRICA"
     }
   ]
 }
