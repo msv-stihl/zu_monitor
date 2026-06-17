@@ -6,6 +6,13 @@
       "location": "RS-ST01-43-01P-COP02-BBD009",
       "opened_at": "2026-06-17T15:42:46.250Z",
       "team": "REFRIGERAÇÃO"
+    },
+    {
+      "id": "94861",
+      "name": "ZU - [FC]LIMPEZA - PISO",
+      "location": "RS-ST01-01",
+      "opened_at": "2026-06-17T15:54:51.783Z",
+      "team": "LIMPEZA CONVENCIONAL"
     }
   ]
 }
