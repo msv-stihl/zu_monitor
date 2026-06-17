@@ -1,11 +1,11 @@
 {
   "incidents": [
     {
-      "id": "94871",
-      "name": "ZU - PORTA RÁPIDA - VERIFICAÇÃO",
-      "location": "RS-ST01-28-00T-AIN01-PRR001",
-      "opened_at": "2026-06-17T17:21:27.570Z",
-      "team": "ELÉTRICA"
+      "id": "94873",
+      "name": "ZU - [FC]LIMPEZA - BANHEIRO",
+      "location": "RS-ST01-31-02P-WCM01-BOX02",
+      "opened_at": "2026-06-17T18:02:04.413Z",
+      "team": "LIMPEZA CONVENCIONAL"
     }
   ]
 }
