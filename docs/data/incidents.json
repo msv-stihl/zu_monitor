@@ -1,11 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "94844",
-      "name": "ZU - EXTINTOR - SUBSTITUIÇÃO",
-      "location": "RS-ST01-31-00T-AIN01-EXT159",
-      "opened_at": "2026-06-17T10:43:47.057Z",
-      "team": "SPCI"
-    }
-  ]
+  "incidents": []
 }
