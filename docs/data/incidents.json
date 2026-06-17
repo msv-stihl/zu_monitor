@@ -1,13 +1,6 @@
 {
   "incidents": [
     {
-      "id": "94849",
-      "name": "ZU - DESENTUPIMENTO VASO",
-      "location": "RS-ST01-31-00T-WCM03-BOX02",
-      "opened_at": "2026-06-17T11:44:40.073Z",
-      "team": "CIVIL"
-    },
-    {
       "id": "94850",
       "name": "ZU - BOMBA - MANUTENÇÃO",
       "location": "RS-ST01-49-UTL",
