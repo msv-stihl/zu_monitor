@@ -1,20 +1,6 @@
 {
   "incidents": [
     {
-      "id": "94883",
-      "name": "ZU - [FC]LIMPEZA - PISO",
-      "location": "RS-ST01-43-01P-COP02",
-      "opened_at": "2026-06-18T11:38:10.043Z",
-      "team": "LIMPEZA CONVENCIONAL"
-    },
-    {
-      "id": "94886",
-      "name": "ZU - DESENTUPIMENTO VASO",
-      "location": "RS-ST01-15-00T-WCM01-PNE01",
-      "opened_at": "2026-06-18T12:27:51.423Z",
-      "team": "CIVIL"
-    },
-    {
       "id": "94887",
       "name": "ZU - DRENAGEM - BACIA",
       "location": "RS-ST01-28-UTL",
