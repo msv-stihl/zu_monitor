@@ -1,11 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "94880",
-      "name": "ZU - SECADOR DE AR - MANUTENÇÃO",
-      "location": "RS-ST01-31-UTL-ARC01",
-      "opened_at": "2026-06-18T11:04:12.570Z",
-      "team": "UTILIDADES"
-    }
-  ]
+  "incidents": []
 }
