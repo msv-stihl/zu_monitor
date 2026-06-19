@@ -6,6 +6,13 @@
       "location": "RS-ST01-11-UTL-EFL01-PCT003",
       "opened_at": "2026-06-19T13:50:50.200Z",
       "team": "UTILIDADES"
+    },
+    {
+      "id": "94941",
+      "name": "ZU - HIDROSSANITÁRIA - VAZAMENTO",
+      "location": "RS-ST01-56-00T-WCF01",
+      "opened_at": "2026-06-19T13:54:18.983Z",
+      "team": "CIVIL"
     }
   ]
 }
