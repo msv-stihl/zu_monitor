@@ -1,20 +1,6 @@
 {
   "incidents": [
     {
-      "id": "94955",
-      "name": "ZU - FALTA DE ENERGIA - FÁBRICA",
-      "location": "RS-ST01-15",
-      "opened_at": "2026-06-22T11:52:25.600Z",
-      "team": "ELÉTRICA"
-    },
-    {
-      "id": "94956",
-      "name": "ZU - FALTA DE ENERGIA - ADMINISTRATIVO",
-      "location": "RS-ST01-26",
-      "opened_at": "2026-06-22T11:59:48.203Z",
-      "team": "ELÉTRICA"
-    },
-    {
       "id": "94957",
       "name": "ZU - BEBEDOURO - MANUTENÇÃO",
       "location": "RS-ST01-01-00T-STR03-BBD003",
