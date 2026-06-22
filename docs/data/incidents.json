@@ -1,20 +1,6 @@
 {
   "incidents": [
     {
-      "id": "94969",
-      "name": "ZU - TOMADA - SEM ENERGIA",
-      "location": "RS-ST01-27-00T-SLA01",
-      "opened_at": "2026-06-22T14:01:43.877Z",
-      "team": "ELÉTRICA"
-    },
-    {
-      "id": "94973",
-      "name": "ZU - PORTA RÁPIDA - VERIFICAÇÃO",
-      "location": "RS-ST01-50-00T-AIN01-PRR016",
-      "opened_at": "2026-06-22T14:20:53.530Z",
-      "team": "ELÉTRICA"
-    },
-    {
       "id": "94974",
       "name": "ZU - [CG]RECOLHIMENTO RESÍDUOS FÁBRICA",
       "location": "RS-ST01-31-01S-STR01",
