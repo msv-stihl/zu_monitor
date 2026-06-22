@@ -1,18 +1,18 @@
 {
   "incidents": [
     {
-      "id": "94953",
-      "name": "ZU - [FC]LIMPEZA - PISO",
-      "location": "RS-ST01-43-01P-COP02",
-      "opened_at": "2026-06-22T11:24:01.633Z",
-      "team": "LIMPEZA CONVENCIONAL"
+      "id": "94955",
+      "name": "ZU - FALTA DE ENERGIA - FÁBRICA",
+      "location": "RS-ST01-15",
+      "opened_at": "2026-06-22T11:52:25.600Z",
+      "team": "ELÉTRICA"
     },
     {
-      "id": "94954",
-      "name": "ZU - [CG]LIMPEZA - BANHEIRO",
-      "location": "RS-ST01-31",
-      "opened_at": "2026-06-22T11:41:35.423Z",
-      "team": "LIMPEZA CONVENCIONAL"
+      "id": "94956",
+      "name": "ZU - FALTA DE ENERGIA - ADMINISTRATIVO",
+      "location": "RS-ST01-26",
+      "opened_at": "2026-06-22T11:59:48.203Z",
+      "team": "ELÉTRICA"
     }
   ]
 }
