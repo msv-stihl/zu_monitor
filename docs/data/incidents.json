@@ -20,6 +20,13 @@
       "location": "RS-ST01-43-00T-STR01-BBD001",
       "opened_at": "2026-06-23T11:33:03.630Z",
       "team": "REFRIGERAÇÃO"
+    },
+    {
+      "id": "95018",
+      "name": "ZU - EXTINTOR -SUBSTITUIÇÃO",
+      "location": "RS-ST01-31-00T-AIN01-EXT004",
+      "opened_at": "2026-06-23T11:41:25.890Z",
+      "team": "SPCI"
     }
   ]
 }
