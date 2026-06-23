@@ -6,6 +6,20 @@
       "location": "RS-ST01-50",
       "opened_at": "2026-06-23T10:43:27.363Z",
       "team": "CIVIL"
+    },
+    {
+      "id": "95011",
+      "name": "ZU - FALTA DE ÁGUA ",
+      "location": "RS-ST01-27",
+      "opened_at": "2026-06-23T10:51:45.767Z",
+      "team": "CIVIL"
+    },
+    {
+      "id": "95012",
+      "name": "ZU - [CG]RECOLHIMENTO RESÍDUOS SALA",
+      "location": "RS-ST01-11-00T-SLA08",
+      "opened_at": "2026-06-23T10:58:19.860Z",
+      "team": "LIMPEZA CONVENCIONAL"
     }
   ]
 }
