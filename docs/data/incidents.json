@@ -1,11 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "95039",
-      "name": "ZU - LIMPEZA ÁREA EXTERNA",
-      "location": "RS-ST01-00-00T-RUA03",
-      "opened_at": "2026-06-23T13:51:04.043Z",
-      "team": "JARDINAGEM"
-    }
-  ]
+  "incidents": []
 }
