@@ -1,25 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "95012",
-      "name": "ZU - [CG]RECOLHIMENTO RESÍDUOS SALA",
-      "location": "RS-ST01-11-00T-SLA08",
-      "opened_at": "2026-06-23T10:58:19.860Z",
-      "team": "LIMPEZA CONVENCIONAL"
-    },
-    {
-      "id": "95014",
-      "name": "ZU - [CG]RECOLHIMENTO RESÍDUOS SALA",
-      "location": "RS-ST01-03-00T-SLA07",
-      "opened_at": "2026-06-23T11:10:21.843Z",
-      "team": "LIMPEZA CONVENCIONAL"
-    },
-    {
-      "id": "95022",
-      "name": "ZU - PORTA RÁPIDA - VERIFICAÇÃO",
-      "location": "RS-ST01-15-00T-AIN01-PRR002",
-      "opened_at": "2026-06-23T12:24:32.010Z",
-      "team": "ELÉTRICA"
-    }
-  ]
+  "incidents": []
 }
