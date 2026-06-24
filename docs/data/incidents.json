@@ -1,13 +1,6 @@
 {
   "incidents": [
     {
-      "id": "95107",
-      "name": "ZU - DESENTUPIMENTO MICTÓRIO",
-      "location": "RS-ST01-27-00T-WCM02-MCT03",
-      "opened_at": "2026-06-24T12:54:06.663Z",
-      "team": "CIVIL"
-    },
-    {
       "id": "95108",
       "name": "ZU - DESENTUPIMENTO VASO",
       "location": "RS-ST01-27-00T-WCM02-BOX06",
