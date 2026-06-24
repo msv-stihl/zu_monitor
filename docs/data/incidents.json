@@ -8,11 +8,18 @@
       "team": "CIVIL"
     },
     {
-      "id": "95102",
-      "name": "ZU - AR CONDICIONADO - NÃO ESQUENTA",
-      "location": "RS-ST01-07-00T-SLA02-SPL002",
-      "opened_at": "2026-06-24T12:32:09.833Z",
-      "team": "REFRIGERAÇÃO"
+      "id": "95107",
+      "name": "ZU - DESENTUPIMENTO MICTÓRIO",
+      "location": "RS-ST01-27-00T-WCM02-MCT03",
+      "opened_at": "2026-06-24T12:54:06.663Z",
+      "team": "CIVIL"
+    },
+    {
+      "id": "95108",
+      "name": "ZU - DESENTUPIMENTO VASO",
+      "location": "RS-ST01-27-00T-WCM02-BOX06",
+      "opened_at": "2026-06-24T12:57:59.927Z",
+      "team": "CIVIL"
     }
   ]
 }
