@@ -1,13 +1,6 @@
 {
   "incidents": [
     {
-      "id": "95125",
-      "name": "ZU - PORTA RÁPIDA - VERIFICAÇÃO",
-      "location": "RS-ST01-31-00T-AIN01-PRR010",
-      "opened_at": "2026-06-24T18:54:31.403Z",
-      "team": "ELÉTRICA"
-    },
-    {
       "id": "95126",
       "name": "ZU - DESENTUPIMENTO VASO",
       "location": "RS-ST01-50-00T-WCM02-BOX06",
