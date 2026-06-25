@@ -6,6 +6,13 @@
       "location": "RS-ST01-26-UTL-EFL01-PCT001",
       "opened_at": "2026-06-25T13:39:22.483Z",
       "team": "UTILIDADES"
+    },
+    {
+      "id": "95149",
+      "name": "ZU - DESENTUPIMENTO MICTÓRIO",
+      "location": "RS-ST01-43-02P-WCM01-MCT01",
+      "opened_at": "2026-06-25T13:41:12.997Z",
+      "team": "CIVIL"
     }
   ]
 }
