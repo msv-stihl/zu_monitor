@@ -1,13 +1,6 @@
 {
   "incidents": [
     {
-      "id": "95131",
-      "name": "ZU  - FALTA DE ENERGIA - FÁBRICA",
-      "location": "RS-ST01-31-01S-STR02",
-      "opened_at": "2026-06-25T10:44:14.123Z",
-      "team": "ELÉTRICA"
-    },
-    {
       "id": "95133",
       "name": "ZU - DESENTUPIMENTO VASO",
       "location": "RS-ST01-27-00T-WCF01-BOX03",
