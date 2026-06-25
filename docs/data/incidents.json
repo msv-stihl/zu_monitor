@@ -1,11 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "95162",
-      "name": "ZU - [CG]REPOSIÇÃO MATERIAL",
-      "location": "RS-ST01-27-00T-SLA10",
-      "opened_at": "2026-06-25T18:45:56.233Z",
-      "team": "LIMPEZA CONVENCIONAL"
-    }
-  ]
+  "incidents": []
 }
