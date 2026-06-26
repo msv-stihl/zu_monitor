@@ -6,6 +6,13 @@
       "location": "RS-ST01-28-01P-WCM01",
       "opened_at": "2026-06-26T10:57:00.097Z",
       "team": "CIVIL"
+    },
+    {
+      "id": "95192",
+      "name": "ZU - DESENTUPIMENTO PIA",
+      "location": "RS-ST01-50-00T-WCF02-PIA03",
+      "opened_at": "2026-06-26T11:48:48.883Z",
+      "team": "CIVIL"
     }
   ]
 }
