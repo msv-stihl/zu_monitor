@@ -1,18 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "95193",
-      "name": "ZU - DESENTUPIMENTO MICTÓRIO",
-      "location": "RS-ST01-50-00T-WCM02",
-      "opened_at": "2026-06-26T11:54:33.570Z",
-      "team": "CIVIL"
-    },
-    {
-      "id": "95197",
-      "name": "ZU - PORTA RÁPIDA - VERIFICAÇÃO",
-      "location": "RS-ST01-50-00T-AIN01-PRR003",
-      "opened_at": "2026-06-26T12:28:00.113Z",
-      "team": "ELÉTRICA"
-    }
-  ]
+  "incidents": []
 }
