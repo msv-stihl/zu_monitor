@@ -6,6 +6,20 @@
       "location": "RS-ST01-03-00T-SLA07",
       "opened_at": "2026-06-26T17:23:18.207Z",
       "team": "REFRIGERAÇÃO"
+    },
+    {
+      "id": "95208",
+      "name": "ZU - BEBEDOURO - MANUTENÇÃO",
+      "location": "RS-ST01-50-00T-STR03-BBD005",
+      "opened_at": "2026-06-26T17:32:39.537Z",
+      "team": "REFRIGERAÇÃO"
+    },
+    {
+      "id": "95209",
+      "name": "ZU - DESENTUPIMENTO VASO",
+      "location": "RS-ST01-31-02P-WCM01-BOX02",
+      "opened_at": "2026-06-26T17:37:28.310Z",
+      "team": "CIVIL"
     }
   ]
 }
