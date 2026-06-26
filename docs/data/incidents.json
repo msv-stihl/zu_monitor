@@ -1,11 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "95204",
-      "name": "ZU - FALTA DE ENERGIA - ADMINISTRATIVO",
-      "location": "RS-ST01-27-00T-SLA02",
-      "opened_at": "2026-06-26T16:32:26.217Z",
-      "team": "ELÉTRICA"
-    }
-  ]
+  "incidents": []
 }
