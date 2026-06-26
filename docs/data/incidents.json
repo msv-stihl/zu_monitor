@@ -1,11 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "95202",
-      "name": "ZU - ELEVATÓRIA - TRANSBORDO",
-      "location": "RS-ST01-32-UTL-EFL01-PCT002",
-      "opened_at": "2026-06-26T14:26:30.790Z",
-      "team": "UTILIDADES"
-    }
-  ]
+  "incidents": []
 }
