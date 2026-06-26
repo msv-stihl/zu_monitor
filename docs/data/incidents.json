@@ -20,6 +20,13 @@
       "location": "RS-ST01-31-02P-WCM01-BOX02",
       "opened_at": "2026-06-26T17:37:28.310Z",
       "team": "CIVIL"
+    },
+    {
+      "id": "95210",
+      "name": "ZU - VAZAMENTO DE ÁGUA",
+      "location": "RS-ST01-43-00T-WCM01-PIA05",
+      "opened_at": "2026-06-26T17:42:27.480Z",
+      "team": "CIVIL"
     }
   ]
 }
