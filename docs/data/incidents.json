@@ -1,18 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "96340",
-      "name": "ZU - [FC]LIMPEZA - PISO",
-      "location": "RS-ST01-43",
-      "opened_at": "2026-06-29T11:04:16.923Z",
-      "team": "LIMPEZA CONVENCIONAL"
-    },
-    {
-      "id": "96341",
-      "name": "ZU - [CG]RECOLHIMENTO RESÍDUOS SALA",
-      "location": "RS-ST01-43-00T-SLA02",
-      "opened_at": "2026-06-29T11:09:51.910Z",
-      "team": "LIMPEZA CONVENCIONAL"
-    }
-  ]
+  "incidents": []
 }
