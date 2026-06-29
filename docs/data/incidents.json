@@ -1,18 +1,18 @@
 {
   "incidents": [
     {
-      "id": "96372",
-      "name": "ZU - PORTA RÁPIDA - VERIFICAÇÃO",
-      "location": "RS-ST01-50-00T-AIN01-PRR012",
-      "opened_at": "2026-06-29T14:01:07.323Z",
+      "id": "96378",
+      "name": "ZU - FALTA DE ENERGIA - ADMINISTRATIVO",
+      "location": "RS-ST01-27",
+      "opened_at": "2026-06-29T14:14:12.667Z",
       "team": "ELÉTRICA"
     },
     {
-      "id": "96376",
-      "name": "ZU - PORTA RÁPIDA - VERIFICAÇÃO",
-      "location": "RS-ST01-50-00T-AIN01-PRR013",
-      "opened_at": "2026-06-29T14:10:42.230Z",
-      "team": "ELÉTRICA"
+      "id": "96380",
+      "name": "ZU - BEBEDOURO - MANUTENÇÃO",
+      "location": "RS-ST01-01-00T-STR03-BBD003",
+      "opened_at": "2026-06-29T14:18:53.133Z",
+      "team": "REFRIGERAÇÃO"
     }
   ]
 }
