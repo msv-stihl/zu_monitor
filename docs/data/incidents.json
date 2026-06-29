@@ -13,13 +13,6 @@
       "location": "RS-ST01-43-00T-SLA02",
       "opened_at": "2026-06-29T11:09:51.910Z",
       "team": "LIMPEZA CONVENCIONAL"
-    },
-    {
-      "id": "96342",
-      "name": "ZU - [CG]RECOLHIMENTO RESÍDUOS FÁBRICA",
-      "location": "RS-ST01-31-00T-STR08",
-      "opened_at": "2026-06-29T11:16:35.260Z",
-      "team": "LIMPEZA CONVENCIONAL"
     }
   ]
 }
