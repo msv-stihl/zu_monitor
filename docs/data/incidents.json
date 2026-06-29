@@ -1,13 +1,6 @@
 {
   "incidents": [
     {
-      "id": "96339",
-      "name": "ZU - ELEVATÓRIA - TRANSBORDO",
-      "location": "RS-ST01-32-UTL-EFL01-PCT002",
-      "opened_at": "2026-06-29T10:46:08.463Z",
-      "team": "UTILIDADES"
-    },
-    {
       "id": "96340",
       "name": "ZU - [FC]LIMPEZA - PISO",
       "location": "RS-ST01-43",
@@ -16,9 +9,16 @@
     },
     {
       "id": "96341",
-      "name": "ZU - [CG]RECOLHIMENTO RESÍDUOS FÁBRICA",
-      "location": "RS-ST01-43",
+      "name": "ZU - [CG]RECOLHIMENTO RESÍDUOS SALA",
+      "location": "RS-ST01-43-00T-SLA02",
       "opened_at": "2026-06-29T11:09:51.910Z",
+      "team": "LIMPEZA CONVENCIONAL"
+    },
+    {
+      "id": "96342",
+      "name": "ZU - [CG]RECOLHIMENTO RESÍDUOS FÁBRICA",
+      "location": "RS-ST01-31-00T-STR08",
+      "opened_at": "2026-06-29T11:16:35.260Z",
       "team": "LIMPEZA CONVENCIONAL"
     }
   ]
