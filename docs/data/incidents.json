@@ -6,20 +6,6 @@
       "location": "RS-ST01-27",
       "opened_at": "2026-06-30T10:52:59.230Z",
       "team": "ELÉTRICA"
-    },
-    {
-      "id": "96390",
-      "name": "ZU - HIDROSSANITÁRIA - VAZAMENTO",
-      "location": "RS-ST01-50-00T-WCF02",
-      "opened_at": "2026-06-30T11:11:23.353Z",
-      "team": "CIVIL"
-    },
-    {
-      "id": "96391",
-      "name": "ZU - BEBEDOURO - MANUTENÇÃO",
-      "location": "RS-ST01-08-00T-STR01-BBD001",
-      "opened_at": "2026-06-30T11:21:50.137Z",
-      "team": "REFRIGERAÇÃO"
     }
   ]
 }
