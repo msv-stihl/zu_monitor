@@ -1,11 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "96398",
-      "name": "ZU - DESENTUPIMENTO - BACIA CONTENÇÃO",
-      "location": "RS-ST01-28-UTL",
-      "opened_at": "2026-06-30T12:43:28.103Z",
-      "team": "UTILIDADES"
-    }
-  ]
+  "incidents": []
 }
