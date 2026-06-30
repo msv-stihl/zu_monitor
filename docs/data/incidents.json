@@ -1,3 +1,11 @@
 {
-  "incidents": []
+  "incidents": [
+    {
+      "id": "96423",
+      "name": "ZU - [CG]RECOLHIMENTO RESÍDUOS",
+      "location": "RS-ST01-37",
+      "opened_at": "2026-06-30T16:25:59.380Z",
+      "team": "LIMPEZA CONVENCIONAL"
+    }
+  ]
 }
