@@ -6,6 +6,20 @@
       "location": "RS-ST01-31-00T-WCF03-BOX01",
       "opened_at": "2026-07-01T16:59:32.350Z",
       "team": "CIVIL"
+    },
+    {
+      "id": "96573",
+      "name": "ZU - FALTA DE ENERGIA - FÁBRICA",
+      "location": "RS-ST01-31",
+      "opened_at": "2026-07-01T17:04:19.937Z",
+      "team": "ELÉTRICA"
+    },
+    {
+      "id": "96575",
+      "name": "ZU - DESENTUPIMENTO VASO",
+      "location": "RS-ST01-01-00T-WCM01",
+      "opened_at": "2026-07-01T17:07:22.473Z",
+      "team": "CIVIL"
     }
   ]
 }
