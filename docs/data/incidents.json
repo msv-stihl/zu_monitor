@@ -1,13 +1,6 @@
 {
   "incidents": [
     {
-      "id": "96464",
-      "name": "ZU - [CG]REPOSIÇÃO MATERIAL",
-      "location": "RS-ST01-50-00T-STR03",
-      "opened_at": "2026-07-01T10:56:35.573Z",
-      "team": "LIMPEZA CONVENCIONAL"
-    },
-    {
       "id": "96467",
       "name": "ZU - AR CONDICIONADO - NÃO LIGA",
       "location": "RS-ST01-31-00T-STR02",
@@ -19,13 +12,6 @@
       "name": "ZU - TOMADA - SEM ENERGIA",
       "location": "RS-ST01-43-02P",
       "opened_at": "2026-07-01T11:16:55.413Z",
-      "team": "ELÉTRICA"
-    },
-    {
-      "id": "96469",
-      "name": "ZU - TOMADA - SEM ENERGIA",
-      "location": "RS-ST01-38-01P-SLA01",
-      "opened_at": "2026-07-01T11:21:01.533Z",
       "team": "ELÉTRICA"
     },
     {
