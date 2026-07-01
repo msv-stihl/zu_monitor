@@ -13,6 +13,20 @@
       "location": "RS-ST01-50-00T-STR03",
       "opened_at": "2026-07-01T10:48:07.343Z",
       "team": "LIMPEZA CONVENCIONAL"
+    },
+    {
+      "id": "96463",
+      "name": "ZU - [CG]RECOLHIMENTO RESÍDUOS",
+      "location": "RS-ST01-00-00T-RUA02",
+      "opened_at": "2026-07-01T10:52:12.747Z",
+      "team": "LIMPEZA CONVENCIONAL"
+    },
+    {
+      "id": "96464",
+      "name": "ZU - [CG]REPOSIÇÃO MATERIAL",
+      "location": "RS-ST01-50-00T-STR03",
+      "opened_at": "2026-07-01T10:56:35.573Z",
+      "team": "LIMPEZA CONVENCIONAL"
     }
   ]
 }
