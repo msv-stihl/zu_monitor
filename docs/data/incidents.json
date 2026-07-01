@@ -1,11 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "96558",
-      "name": "ZU - TUBULAÇÃO - MANUTENÇÃO",
-      "location": "RS-ST01-50-00T-LAB02",
-      "opened_at": "2026-07-01T14:03:32.247Z",
-      "team": "UTILIDADES"
-    }
-  ]
+  "incidents": []
 }
