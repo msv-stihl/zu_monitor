@@ -1,27 +1,6 @@
 {
   "incidents": [
     {
-      "id": "96467",
-      "name": "ZU - AR CONDICIONADO - NÃO LIGA",
-      "location": "RS-ST01-31-00T-STR02",
-      "opened_at": "2026-07-01T11:11:08.287Z",
-      "team": "REFRIGERAÇÃO"
-    },
-    {
-      "id": "96468",
-      "name": "ZU - TOMADA - SEM ENERGIA",
-      "location": "RS-ST01-43-02P",
-      "opened_at": "2026-07-01T11:16:55.413Z",
-      "team": "ELÉTRICA"
-    },
-    {
-      "id": "96470",
-      "name": "ZU - TOMADA - SEM ENERGIA",
-      "location": "RS-ST01-31-02P-SLA01",
-      "opened_at": "2026-07-01T11:26:29.410Z",
-      "team": "ELÉTRICA"
-    },
-    {
       "id": "96471",
       "name": "ZU - VAZAMENTO DE ÁGUA",
       "location": "RS-ST01-27-00T-WCM02-MCT03",
