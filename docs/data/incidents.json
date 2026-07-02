@@ -1,11 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "97776",
-      "name": "ZU - AR CONDICIONADO - RUÍDO",
-      "location": "RS-ST01-29-00T-SLA09-SPL010",
-      "opened_at": "2026-07-02T16:46:25.163Z",
-      "team": "REFRIGERAÇÃO"
-    }
-  ]
+  "incidents": []
 }
