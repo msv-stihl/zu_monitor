@@ -1,13 +1,6 @@
 {
   "incidents": [
     {
-      "id": "97779",
-      "name": "ZU - DESENTUPIMENTO VASO",
-      "location": "RS-ST01-50-00T-WCM02",
-      "opened_at": "2026-07-02T17:15:50.227Z",
-      "team": "CIVIL"
-    },
-    {
       "id": "97784",
       "name": "ZU - FALTA DE ÁGUA",
       "location": "RS-ST01-11-01P-WCF02",
