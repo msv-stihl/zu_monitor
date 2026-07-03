@@ -20,6 +20,13 @@
       "location": "RS-ST01-50-00T-AIN01-PRR002",
       "opened_at": "2026-07-03T11:48:11.427Z",
       "team": "ELÉTRICA"
+    },
+    {
+      "id": "97813",
+      "name": "ZU - POCETO - MANUTENÇÃO",
+      "location": "RS-ST01-16-UTL-EFL01",
+      "opened_at": "2026-07-03T11:55:34.907Z",
+      "team": "UTILIDADES"
     }
   ]
 }
