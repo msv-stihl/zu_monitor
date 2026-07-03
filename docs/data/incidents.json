@@ -6,6 +6,13 @@
       "location": "RS-ST01-11-00T-STR02",
       "opened_at": "2026-07-03T11:22:15.977Z",
       "team": "ELÉTRICA"
+    },
+    {
+      "id": "97810",
+      "name": "ZU - PORTA RÁPIDA - VERIFICAÇÃO",
+      "location": "RS-ST01-43-00T-AIN01-PRS002",
+      "opened_at": "2026-07-03T11:37:23.163Z",
+      "team": "ELÉTRICA"
     }
   ]
 }
