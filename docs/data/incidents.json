@@ -1,3 +1,11 @@
 {
-  "incidents": []
+  "incidents": [
+    {
+      "id": "97809",
+      "name": "ZU - FALTA DE ENERGIA - FÁBRICA",
+      "location": "RS-ST01-11-00T-STR02",
+      "opened_at": "2026-07-03T11:22:15.977Z",
+      "team": "ELÉTRICA"
+    }
+  ]
 }
