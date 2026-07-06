@@ -1,11 +1,11 @@
 {
   "incidents": [
     {
-      "id": "97860",
-      "name": "ZU - CAIXA HIDRANTE - LACRE ROMPIDO",
-      "location": "RS-ST01-50-00T-AIN01-CXH005",
-      "opened_at": "2026-07-06T10:54:59.987Z",
-      "team": "SPCI"
+      "id": "97866",
+      "name": "ZU - FALTA DE ENERGIA - FÁBRICA",
+      "location": "RS-ST01-52-01P-COP01",
+      "opened_at": "2026-07-06T11:47:23.437Z",
+      "team": "ELÉTRICA"
     }
   ]
 }
