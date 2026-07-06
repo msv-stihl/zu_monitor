@@ -1,13 +1,6 @@
 {
   "incidents": [
     {
-      "id": "97902",
-      "name": "ZU - HIDROSSANITÁRIA - VAZAMENTO",
-      "location": "RS-ST01-31-00T-WCF03-BOX01",
-      "opened_at": "2026-07-06T15:42:13.287Z",
-      "team": "CIVIL"
-    },
-    {
       "id": "97907",
       "name": "ZU - HIDROSSANITÁRIA - VAZAMENTO",
       "location": "RS-ST01-43-02P-WCF01",
