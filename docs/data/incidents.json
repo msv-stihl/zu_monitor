@@ -6,6 +6,20 @@
       "location": "RS-ST01-31-01S-STR01",
       "opened_at": "2026-07-07T10:59:31.093Z",
       "team": "ELÉTRICA"
+    },
+    {
+      "id": "97917",
+      "name": "ZU - AR CONDICIONADO - NÃO ESQUENTA",
+      "location": "RS-ST01-56-00T-SLA16-CSE002",
+      "opened_at": "2026-07-07T11:05:15.497Z",
+      "team": "REFRIGERAÇÃO"
+    },
+    {
+      "id": "97919",
+      "name": "ZU - BEBEDOURO - MANUTENÇÃO",
+      "location": "RS-ST01-56-00T-COP01-BBD003",
+      "opened_at": "2026-07-07T11:10:07.327Z",
+      "team": "REFRIGERAÇÃO"
     }
   ]
 }
