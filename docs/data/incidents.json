@@ -1,18 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "97934",
-      "name": "ZU - [CG]REPOSIÇÃO MATERIAL",
-      "location": "RS-ST01-50-00T-STR03",
-      "opened_at": "2026-07-07T13:50:17.357Z",
-      "team": "LIMPEZA CONVENCIONAL"
-    },
-    {
-      "id": "97937",
-      "name": "ZU - AR CONDICIONADO - NÃO ESQUENTA",
-      "location": "RS-ST01-01-01P-SLA08",
-      "opened_at": "2026-07-07T14:15:56.027Z",
-      "team": "REFRIGERAÇÃO"
-    }
-  ]
+  "incidents": []
 }
