@@ -6,6 +6,13 @@
       "location": "RS-ST01-50-00T-STR03",
       "opened_at": "2026-07-07T13:50:17.357Z",
       "team": "LIMPEZA CONVENCIONAL"
+    },
+    {
+      "id": "97936",
+      "name": "ZU - TOMADA - SEM ENERGIA",
+      "location": "RS-ST01-01-00T-STR03-BBD003",
+      "opened_at": "2026-07-07T14:10:08.647Z",
+      "team": "ELÉTRICA"
     }
   ]
 }
