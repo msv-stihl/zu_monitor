@@ -6,6 +6,13 @@
       "location": "RS-ST01-38-01P-SLA02",
       "opened_at": "2026-07-07T18:47:44.323Z",
       "team": "ELÉTRICA"
+    },
+    {
+      "id": "97952",
+      "name": "ZU - FALTA DE ENERGIA - ADMINISTRATIVO",
+      "location": "RS-ST01-18-00T-SLA01",
+      "opened_at": "2026-07-07T18:59:06.523Z",
+      "team": "ELÉTRICA"
     }
   ]
 }
