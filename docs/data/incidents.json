@@ -8,11 +8,11 @@
       "team": "LIMPEZA CONVENCIONAL"
     },
     {
-      "id": "97936",
-      "name": "ZU - TOMADA - SEM ENERGIA",
-      "location": "RS-ST01-01-00T-STR03-BBD003",
-      "opened_at": "2026-07-07T14:10:08.647Z",
-      "team": "ELÉTRICA"
+      "id": "97937",
+      "name": "ZU - AR CONDICIONADO - NÃO ESQUENTA",
+      "location": "RS-ST01-01-01P-SLA08",
+      "opened_at": "2026-07-07T14:15:56.027Z",
+      "team": "REFRIGERAÇÃO"
     }
   ]
 }
