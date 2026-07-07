@@ -1,13 +1,6 @@
 {
   "incidents": [
     {
-      "id": "97926",
-      "name": "ZU - DESENTUPIMENTO VASO",
-      "location": "RS-ST01-31-01P-WCM01-PNE01",
-      "opened_at": "2026-07-07T12:26:09.850Z",
-      "team": "CIVIL"
-    },
-    {
       "id": "97929",
       "name": "ZU - ELEVADOR - VERIFICAÇÃO",
       "location": "RS-ST01-43-00T-STR01-ELV001",
