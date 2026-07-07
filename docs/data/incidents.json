@@ -1,11 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "97929",
-      "name": "ZU - ELEVADOR - VERIFICAÇÃO",
-      "location": "RS-ST01-43-00T-STR01-ELV001",
-      "opened_at": "2026-07-07T13:00:34.430Z",
-      "team": "ELÉTRICA"
-    }
-  ]
+  "incidents": []
 }
