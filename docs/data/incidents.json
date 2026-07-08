@@ -1,11 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "97959",
-      "name": "ZU - TOMADA - SEM ENERGIA",
-      "location": "RS-ST01-07-00T-SLA03",
-      "opened_at": "2026-07-08T11:47:58.430Z",
-      "team": "ELÉTRICA"
-    }
-  ]
+  "incidents": []
 }
