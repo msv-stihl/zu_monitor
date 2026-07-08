@@ -1,20 +1,6 @@
 {
   "incidents": [
     {
-      "id": "97955",
-      "name": "ZU - FALTA DE ENERGIA - FÁBRICA",
-      "location": "RS-ST01-01-00T-SLA01",
-      "opened_at": "2026-07-08T10:38:59.063Z",
-      "team": "ELÉTRICA"
-    },
-    {
-      "id": "97956",
-      "name": "ZU - POCETO - MANUTENÇÃO",
-      "location": "RS-ST01-28-UTL-EFL01-PCT001",
-      "opened_at": "2026-07-08T10:44:01.253Z",
-      "team": "UTILIDADES"
-    },
-    {
       "id": "97957",
       "name": "ZU - PORTA RÁPIDA - VERIFICAÇÃO",
       "location": "RS-ST01-50-00T-AIN01-PRR014",
