@@ -6,6 +6,13 @@
       "location": "RS-ST01-31-01S-STR01",
       "opened_at": "2026-07-08T12:38:51.953Z",
       "team": "LIMPEZA CONVENCIONAL"
+    },
+    {
+      "id": "97965",
+      "name": "ZU - PORTA SECCIONAL - VERIFICAÇÃO",
+      "location": "RS-ST01-15-00T-AIN01-PRS001",
+      "opened_at": "2026-07-08T12:50:18.403Z",
+      "team": "ELÉTRICA"
     }
   ]
 }
