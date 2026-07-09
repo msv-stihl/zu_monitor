@@ -1,11 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "98003",
-      "name": "ZU - FALTA DE ENERGIA",
-      "location": "RS-ST01-27",
-      "opened_at": "2026-07-09T12:26:59.477Z",
-      "team": "ELÉTRICA"
-    }
-  ]
+  "incidents": []
 }
