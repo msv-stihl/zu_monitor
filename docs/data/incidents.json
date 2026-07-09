@@ -1,11 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "98017",
-      "name": "ZU - FIAÇÃO EXPOSTA",
-      "location": "RS-ST01-42",
-      "opened_at": "2026-07-09T14:22:48.907Z",
-      "team": "ELÉTRICA"
-    }
-  ]
+  "incidents": []
 }
