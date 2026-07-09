@@ -6,6 +6,20 @@
       "location": "RS-ST01-31-02P-WCF03",
       "opened_at": "2026-07-09T10:58:07.637Z",
       "team": "CIVIL"
+    },
+    {
+      "id": "97990",
+      "name": "ZU - DESENTUPIMENTO VASO",
+      "location": "RS-ST01-31-00T-WCF02",
+      "opened_at": "2026-07-09T11:22:02.430Z",
+      "team": "CIVIL"
+    },
+    {
+      "id": "97992",
+      "name": "ZU - PORTA RÁPIDA - VERIFICAÇÃO",
+      "location": "RS-ST01-01-00T-AIN01-PRR002",
+      "opened_at": "2026-07-09T11:27:28.143Z",
+      "team": "ELÉTRICA"
     }
   ]
 }
