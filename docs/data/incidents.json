@@ -1,13 +1,6 @@
 {
   "incidents": [
     {
-      "id": "98080",
-      "name": "ZU - PORTA RÁPIDA - VERIFICAÇÃO",
-      "location": "RS-ST01-28-00T-AIN01-PRR002",
-      "opened_at": "2026-07-10T16:53:10.753Z",
-      "team": "ELÉTRICA"
-    },
-    {
       "id": "98081",
       "name": "ZU - BEBEDOURO - MANUTENÇÃO",
       "location": "RS-ST01-31-00T-STR04-BBD005",
