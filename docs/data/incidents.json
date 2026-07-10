@@ -15,25 +15,18 @@
       "team": "CIVIL"
     },
     {
-      "id": "98063",
-      "name": "ZU - VAZAMENTO DE ÁGUA",
-      "location": "RS-ST01-07",
-      "opened_at": "2026-07-10T12:57:43.377Z",
-      "team": "CIVIL"
-    },
-    {
-      "id": "98067",
-      "name": "ZU - FALTA DE ENERGIA",
-      "location": "RS-ST01-27",
-      "opened_at": "2026-07-10T13:01:53.070Z",
-      "team": "ELÉTRICA"
-    },
-    {
       "id": "98068",
       "name": "ZU - [CG]REPOSIÇÃO MATERIAL",
       "location": "RS-ST01-26",
       "opened_at": "2026-07-10T13:08:48.017Z",
       "team": "LIMPEZA CONVENCIONAL"
+    },
+    {
+      "id": "98069",
+      "name": "ZU - AR CONDICIONADO - NÃO ESQUENTA",
+      "location": "RS-ST01-27-00T-SLA21-SPL008",
+      "opened_at": "2026-07-10T13:13:29.240Z",
+      "team": "REFRIGERAÇÃO"
     }
   ]
 }
