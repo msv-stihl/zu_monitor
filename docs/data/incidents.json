@@ -1,25 +1,11 @@
 {
   "incidents": [
     {
-      "id": "98062",
-      "name": "ZU - DESENTUPIMENTO VASO",
-      "location": "RS-ST01-31-02P-WCM01-BOX01",
-      "opened_at": "2026-07-10T12:51:49.837Z",
-      "team": "CIVIL"
-    },
-    {
       "id": "98068",
       "name": "ZU - [CG]REPOSIÇÃO MATERIAL",
       "location": "RS-ST01-26",
       "opened_at": "2026-07-10T13:08:48.017Z",
       "team": "LIMPEZA CONVENCIONAL"
-    },
-    {
-      "id": "98069",
-      "name": "ZU - AR CONDICIONADO - NÃO ESQUENTA",
-      "location": "RS-ST01-27-00T-SLA21-SPL008",
-      "opened_at": "2026-07-10T13:13:29.240Z",
-      "team": "REFRIGERAÇÃO"
     },
     {
       "id": "98070",
