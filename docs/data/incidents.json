@@ -6,6 +6,13 @@
       "location": "RS-ST01-11",
       "opened_at": "2026-07-10T13:29:44.070Z",
       "team": "REFRIGERAÇÃO"
+    },
+    {
+      "id": "98077",
+      "name": "ZU - VAZAMENTO DE ÁGUA",
+      "location": "RS-ST01-28",
+      "opened_at": "2026-07-10T14:38:01.397Z",
+      "team": "CIVIL"
     }
   ]
 }
