@@ -1,13 +1,6 @@
 {
   "incidents": [
     {
-      "id": "98068",
-      "name": "ZU - [CG]REPOSIÇÃO MATERIAL",
-      "location": "RS-ST01-26",
-      "opened_at": "2026-07-10T13:08:48.017Z",
-      "team": "LIMPEZA CONVENCIONAL"
-    },
-    {
       "id": "98070",
       "name": "ZU - AR CONDICIONADO - VAZAMENTO",
       "location": "RS-ST01-11",
