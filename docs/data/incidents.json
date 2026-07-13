@@ -6,6 +6,20 @@
       "location": "RS-ST01-31-00T-WCM01-BOX01",
       "opened_at": "2026-07-13T14:04:26.493Z",
       "team": "CIVIL"
+    },
+    {
+      "id": "98124",
+      "name": "ZU - DESENTUPIMENTO VASO",
+      "location": "RS-ST01-31-00T-WCF03-BOX02",
+      "opened_at": "2026-07-13T14:11:50.333Z",
+      "team": "CIVIL"
+    },
+    {
+      "id": "98125",
+      "name": "ZU - FALTA DE ENERGIA",
+      "location": "RS-ST01-27",
+      "opened_at": "2026-07-13T14:19:07.957Z",
+      "team": "ELÉTRICA"
     }
   ]
 }
