@@ -6,6 +6,13 @@
       "location": "RS-ST01-15-02P-WCF01",
       "opened_at": "2026-07-13T16:40:47.467Z",
       "team": "CIVIL"
+    },
+    {
+      "id": "98136",
+      "name": "ZU - POCETO - MANUTENÇÃO",
+      "location": "RS-ST01-16-UTL-EFL01",
+      "opened_at": "2026-07-13T16:44:17.350Z",
+      "team": "UTILIDADES"
     }
   ]
 }
