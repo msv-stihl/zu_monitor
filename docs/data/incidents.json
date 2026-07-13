@@ -1,13 +1,6 @@
 {
   "incidents": [
     {
-      "id": "98098",
-      "name": "ZU - ELEVATÓRIA - TRANSBORDO",
-      "location": "RS-ST01-32-UTL-EFL01-PCT002",
-      "opened_at": "2026-07-13T10:51:29.680Z",
-      "team": "UTILIDADES"
-    },
-    {
       "id": "98100",
       "name": "ZU - [CG]RECOLHIMENTO RESÍDUOS FÁBRICA",
       "location": "RS-ST01-50-00T-STR05",
