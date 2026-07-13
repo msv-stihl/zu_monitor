@@ -13,6 +13,13 @@
       "location": "RS-ST01-27-00T-WCF01-BOX03",
       "opened_at": "2026-07-13T12:47:58.583Z",
       "team": "CIVIL"
+    },
+    {
+      "id": "98112",
+      "name": "ZU - DESENTUPIMENTO VASO",
+      "location": "RS-ST01-01-00T-WCM01-BOX01",
+      "opened_at": "2026-07-13T12:51:08.043Z",
+      "team": "CIVIL"
     }
   ]
 }
