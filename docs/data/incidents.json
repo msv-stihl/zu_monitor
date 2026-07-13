@@ -6,20 +6,6 @@
       "location": "RS-ST01-50-00T-STR05",
       "opened_at": "2026-07-13T11:03:16.997Z",
       "team": "LIMPEZA CONVENCIONAL"
-    },
-    {
-      "id": "98104",
-      "name": "ZU - FALTA DE ENERGIA - ADMINISTRATIVO",
-      "location": "RS-ST01-32-01P-SLA02",
-      "opened_at": "2026-07-13T11:39:47.613Z",
-      "team": "ELÉTRICA"
-    },
-    {
-      "id": "98106",
-      "name": "ZU - BEBEDOURO - MANUTENÇÃO",
-      "location": "RS-ST01-16-00T-STR01-BBD001",
-      "opened_at": "2026-07-13T11:58:01.733Z",
-      "team": "REFRIGERAÇÃO"
     }
   ]
 }
