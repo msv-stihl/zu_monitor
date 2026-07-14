@@ -13,13 +13,6 @@
       "location": "RS-ST01-43-00T-AIN01-PRS020",
       "opened_at": "2026-07-14T11:06:31.540Z",
       "team": "ELÉTRICA"
-    },
-    {
-      "id": "98180",
-      "name": "ZU - TOMADA - SEM ENERGIA",
-      "location": "RS-ST01-31-00T-STR07",
-      "opened_at": "2026-07-14T11:15:10.250Z",
-      "team": "ELÉTRICA"
     }
   ]
 }
