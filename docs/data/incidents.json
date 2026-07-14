@@ -6,6 +6,13 @@
       "location": "RS-ST01-22",
       "opened_at": "2026-07-14T12:34:24.730Z",
       "team": "ELÉTRICA"
+    },
+    {
+      "id": "98192",
+      "name": "ZU - FIAÇÃO EXPOSTA",
+      "location": "RS-ST01-27",
+      "opened_at": "2026-07-14T13:45:57.197Z",
+      "team": "ELÉTRICA"
     }
   ]
 }
