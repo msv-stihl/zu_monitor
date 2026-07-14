@@ -13,6 +13,13 @@
       "location": "RS-ST01-50-00T-AIN01-PRR014",
       "opened_at": "2026-07-14T10:46:04.907Z",
       "team": "ELÉTRICA"
+    },
+    {
+      "id": "98175",
+      "name": "ZU - VAZAMENTO DE ÁGUA",
+      "location": "RS-ST01-27",
+      "opened_at": "2026-07-14T10:54:47.683Z",
+      "team": "CIVIL"
     }
   ]
 }
