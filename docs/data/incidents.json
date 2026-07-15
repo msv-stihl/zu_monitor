@@ -6,6 +6,13 @@
       "location": "RS-ST01-43-00T-AIN01-KTE001",
       "opened_at": "2026-07-15T11:03:37.407Z",
       "team": "SPCI"
+    },
+    {
+      "id": "98245",
+      "name": "ZU - DESENTUPIMENTO PIA",
+      "location": "RS-ST01-27",
+      "opened_at": "2026-07-15T11:34:30.567Z",
+      "team": "CIVIL"
     }
   ]
 }
