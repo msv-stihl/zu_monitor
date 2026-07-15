@@ -13,6 +13,13 @@
       "location": "RS-ST01-27",
       "opened_at": "2026-07-15T11:34:30.567Z",
       "team": "CIVIL"
+    },
+    {
+      "id": "98247",
+      "name": "ZU - VAZAMENTO DE ÁGUA",
+      "location": "RS-ST01-01-00T-WCF01-PIA01",
+      "opened_at": "2026-07-15T11:43:20.147Z",
+      "team": "CIVIL"
     }
   ]
 }
