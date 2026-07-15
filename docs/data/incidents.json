@@ -1,11 +1,11 @@
 {
   "incidents": [
     {
-      "id": "98240",
-      "name": "ZU - PORTA RÁPIDA - VERIFICAÇÃO",
-      "location": "RS-ST01-31-00T-AIN01-PRR008",
-      "opened_at": "2026-07-15T10:58:14.123Z",
-      "team": "ELÉTRICA"
+      "id": "98241",
+      "name": "ZU - KIT DE EMERGÊNCIA - LACRE ROMPIDO",
+      "location": "RS-ST01-43-00T-AIN01-KTE001",
+      "opened_at": "2026-07-15T11:03:37.407Z",
+      "team": "SPCI"
     }
   ]
 }
