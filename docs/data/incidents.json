@@ -1,13 +1,6 @@
 {
   "incidents": [
     {
-      "id": "98308",
-      "name": "ZU - DESENTUPIMENTO MICTÓRIO",
-      "location": "RS-ST01-43-02P-WCM02-MCT01",
-      "opened_at": "2026-07-16T11:59:05.610Z",
-      "team": "CIVIL"
-    },
-    {
       "id": "98311",
       "name": "ZU - MANUTENÇÃO REDE CLOACAL",
       "location": "RS-ST01-43-00T-SLA02",
