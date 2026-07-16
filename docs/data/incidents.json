@@ -8,24 +8,10 @@
       "team": "CIVIL"
     },
     {
-      "id": "98317",
+      "id": "98320",
       "name": "ZU - DESENTUPIMENTO VASO",
-      "location": "RS-ST01-27-00T-WCM02",
-      "opened_at": "2026-07-16T13:28:02.527Z",
-      "team": "CIVIL"
-    },
-    {
-      "id": "98318",
-      "name": "ZU - DESENTUPIMENTO VASO",
-      "location": "RS-ST01-01-00T-WCM01",
-      "opened_at": "2026-07-16T13:31:46.200Z",
-      "team": "CIVIL"
-    },
-    {
-      "id": "98319",
-      "name": "ZU - HIDROSSANITÁRIA - VAZAMENTO",
-      "location": "RS-ST01-27-00T-WCF01-BOX02",
-      "opened_at": "2026-07-16T13:35:24.310Z",
+      "location": "RS-ST01-50-00T-WCM02",
+      "opened_at": "2026-07-16T13:47:42.487Z",
       "team": "CIVIL"
     }
   ]
