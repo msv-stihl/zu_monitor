@@ -1,13 +1,6 @@
 {
   "incidents": [
     {
-      "id": "98307",
-      "name": "ZU - DESENTUPIMENTO PIA",
-      "location": "RS-ST01-43-02P-WCF01",
-      "opened_at": "2026-07-16T11:53:50.363Z",
-      "team": "CIVIL"
-    },
-    {
       "id": "98308",
       "name": "ZU - DESENTUPIMENTO MICTÓRIO",
       "location": "RS-ST01-43-02P-WCM02-MCT01",
