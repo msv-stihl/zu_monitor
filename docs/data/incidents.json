@@ -6,6 +6,13 @@
       "location": "RS-ST01-43-02P-SLA09-CSE056",
       "opened_at": "2026-07-16T17:06:46.777Z",
       "team": "REFRIGERAÇÃO"
+    },
+    {
+      "id": "98344",
+      "name": "ZU - PORTA RÁPIDA - VERIFICAÇÃO",
+      "location": "RS-ST01-28-00T-AIN01-PRR002",
+      "opened_at": "2026-07-16T17:37:25.710Z",
+      "team": "ELÉTRICA"
     }
   ]
 }
