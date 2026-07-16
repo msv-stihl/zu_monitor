@@ -1,11 +1,11 @@
 {
   "incidents": [
     {
-      "id": "98351",
-      "name": "ZU - FALTA DE ENERGIA - FÁBRICA",
-      "location": "RS-ST01-28-00T-STR05",
-      "opened_at": "2026-07-16T19:36:13.167Z",
-      "team": "ELÉTRICA"
+      "id": "98354",
+      "name": "ZU - AR CONDICIONADO - NÃO LIGA",
+      "location": "RS-ST01-31-01P-SLA03-CSE008",
+      "opened_at": "2026-07-16T19:50:15.383Z",
+      "team": "REFRIGERAÇÃO"
     }
   ]
 }
