@@ -1,11 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "98349",
-      "name": "ZU - [CG]RECOLHIMENTO RESÍDUOS SALA",
-      "location": "RS-ST01-50-00T-SLA04",
-      "opened_at": "2026-07-16T18:48:27.283Z",
-      "team": "LIMPEZA CONVENCIONAL"
-    }
-  ]
+  "incidents": []
 }
