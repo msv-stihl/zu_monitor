@@ -8,18 +8,18 @@
       "team": "CIVIL"
     },
     {
-      "id": "98377",
-      "name": "ZU - DESENTUPIMENTO VASO",
-      "location": "RS-ST01-27-00T-WCM02-BOX06",
-      "opened_at": "2026-07-17T16:53:36.647Z",
-      "team": "CIVIL"
-    },
-    {
       "id": "98381",
       "name": "ZU - DESENTUPIMENTO VASO",
       "location": "RS-ST01-04-00T-WCF01-BOX01",
       "opened_at": "2026-07-17T17:13:37.677Z",
       "team": "CIVIL"
+    },
+    {
+      "id": "98384",
+      "name": "ZU - VENTILADOR - MANUTENÇÃO",
+      "location": "RS-ST01-28-00T-AIN01-VTL079",
+      "opened_at": "2026-07-17T17:32:54.577Z",
+      "team": "ELÉTRICA"
     }
   ]
 }
