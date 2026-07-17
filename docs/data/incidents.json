@@ -6,6 +6,13 @@
       "location": "RS-ST01-43-00T-AIN10",
       "opened_at": "2026-07-17T18:09:11.417Z",
       "team": "ELÉTRICA"
+    },
+    {
+      "id": "98388",
+      "name": "ZU - [CG]RECOLHIMENTO RESÍDUOS FÁBRICA",
+      "location": "RS-ST01-31-00T-STR08",
+      "opened_at": "2026-07-17T18:18:33.140Z",
+      "team": "LIMPEZA CONVENCIONAL"
     }
   ]
 }
