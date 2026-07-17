@@ -6,6 +6,13 @@
       "location": "RS-ST01-01-00T-STR03-BBD003",
       "opened_at": "2026-07-17T10:48:18.907Z",
       "team": "REFRIGERAÇÃO"
+    },
+    {
+      "id": "98357",
+      "name": "ZU - [CG]RECOLHIMENTO RESÍDUOS SALA",
+      "location": "RS-ST01-50-00T-SLA13",
+      "opened_at": "2026-07-17T10:56:34.630Z",
+      "team": "LIMPEZA CONVENCIONAL"
     }
   ]
 }
