@@ -1,13 +1,6 @@
 {
   "incidents": [
     {
-      "id": "98357",
-      "name": "ZU - [CG]RECOLHIMENTO RESÍDUOS SALA",
-      "location": "RS-ST01-50-00T-SLA13",
-      "opened_at": "2026-07-17T10:56:34.630Z",
-      "team": "LIMPEZA CONVENCIONAL"
-    },
-    {
       "id": "98360",
       "name": "ZU - TOMADA - SEM ENERGIA",
       "location": "RS-ST01-50-00T-AIN01-VBF005",
