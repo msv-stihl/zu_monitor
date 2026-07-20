@@ -1,25 +1,11 @@
 {
   "incidents": [
     {
-      "id": "98400",
-      "name": "ZU - BEBEDOURO - MANUTENÇÃO",
-      "location": "RS-ST01-50-00T-LAB03-BBD007",
-      "opened_at": "2026-07-20T12:53:40.187Z",
-      "team": "REFRIGERAÇÃO"
-    },
-    {
       "id": "98403",
       "name": "ZU - [FC]LIMPEZA - PISO",
       "location": "RS-ST01-01",
       "opened_at": "2026-07-20T13:13:57.473Z",
       "team": "LIMPEZA CONVENCIONAL"
-    },
-    {
-      "id": "98405",
-      "name": "ZU - DESENTUPIMENTO VASO",
-      "location": "RS-ST01-16-00T-WCM01",
-      "opened_at": "2026-07-20T13:19:42.423Z",
-      "team": "CIVIL"
     }
   ]
 }
