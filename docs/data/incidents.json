@@ -15,18 +15,18 @@
       "team": "LIMPEZA CONVENCIONAL"
     },
     {
-      "id": "98397",
-      "name": "ZU - FALTA DE ENERGIA - ADMINISTRATIVO",
-      "location": "RS-ST01-15-00T-SLA21",
-      "opened_at": "2026-07-20T11:59:32.030Z",
-      "team": "ELÉTRICA"
-    },
-    {
       "id": "98398",
       "name": "ZU - BEBEDOURO - MANUTENÇÃO",
       "location": "RS-ST01-28-00T-STR04-BBD003",
       "opened_at": "2026-07-20T12:20:05.547Z",
       "team": "REFRIGERAÇÃO"
+    },
+    {
+      "id": "98399",
+      "name": "ZU - FALTA DE ENERGIA - FÁBRICA",
+      "location": "RS-ST01-28-00T-STR03",
+      "opened_at": "2026-07-20T12:23:05.603Z",
+      "team": "ELÉTRICA"
     }
   ]
 }
