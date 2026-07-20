@@ -8,11 +8,18 @@
       "team": "LIMPEZA CONVENCIONAL"
     },
     {
-      "id": "98394",
-      "name": "ZU - CÂMARA FRIA - MANUTENÇÃO",
-      "location": "RS-ST01-15",
-      "opened_at": "2026-07-20T11:28:42.563Z",
-      "team": "REFRIGERAÇÃO"
+      "id": "98396",
+      "name": "ZU - [FC]LIMPEZA - PISO",
+      "location": "RS-ST01-56",
+      "opened_at": "2026-07-20T11:54:42.390Z",
+      "team": "LIMPEZA CONVENCIONAL"
+    },
+    {
+      "id": "98397",
+      "name": "ZU - FALTA DE ENERGIA - ADMINISTRATIVO",
+      "location": "RS-ST01-15-00T-SLA21",
+      "opened_at": "2026-07-20T11:59:32.030Z",
+      "team": "ELÉTRICA"
     }
   ]
 }
