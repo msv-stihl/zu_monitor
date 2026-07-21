@@ -6,6 +6,13 @@
       "location": "RS-ST01-49-05P-SLA03",
       "opened_at": "2026-07-21T17:32:53.033Z",
       "team": "CIVIL"
+    },
+    {
+      "id": "98481",
+      "name": "ZU - [FC]LIMPEZA - PISO",
+      "location": "RS-ST01-43-00T-STR01",
+      "opened_at": "2026-07-21T17:42:00.873Z",
+      "team": "LIMPEZA CONVENCIONAL"
     }
   ]
 }
