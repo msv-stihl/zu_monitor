@@ -1,13 +1,6 @@
 {
   "incidents": [
     {
-      "id": "98446",
-      "name": "ZU - VENTILADOR - NÃO LIGA",
-      "location": "RS-ST01-28-00T-STR06",
-      "opened_at": "2026-07-21T11:04:30.457Z",
-      "team": "ELÉTRICA"
-    },
-    {
       "id": "98447",
       "name": "ZU - DESENTUPIMENTO VASO",
       "location": "RS-ST01-52-00T-WCM01-BOX03",
