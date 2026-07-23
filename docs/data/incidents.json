@@ -1,11 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "98550",
-      "name": "ZU - BOMBA - DESLIGADA",
-      "location": "RS-ST01-17-UTL-AGP01-CAA001",
-      "opened_at": "2026-07-23T10:54:44.973Z",
-      "team": "UTILIDADES"
-    }
-  ]
+  "incidents": []
 }
