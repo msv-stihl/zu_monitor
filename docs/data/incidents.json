@@ -1,11 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "98576",
-      "name": "ZU - TUBULAÇÃO - MANUTENÇÃO",
-      "location": "RS-ST01-31-01S-STR01",
-      "opened_at": "2026-07-23T15:48:49.470Z",
-      "team": "UTILIDADES"
-    }
-  ]
+  "incidents": []
 }
