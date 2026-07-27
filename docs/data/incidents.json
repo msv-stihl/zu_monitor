@@ -6,6 +6,13 @@
       "location": "RS-ST01-56-02P-WCM05",
       "opened_at": "2026-07-27T18:24:36.430Z",
       "team": "CIVIL"
+    },
+    {
+      "id": "98639",
+      "name": "ZU - FALTA DE ENERGIA - FÁBRICA",
+      "location": "RS-ST01-31-01S-SLA02-BBD011",
+      "opened_at": "2026-07-27T18:55:22.550Z",
+      "team": "ELÉTRICA"
     }
   ]
 }
