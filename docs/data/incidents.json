@@ -6,6 +6,13 @@
       "location": "RS-ST01-31-00T-AIN01-CDA002",
       "opened_at": "2026-07-27T10:49:00.203Z",
       "team": "SPCI"
+    },
+    {
+      "id": "98593",
+      "name": "ZU - BOMBA - MANUTENÇÃO",
+      "location": "RS-ST01-22",
+      "opened_at": "2026-07-27T10:58:57.307Z",
+      "team": "UTILIDADES"
     }
   ]
 }
