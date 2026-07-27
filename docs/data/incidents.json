@@ -1,11 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "98634",
-      "name": "ZU - DESENTUPIMENTO RALO",
-      "location": "RS-ST01-04",
-      "opened_at": "2026-07-27T16:56:42.660Z",
-      "team": "CIVIL"
-    }
-  ]
+  "incidents": []
 }
