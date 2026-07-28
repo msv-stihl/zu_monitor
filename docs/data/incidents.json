@@ -1,18 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "98711",
-      "name": "ZU - TOMADA - SEM ENERGIA",
-      "location": "RS-ST01-27",
-      "opened_at": "2026-07-28T17:56:25.540Z",
-      "team": "ELÉTRICA"
-    },
-    {
-      "id": "98714",
-      "name": "ZU - [FC]LIMPEZA - PISO",
-      "location": "RS-ST01-50-01P-WCM02",
-      "opened_at": "2026-07-28T18:09:15.377Z",
-      "team": "LIMPEZA CONVENCIONAL"
-    }
-  ]
+  "incidents": []
 }
