@@ -1,11 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "98756",
-      "name": "ZU - POCETO - TRANSBORDO",
-      "location": "RS-ST01-31-UTL-EFL01",
-      "opened_at": "2026-07-29T18:27:03.677Z",
-      "team": "UTILIDADES"
-    }
-  ]
+  "incidents": []
 }
