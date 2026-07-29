@@ -1,11 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "98738",
-      "name": "ZU - MACA - LACRE ROMPIDO",
-      "location": "RS-ST01-16-00T-AIN01-MCA001",
-      "opened_at": "2026-07-29T12:05:13.990Z",
-      "team": "SPCI"
-    }
-  ]
+  "incidents": []
 }
