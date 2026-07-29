@@ -1,13 +1,6 @@
 {
   "incidents": [
     {
-      "id": "98757",
-      "name": "ZU - VENTILADOR - MANUTENÇÃO",
-      "location": "RS-ST01-31-00T-STR03",
-      "opened_at": "2026-07-29T18:25:29.913Z",
-      "team": "ELÉTRICA"
-    },
-    {
       "id": "98756",
       "name": "ZU - POCETO - TRANSBORDO",
       "location": "RS-ST01-31-UTL-EFL01",
