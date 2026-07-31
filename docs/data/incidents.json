@@ -1,20 +1,6 @@
 {
   "incidents": [
     {
-      "id": "99845",
-      "name": "ZU - [FC]LIMPEZA - PISO",
-      "location": "RS-ST01-50-00T-STR04",
-      "opened_at": "2026-07-31T11:22:44.643Z",
-      "team": "LIMPEZA CONVENCIONAL"
-    },
-    {
-      "id": "99846",
-      "name": "ZU - [CG]REPOSIÇÃO MATERIAL",
-      "location": "RS-ST01-31-02P-WCM01",
-      "opened_at": "2026-07-31T11:44:04.367Z",
-      "team": "LIMPEZA CONVENCIONAL"
-    },
-    {
       "id": "99850",
       "name": "ZU - BEBEDOURO - MANUTENÇÃO",
       "location": "RS-ST01-28-00T-STR03-BBD001",
