@@ -13,6 +13,13 @@
       "location": "RS-ST01-31-02P-WCM01",
       "opened_at": "2026-07-31T11:44:04.367Z",
       "team": "LIMPEZA CONVENCIONAL"
+    },
+    {
+      "id": "99850",
+      "name": "ZU - BEBEDOURO - MANUTENÇÃO",
+      "location": "RS-ST01-28-00T-STR03-BBD001",
+      "opened_at": "2026-07-31T12:33:37.650Z",
+      "team": "REFRIGERAÇÃO"
     }
   ]
 }
