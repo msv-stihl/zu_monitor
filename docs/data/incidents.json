@@ -15,13 +15,6 @@
       "team": "CIVIL"
     },
     {
-      "id": "100311",
-      "name": "ZU - DESENTUPIMENTO VASO",
-      "location": "RS-ST01-49-04P-WCM01-BOX03",
-      "opened_at": "2026-08-03T13:10:51.517Z",
-      "team": "CIVIL"
-    },
-    {
       "id": "100312",
       "name": "ZU - DESENTUPIMENTO VASO",
       "location": "RS-ST01-28-00T-WCM01-BOX03",
@@ -33,6 +26,13 @@
       "name": "ZU - DESENTUPIMENTO VASO",
       "location": "RS-ST01-16-00T-WCM01-BOX01",
       "opened_at": "2026-08-03T13:17:20.907Z",
+      "team": "CIVIL"
+    },
+    {
+      "id": "100314",
+      "name": "ZU - DESENTUPIMENTO VASO",
+      "location": "RS-ST01-27-00T-WCM02",
+      "opened_at": "2026-08-03T13:20:57.270Z",
       "team": "CIVIL"
     }
   ]
