@@ -6,6 +6,13 @@
       "location": "RS-ST01-31-01P-SLA25",
       "opened_at": "2026-08-03T11:16:24.847Z",
       "team": "LIMPEZA CONVENCIONAL"
+    },
+    {
+      "id": "100296",
+      "name": "ZU - VENTILADOR - NÃO LIGA",
+      "location": "RS-ST01-28-00T-STR05",
+      "opened_at": "2026-08-03T11:33:42.120Z",
+      "team": "ELÉTRICA"
     }
   ]
 }
