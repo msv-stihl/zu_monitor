@@ -1,11 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "101779",
-      "name": "ZU - [FC]LIMPEZA - PISO",
-      "location": "RS-ST01-56-00T-WPF02",
-      "opened_at": "2026-08-03T14:07:02.333Z",
-      "team": "LIMPEZA CONVENCIONAL"
-    }
-  ]
+  "incidents": []
 }
