@@ -6,6 +6,34 @@
       "location": "RS-ST01-31",
       "opened_at": "2026-08-03T12:57:52.590Z",
       "team": "ELÉTRICA"
+    },
+    {
+      "id": "100308",
+      "name": "ZU - DESENTUPIMENTO VASO",
+      "location": "RS-ST01-27-00T-WCM02-BOX05",
+      "opened_at": "2026-08-03T13:03:01.833Z",
+      "team": "CIVIL"
+    },
+    {
+      "id": "100309",
+      "name": "ZU - POCETO - TRANSBORDO",
+      "location": "RS-ST01-11-UTL-EFL01-PCT003",
+      "opened_at": "2026-08-03T13:06:56.387Z",
+      "team": "UTILIDADES"
+    },
+    {
+      "id": "100310",
+      "name": "ZU - HIDROSSANITÁRIA - VAZAMENTO",
+      "location": "RS-ST01-27-00T-WCF01-BOX04",
+      "opened_at": "2026-08-03T13:07:22.747Z",
+      "team": "CIVIL"
+    },
+    {
+      "id": "100311",
+      "name": "ZU - DESENTUPIMENTO VASO",
+      "location": "RS-ST01-49-04P-WCM01-BOX03",
+      "opened_at": "2026-08-03T13:10:51.517Z",
+      "team": "CIVIL"
     }
   ]
 }
