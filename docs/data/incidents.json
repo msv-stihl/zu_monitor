@@ -6,6 +6,13 @@
       "location": "RS-ST01-28-00T-WCM02-BOX02",
       "opened_at": "2026-08-05T11:21:08.517Z",
       "team": "CIVIL"
+    },
+    {
+      "id": "101869",
+      "name": "ZU - [CG]RECOLHIMENTO RESÍDUOS FÁBRICA",
+      "location": "RS-ST01-28-01S-STR01",
+      "opened_at": "2026-08-05T12:22:25.553Z",
+      "team": "LIMPEZA CONVENCIONAL"
     }
   ]
 }
