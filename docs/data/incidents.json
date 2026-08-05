@@ -6,20 +6,6 @@
       "location": "RS-ST01-28-00T-WCM02-BOX02",
       "opened_at": "2026-08-05T11:21:08.517Z",
       "team": "CIVIL"
-    },
-    {
-      "id": "101863",
-      "name": "ZU - POCETO - TRANSBORDO",
-      "location": "RS-ST01-31-UTL-EFL01-PCT002",
-      "opened_at": "2026-08-05T11:37:00.103Z",
-      "team": "UTILIDADES"
-    },
-    {
-      "id": "101864",
-      "name": "ZU - TORRE DE RESFRIAMENTO - TEMPERATURA ALTA",
-      "location": "RS-ST01-22-UTL-RES01-TRR001",
-      "opened_at": "2026-08-05T11:40:10.450Z",
-      "team": "UTILIDADES"
     }
   ]
 }
