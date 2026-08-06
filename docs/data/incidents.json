@@ -1,13 +1,6 @@
 {
   "incidents": [
     {
-      "id": "101929",
-      "name": "ZU - VAZAMENTO DE ÁGUA",
-      "location": "RS-ST01-56",
-      "opened_at": "2026-08-06T12:41:10.417Z",
-      "team": "CIVIL"
-    },
-    {
       "id": "101931",
       "name": "ZU - VAZAMENTO DE ÁGUA",
       "location": "RS-ST01-56-00T-SLA13",
