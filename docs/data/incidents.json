@@ -13,6 +13,13 @@
       "location": "RS-ST01-56-00T-SLA13",
       "opened_at": "2026-08-06T12:54:37.690Z",
       "team": "CIVIL"
+    },
+    {
+      "id": "101934",
+      "name": "ZU - [CG]REPOSIÇÃO MATERIAL",
+      "location": "RS-ST01-43-01P-WCF01",
+      "opened_at": "2026-08-06T13:01:05.257Z",
+      "team": "LIMPEZA CONVENCIONAL"
     }
   ]
 }
