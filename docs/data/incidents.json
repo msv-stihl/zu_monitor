@@ -1,13 +1,6 @@
 {
   "incidents": [
     {
-      "id": "101960",
-      "name": "ZU - DESENTUPIMENTO VASO",
-      "location": "RS-ST01-50-00T-WCM02",
-      "opened_at": "2026-08-06T16:55:41.740Z",
-      "team": "CIVIL"
-    },
-    {
       "id": "101961",
       "name": "ZU - DESENTUPIMENTO VASO",
       "location": "RS-ST01-28-00T-WCM01",
