@@ -1,18 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "101921",
-      "name": "ZU - POCETO - TRANSBORDO",
-      "location": "RS-ST01-11-UTL-EFL01-PCT003",
-      "opened_at": "2026-08-06T10:43:05.410Z",
-      "team": "UTILIDADES"
-    },
-    {
-      "id": "101922",
-      "name": "ZU - VENTILADOR - NÃO LIGA",
-      "location": "RS-ST01-50-00T-AIN01-VBF001",
-      "opened_at": "2026-08-06T10:44:40.370Z",
-      "team": "ELÉTRICA"
-    }
-  ]
+  "incidents": []
 }
