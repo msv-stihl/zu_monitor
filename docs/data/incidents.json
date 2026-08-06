@@ -1,11 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "101925",
-      "name": "ZU - CÂMARA FRIA - MANUTENÇÃO",
-      "location": "RS-ST01-15-00T-SLA10",
-      "opened_at": "2026-08-06T11:30:29.810Z",
-      "team": "REFRIGERAÇÃO"
-    }
-  ]
+  "incidents": []
 }
