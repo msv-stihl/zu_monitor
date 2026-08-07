@@ -6,6 +6,13 @@
       "location": "RS-ST01-50-00T-STR04",
       "opened_at": "2026-08-07T18:39:07.517Z",
       "team": "ELÉTRICA"
+    },
+    {
+      "id": "102047",
+      "name": "ZU - FALTA DE ENERGIA - FÁBRICA",
+      "location": "RS-ST01-32",
+      "opened_at": "2026-08-07T18:42:08.420Z",
+      "team": "ELÉTRICA"
     }
   ]
 }
