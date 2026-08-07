@@ -1,18 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "102038",
-      "name": "ZU - FALTA DE ENERGIA",
-      "location": "RS-ST01-27-00T-SLA23",
-      "opened_at": "2026-08-07T17:43:28.363Z",
-      "team": "ELÉTRICA"
-    },
-    {
-      "id": "102040",
-      "name": "ZU - HIDROSSANITÁRIA - VAZAMENTO",
-      "location": "RS-ST01-43-01P-WCM01-PIA05",
-      "opened_at": "2026-08-07T17:49:07.817Z",
-      "team": "CIVIL"
-    }
-  ]
+  "incidents": []
 }
