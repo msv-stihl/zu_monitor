@@ -1,10 +1,10 @@
 {
   "incidents": [
     {
-      "id": "102057",
-      "name": "ZU - FALTA DE ENERGIA - FÁBRICA",
-      "location": "RS-ST01-31-01P-SLA25",
-      "opened_at": "2026-08-07T19:26:46.967Z",
+      "id": "102058",
+      "name": "ZU - FALTA DE ENERGIA - ADMINISTRATIVO",
+      "location": "RS-ST01-38",
+      "opened_at": "2026-08-07T19:36:45.937Z",
       "team": "ELÉTRICA"
     }
   ]
