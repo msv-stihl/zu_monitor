@@ -15,10 +15,17 @@
       "team": "CIVIL"
     },
     {
-      "id": "102094",
-      "name": "ZU - DESENTUPIMENTO MICTÓRIO",
-      "location": "RS-ST01-50-00T-WCM01-MCT01",
-      "opened_at": "2026-08-10T13:28:27.057Z",
+      "id": "102095",
+      "name": "ZU - HIDROSSANITÁRIA - VAZAMENTO",
+      "location": "RS-ST01-15-00T-WCM01-MCT02",
+      "opened_at": "2026-08-10T13:32:36.970Z",
+      "team": "CIVIL"
+    },
+    {
+      "id": "102096",
+      "name": "ZU - DESENTUPIMENTO VASO",
+      "location": "RS-ST01-01-00T-WCM01-BOX06",
+      "opened_at": "2026-08-10T13:35:27.520Z",
       "team": "CIVIL"
     }
   ]
