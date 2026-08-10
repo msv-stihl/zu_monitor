@@ -6,6 +6,20 @@
       "location": "RS-ST01-01-00T-STR03-BBD003",
       "opened_at": "2026-08-10T12:20:35.130Z",
       "team": "REFRIGERAÇÃO"
+    },
+    {
+      "id": "102089",
+      "name": "ZU - EXTINTOR -SUBSTITUIÇÃO",
+      "location": "RS-ST01-31-00T-AIN01-EXT012",
+      "opened_at": "2026-08-10T12:53:51.890Z",
+      "team": "SPCI"
+    },
+    {
+      "id": "102090",
+      "name": "ZU - ELEVADOR - VERIFICAÇÃO",
+      "location": "RS-ST01-49-00T-SLA02",
+      "opened_at": "2026-08-10T13:00:43.763Z",
+      "team": "ELÉTRICA"
     }
   ]
 }
