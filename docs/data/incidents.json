@@ -1,13 +1,6 @@
 {
   "incidents": [
     {
-      "id": "102071",
-      "name": "ZU - PORTA RÁPIDA - VERIFICAÇÃO",
-      "location": "RS-ST01-28-00T-AIN01-PRR002",
-      "opened_at": "2026-08-10T11:26:15.833Z",
-      "team": "ELÉTRICA"
-    },
-    {
       "id": "102072",
       "name": "ZU - FALTA DE ENERGIA - ADMINISTRATIVO",
       "location": "RS-ST01-18-00T-SLA09",
