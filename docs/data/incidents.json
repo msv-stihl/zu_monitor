@@ -1,13 +1,6 @@
 {
   "incidents": [
     {
-      "id": "102082",
-      "name": "ZU - BEBEDOURO - MANUTENÇÃO",
-      "location": "RS-ST01-01-00T-STR03-BBD003",
-      "opened_at": "2026-08-10T12:20:35.130Z",
-      "team": "REFRIGERAÇÃO"
-    },
-    {
       "id": "102089",
       "name": "ZU - EXTINTOR -SUBSTITUIÇÃO",
       "location": "RS-ST01-31-00T-AIN01-EXT012",
