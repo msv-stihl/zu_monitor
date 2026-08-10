@@ -1,11 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "102102",
-      "name": "ZU - DESENTUPIMENTO PIA",
-      "location": "RS-ST01-15-00T-WCF01-PNE01",
-      "opened_at": "2026-08-10T14:23:43.880Z",
-      "team": "CIVIL"
-    }
-  ]
+  "incidents": []
 }
