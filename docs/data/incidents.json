@@ -1,11 +1,11 @@
 {
   "incidents": [
     {
-      "id": "102072",
-      "name": "ZU - FALTA DE ENERGIA - ADMINISTRATIVO",
-      "location": "RS-ST01-18-00T-SLA09",
-      "opened_at": "2026-08-10T11:39:08.077Z",
-      "team": "ELÉTRICA"
+      "id": "102082",
+      "name": "ZU - BEBEDOURO - MANUTENÇÃO",
+      "location": "RS-ST01-01-00T-STR03-BBD003",
+      "opened_at": "2026-08-10T12:20:35.130Z",
+      "team": "REFRIGERAÇÃO"
     }
   ]
 }
