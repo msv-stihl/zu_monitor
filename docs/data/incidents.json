@@ -8,11 +8,18 @@
       "team": "SPCI"
     },
     {
-      "id": "102090",
-      "name": "ZU - ELEVADOR - VERIFICAÇÃO",
-      "location": "RS-ST01-49-00T-SLA02",
-      "opened_at": "2026-08-10T13:00:43.763Z",
-      "team": "ELÉTRICA"
+      "id": "102093",
+      "name": "ZU - DESENTUPIMENTO VASO",
+      "location": "RS-ST01-50-00T-WCM01-BOX04",
+      "opened_at": "2026-08-10T13:23:35.503Z",
+      "team": "CIVIL"
+    },
+    {
+      "id": "102094",
+      "name": "ZU - DESENTUPIMENTO MICTÓRIO",
+      "location": "RS-ST01-50-00T-WCM01-MCT01",
+      "opened_at": "2026-08-10T13:28:27.057Z",
+      "team": "CIVIL"
     }
   ]
 }
