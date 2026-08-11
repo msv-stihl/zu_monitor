@@ -1,13 +1,6 @@
 {
   "incidents": [
     {
-      "id": "102133",
-      "name": "ZU - AR CONDICIONADO - NÃO RESFRIA",
-      "location": "RS-ST01-50-01P-SLA15-CSE043",
-      "opened_at": "2026-08-11T10:53:14.937Z",
-      "team": "REFRIGERAÇÃO"
-    },
-    {
       "id": "102134",
       "name": "ZU - [FC]RECOLHIMENTO RESÍDUOS SALA",
       "location": "RS-ST01-31-01P-SLA25",
