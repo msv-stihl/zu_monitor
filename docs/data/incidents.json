@@ -1,11 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "102187",
-      "name": "ZU - COMPRESSOR - DESARMADO",
-      "location": "RS-ST01-35-UTL-ARC01-CMP003",
-      "opened_at": "2026-08-12T10:56:44.457Z",
-      "team": "UTILIDADES"
-    }
-  ]
+  "incidents": []
 }
