@@ -1,11 +1,11 @@
 {
   "incidents": [
     {
-      "id": "102191",
-      "name": "ZU - FALTA DE ENERGIA",
-      "location": "RS-ST01-27-00T-SLA23",
-      "opened_at": "2026-08-12T11:29:59.687Z",
-      "team": "ELÉTRICA"
+      "id": "102187",
+      "name": "ZU - COMPRESSOR - DESARMADO",
+      "location": "RS-ST01-35-UTL-ARC01-CMP003",
+      "opened_at": "2026-08-12T10:56:44.457Z",
+      "team": "UTILIDADES"
     }
   ]
 }
