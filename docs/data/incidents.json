@@ -6,13 +6,6 @@
       "location": "RS-ST01-01-00T-WCM01",
       "opened_at": "2026-08-12T13:00:54.943Z",
       "team": "CIVIL"
-    },
-    {
-      "id": "102201",
-      "name": "ZU - FALTA DE ENERGIA",
-      "location": "RS-ST01-07-00T-WCM01",
-      "opened_at": "2026-08-12T13:10:56.827Z",
-      "team": "ELÉTRICA"
     }
   ]
 }
