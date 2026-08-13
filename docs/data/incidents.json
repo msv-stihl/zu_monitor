@@ -1,11 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "102246",
-      "name": "ZU - FALTA DE ÁGUA",
-      "location": "RS-ST01-01",
-      "opened_at": "2026-08-13T12:24:57.273Z",
-      "team": "CIVIL"
-    }
-  ]
+  "incidents": []
 }
