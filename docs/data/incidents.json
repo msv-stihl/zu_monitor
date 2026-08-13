@@ -1,11 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "102253",
-      "name": "ZU - POCETO - MANUTENÇÃO",
-      "location": "RS-ST01-16-UTL-EFL01-PCT004",
-      "opened_at": "2026-08-13T13:23:16.360Z",
-      "team": "UTILIDADES"
-    }
-  ]
+  "incidents": []
 }
