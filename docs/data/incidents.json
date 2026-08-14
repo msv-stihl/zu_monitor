@@ -1,11 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "102313",
-      "name": "ZU - CAIXA HIDRANTE - MANUTENÇÃO",
-      "location": "RS-ST01-31-00T-AIN01-CXH003",
-      "opened_at": "2026-08-14T17:43:14.667Z",
-      "team": "UTILIDADES"
-    }
-  ]
+  "incidents": []
 }
