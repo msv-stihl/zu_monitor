@@ -6,13 +6,6 @@
       "location": "RS-ST01-31-01P-SLA25",
       "opened_at": "2026-08-17T11:40:47.573Z",
       "team": "LIMPEZA CONVENCIONAL"
-    },
-    {
-      "id": "102340",
-      "name": "ZU - POCETO - TRANSBORDO",
-      "location": "RS-ST01-50-UTL-EFL01-PCT004",
-      "opened_at": "2026-08-17T11:55:03.473Z",
-      "team": "UTILIDADES"
     }
   ]
 }
