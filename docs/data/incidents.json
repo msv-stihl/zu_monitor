@@ -1,3 +1,11 @@
 {
-  "incidents": []
+  "incidents": [
+    {
+      "id": "102326",
+      "name": "ZU - AR CONDICIONADO - NÃO RESFRIA",
+      "location": "RS-ST01-01-00T-SLA11",
+      "opened_at": "2026-08-17T10:40:38.957Z",
+      "team": "REFRIGERAÇÃO"
+    }
+  ]
 }
