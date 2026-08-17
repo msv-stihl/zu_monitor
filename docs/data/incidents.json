@@ -8,17 +8,10 @@
       "team": "REFRIGERAÇÃO"
     },
     {
-      "id": "102329",
-      "name": "ZU - AR CONDICIONADO - NÃO LIGA",
-      "location": "RS-ST01-31-02P-SLA05-CSE037",
-      "opened_at": "2026-08-17T10:52:35.417Z",
-      "team": "REFRIGERAÇÃO"
-    },
-    {
-      "id": "102331",
-      "name": "ZU - FALTA DE ÁGUA",
-      "location": "RS-ST01-56-01P-WCM04",
-      "opened_at": "2026-08-17T10:59:49.237Z",
+      "id": "102336",
+      "name": "ZU - TOMADA - SEM ENERGIA",
+      "location": "RS-ST01-50-01P-SLA05",
+      "opened_at": "2026-08-17T11:24:43.860Z",
       "team": "ELÉTRICA"
     }
   ]
