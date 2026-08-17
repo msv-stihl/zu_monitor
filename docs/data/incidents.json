@@ -1,20 +1,6 @@
 {
   "incidents": [
     {
-      "id": "102342",
-      "name": "ZU - DESENTUPIMENTO VASO",
-      "location": "RS-ST01-49-02P-WCM01-BOX04",
-      "opened_at": "2026-08-17T12:19:43.147Z",
-      "team": "CIVIL"
-    },
-    {
-      "id": "102344",
-      "name": "ZU - FALTA DE ENERGIA - ADMINISTRATIVO",
-      "location": "RS-ST01-27-00T-SLA23",
-      "opened_at": "2026-08-17T12:34:20.133Z",
-      "team": "ELÉTRICA"
-    },
-    {
       "id": "102345",
       "name": "ZU - MANUTENÇÃO FECHADURA",
       "location": "RS-ST01-43-02P-WCF01",
