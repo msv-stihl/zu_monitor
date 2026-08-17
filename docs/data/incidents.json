@@ -6,6 +6,13 @@
       "location": "RS-ST01-43-02P-WCF01",
       "opened_at": "2026-08-17T12:50:47.570Z",
       "team": "CIVIL"
+    },
+    {
+      "id": "102346",
+      "name": "ZU - AR CONDICIONADO - NÃO LIGA",
+      "location": "RS-ST01-11-00T-SLA15-SPL024",
+      "opened_at": "2026-08-17T13:03:07.707Z",
+      "team": "REFRIGERAÇÃO"
     }
   ]
 }
