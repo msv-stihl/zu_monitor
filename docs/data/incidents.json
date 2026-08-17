@@ -1,11 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "102364",
-      "name": "ZU - AHU - MANUTENÇÃO",
-      "location": "RS-ST01-50-UTL-EXA01-AHU001",
-      "opened_at": "2026-08-17T16:40:47.463Z",
-      "team": "REFRIGERAÇÃO"
-    }
-  ]
+  "incidents": []
 }
