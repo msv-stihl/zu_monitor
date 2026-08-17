@@ -6,6 +6,13 @@
       "location": "RS-ST01-11-00T-SLA15-SPL024",
       "opened_at": "2026-08-17T13:03:07.707Z",
       "team": "REFRIGERAÇÃO"
+    },
+    {
+      "id": "102348",
+      "name": "ZU - DESENTUPIMENTO MICTÓRIO",
+      "location": "RS-ST01-27-00T-WCM02-MCT05",
+      "opened_at": "2026-08-17T13:35:11.817Z",
+      "team": "CIVIL"
     }
   ]
 }
