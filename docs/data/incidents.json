@@ -13,6 +13,20 @@
       "location": "RS-ST01-43-02P-SLA09-CSE057",
       "opened_at": "2026-08-18T10:57:54.097Z",
       "team": "REFRIGERAÇÃO"
+    },
+    {
+      "id": "102419",
+      "name": "ZU - HIDROSSANITÁRIA - MANUTENÇÃO",
+      "location": "RS-ST01-43-01P-WCM01",
+      "opened_at": "2026-08-18T11:02:02.790Z",
+      "team": "CIVIL"
+    },
+    {
+      "id": "102421",
+      "name": "ZU - FALTA DE ENERGIA - ADMINISTRATIVO",
+      "location": "RS-ST01-42-00T-SLA02",
+      "opened_at": "2026-08-18T11:08:07.720Z",
+      "team": "ELÉTRICA"
     }
   ]
 }
