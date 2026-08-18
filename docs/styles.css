@@ -184,7 +184,7 @@ body {
 .board {
   width: 100%;
   border-collapse: collapse;
-  min-width: 820px;
+  min-width: 1200px;
 }
 
 .board thead th {
@@ -207,21 +207,36 @@ body {
   white-space: nowrap;
 }
 
+.colOS {
+  width: 10%;
+  font-variant-numeric: tabular-nums;
+}
+
 .colName {
-  width: 38%;
+  width: 30%;
 }
 
 .colLoc {
-  width: 26%;
+  width: 18%;
+}
+
+.colTeam {
+  width: 12%;
+}
+
+.colTech {
+  width: 10%;
 }
 
 .colOpened {
-  width: 20%;
+  width: 10%;
+  font-variant-numeric: tabular-nums;
 }
 
 .colLeft {
-  width: 16%;
+  width: 10%;
   text-align: right;
+  font-variant-numeric: tabular-nums;
 }
 
 .rowGreen {

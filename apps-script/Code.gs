@@ -89,17 +89,59 @@ function _fetchApiPayload_(url, payload, cookie, prismaToken, prismaSignal, extr
     }
   }
 
-  var res = UrlFetchApp.fetch(url, {
-    method: "post",
-    headers: headers,
-    payload: payload,
-    muteHttpExceptions: true
-  });
+  var currentUrl = url;
+  var redirectCount = 0;
+  var MAX_REDIRECTS = 3;
+  var lastCode = 0;
+  var lastText = "";
 
-  var code = res.getResponseCode();
-  var text = res.getContentText();
+  while (redirectCount <= MAX_REDIRECTS) {
+    var res = UrlFetchApp.fetch(currentUrl, {
+      method: "post",
+      headers: headers,
+      payload: payload,
+      muteHttpExceptions: true,
+      followRedirects: false
+    });
+
+    lastCode = res.getResponseCode();
+    lastText = res.getContentText();
+
+    if (lastCode === 301 || lastCode === 302 || lastCode === 303 || lastCode === 307 || lastCode === 308) {
+      redirectCount++;
+      var location = res.getHeaders()["Location"] || res.getHeaders()["location"];
+      if (!location) break;
+
+      if (location.startsWith("/")) {
+        try {
+          var parsed = _parseUrl_(currentUrl);
+          currentUrl = parsed.scheme + "://" + parsed.host + location;
+        } catch (e) {
+          break;
+        }
+      } else {
+        currentUrl = location;
+      }
+
+      if (lastCode === 303) {
+        headers = Object.assign({}, headers);
+        delete headers["Content-Type"];
+      }
+
+      continue;
+    }
+
+    break;
+  }
+
+  var code = lastCode;
+  var text = lastText;
   if (code < 200 || code >= 300) {
-    throw new Error("API HTTP " + code + ": " + text.slice(0, 500));
+    var errMsg = "API HTTP " + code + ": " + text.slice(0, 500);
+    if (code === 302 || (text.indexOf("Object moved") >= 0 && text.indexOf("/Prisma4/") >= 0)) {
+      errMsg = "Sessao do Prisma expirou ou URL incorreta (HTTP " + code + "). Atualize API_COOKIE, __RequestVerificationToken e confira API_URL. Detalhes: " + text.slice(0, 300);
+    }
+    throw new Error(errMsg);
   }
 
   try {
@@ -107,6 +149,12 @@ function _fetchApiPayload_(url, payload, cookie, prismaToken, prismaSignal, extr
   } catch (e) {
     throw new Error("API did not return JSON. First 500 chars: " + text.slice(0, 500));
   }
+}
+
+function _parseUrl_(url) {
+  var m = String(url).match(/^([a-zA-Z][a-zA-Z0-9+.-]*):\/\/([^\/?#]+)(.*)?$/);
+  if (!m) throw new Error("Invalid URL: " + url);
+  return { scheme: m[1], host: m[2], rest: m[3] || "" };
 }
 
 function _extractRows_(payload) {
@@ -141,7 +189,9 @@ function _normalizeIncidents_(rows) {
     var r = rows[i];
     if (!r || typeof r !== "object") continue;
 
-    var id = r.c0 !== undefined && r.c0 !== null ? String(r.c0) : "row-" + (i + 1);
+    var osNumber = r.c0 !== undefined && r.c0 !== null ? String(r.c0) : "";
+    var id = osNumber || "row-" + (i + 1);
+
     var openedRaw = r.c1 !== undefined && r.c1 !== null ? String(r.c1) : "";
     var openedAt = "";
     if (openedRaw) {
@@ -149,13 +199,26 @@ function _normalizeIncidents_(rows) {
       if (!isNaN(d.getTime())) openedAt = d.toISOString();
     }
 
-    var rawTeamCode = r.c2 !== undefined && r.c2 !== null ? String(r.c2) : "";
-    var teamName = TEAM_MAP[rawTeamCode] || rawTeamCode;
+    var rawWorkshop = r.c2 !== undefined && r.c2 !== null ? String(r.c2) : "";
+    var teamName = TEAM_MAP[rawWorkshop] || rawWorkshop;
 
-    var name = r.c3 !== undefined && r.c3 !== null ? String(r.c3) : "";
-    var location = r.c6 !== undefined && r.c6 !== null ? String(r.c6) : "";
+    var denomination = r.c3 !== undefined && r.c3 !== null ? String(r.c3) : "";
+    var descriptionOS = r.c5 !== undefined && r.c5 !== null ? String(r.c5) : "";
+    var assetDescription = r.c7 !== undefined && r.c7 !== null ? String(r.c7) : "";
+    var technician = r.c8 !== undefined && r.c8 !== null ? String(r.c8) : "";
 
-    out.push({ id: id, name: name, location: location, opened_at: openedAt, team: teamName });
+    var name = denomination || descriptionOS;
+    var location = assetDescription;
+
+    out.push({
+      id: id,
+      os_number: osNumber,
+      name: name,
+      location: location,
+      team: teamName,
+      technician: technician,
+      opened_at: openedAt
+    });
   }
 
   out.sort(function (a, b) {

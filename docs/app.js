@@ -85,17 +85,29 @@ function buildRow(incident, now) {
   if (cls) tr.className = cls;
   tr.dataset.openedAt = openedAt ? openedAt.toISOString() : "";
 
+  const tdOS = document.createElement("td");
+  tdOS.textContent = incident.os_number ?? "—";
+  tdOS.className = "colOS";
+
   const tdName = document.createElement("td");
   tdName.textContent = incident.name ?? "—";
+  tdName.className = "colName";
 
   const tdLoc = document.createElement("td");
   tdLoc.textContent = incident.location ?? "—";
+  tdLoc.className = "colLoc";
 
   const tdTeam = document.createElement("td");
   tdTeam.textContent = incident.team ?? "—";
+  tdTeam.className = "colTeam";
+
+  const tdTech = document.createElement("td");
+  tdTech.textContent = incident.technician ?? "—";
+  tdTech.className = "colTech";
 
   const tdOpened = document.createElement("td");
   tdOpened.textContent = fmtOpened(openedAt);
+  tdOpened.className = "colOpened";
 
   const tdLeft = document.createElement("td");
   tdLeft.className = "colLeft";
@@ -103,7 +115,7 @@ function buildRow(incident, now) {
   tdLeft.dataset.openedAt = openedAt ? openedAt.toISOString() : "";
   tdLeft.dataset.leftSeconds = String(secondsLeft);
 
-  tr.append(tdName, tdLoc, tdTeam, tdOpened, tdLeft);
+  tr.append(tdOS, tdName, tdLoc, tdTeam, tdTech, tdOpened, tdLeft);
   return tr;
 }
 
@@ -163,9 +175,11 @@ async function refresh() {
     current = incidents
       .map((x) => ({
         id: x.id ?? "",
+        os_number: x.os_number ?? "",
         name: x.name ?? "",
         location: x.location ?? "",
         team: x.team ?? "",
+        technician: x.technician ?? "",
         opened_at: x.opened_at ?? "",
       }))
       .sort((a, b) => {

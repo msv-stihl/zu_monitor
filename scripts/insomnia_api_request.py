@@ -88,7 +88,55 @@ def fetch_api_payload():
     payload = _read_payload()
     headers = _build_headers()
 
-    res = requests.post(url, data=payload.encode("utf-8"), headers=headers, timeout=60)
+    current_url = url
+    current_headers = dict(headers)
+    current_payload = payload.encode("utf-8")
+    redirect_count = 0
+    MAX_REDIRECTS = 3
+
+    while redirect_count <= MAX_REDIRECTS:
+        res = requests.post(
+            current_url,
+            data=current_payload,
+            headers=current_headers,
+            timeout=60,
+            allow_redirects=False,
+        )
+
+        if res.status_code in (301, 302, 303, 307, 308):
+            redirect_count += 1
+            location = res.headers.get("Location") or res.headers.get("location")
+            if not location:
+                break
+
+            location = location.strip()
+            if location.startswith("/"):
+                from urllib.parse import urlparse
+                parsed = urlparse(current_url)
+                current_url = f"{parsed.scheme}://{parsed.netloc}{location}"
+            else:
+                current_url = location
+
+            if res.status_code == 303:
+                current_headers = dict(current_headers)
+                current_headers.pop("Content-Type", None)
+
+            continue
+
+        break
+
+    if res.status_code < 200 or res.status_code >= 300:
+        text_preview = res.text[:500] if res.text else ""
+        err_msg = f"API HTTP {res.status_code}: {text_preview}"
+        if res.status_code == 302 or ("/Prisma4/" in text_preview and "Object moved" in text_preview):
+            err_msg = (
+                "Sessao do Prisma expirou ou URL incorreta "
+                f"(HTTP {res.status_code}). Atualize API_COOKIE, "
+                "__RequestVerificationToken e confira API_URL. "
+                f"Detalhes: {text_preview[:300]}"
+            )
+        raise RuntimeError(err_msg)
+
     res.raise_for_status()
 
     try:
