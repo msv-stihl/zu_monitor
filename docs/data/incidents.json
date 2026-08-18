@@ -1,11 +1,11 @@
 {
   "incidents": [
     {
-      "id": "102445",
-      "name": "ZU - VAZAMENTO DE ÁGUA",
-      "location": "RS-ST01-56-00T-SLA11",
-      "opened_at": "2026-08-18T14:28:09.813Z",
-      "team": "CIVIL"
+      "id": "102447",
+      "name": "ZU - AR CONDICIONADO - VAZAMENTO",
+      "location": "RS-ST01-11-01P-SLA01-SPL020",
+      "opened_at": "2026-08-18T14:34:16.000Z",
+      "team": "REFRIGERAÇÃO"
     }
   ]
 }
