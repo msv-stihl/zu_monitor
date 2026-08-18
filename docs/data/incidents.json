@@ -15,20 +15,6 @@
       "team": "REFRIGERAÇÃO"
     },
     {
-      "id": "102419",
-      "name": "ZU - HIDROSSANITÁRIA - MANUTENÇÃO",
-      "location": "RS-ST01-43-01P-WCM01",
-      "opened_at": "2026-08-18T11:02:02.790Z",
-      "team": "CIVIL"
-    },
-    {
-      "id": "102421",
-      "name": "ZU - FALTA DE ENERGIA - ADMINISTRATIVO",
-      "location": "RS-ST01-42-00T-SLA02",
-      "opened_at": "2026-08-18T11:08:07.720Z",
-      "team": "ELÉTRICA"
-    },
-    {
       "id": "102422",
       "name": "ZU - CHUVEIRO LAVA OLHOS - MANUTENÇÃO",
       "location": "RS-ST01-31-00T-AIN01-CVR004",
