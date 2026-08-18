@@ -1,13 +1,6 @@
 {
   "incidents": [
     {
-      "id": "102416",
-      "name": "ZU - FALTA DE ENERGIA - ADMINISTRATIVO",
-      "location": "RS-ST01-27-00T-SLA25",
-      "opened_at": "2026-08-18T10:41:14.793Z",
-      "team": "ELÉTRICA"
-    },
-    {
       "id": "102418",
       "name": "ZU - AR CONDICIONADO - NÃO LIGA",
       "location": "RS-ST01-43-02P-SLA09-CSE057",
