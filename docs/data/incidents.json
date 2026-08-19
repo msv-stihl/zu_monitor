@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "102471",
-      "os_number": "102471",
-      "name": "ZU - POCETO - NÍVEL ALTO",
-      "location": "PCT-31.002 - TAN385-TANQUE ÁCIDO ALCALINO",
-      "team": "UTILIDADES",
-      "technician": "RENATO LESKE ERT",
-      "opened_at": "2026-08-19T11:17:31.920Z"
-    }
-  ]
+  "incidents": []
 }
