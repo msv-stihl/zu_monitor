@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "102480",
-      "os_number": "102480",
-      "name": "ZU - CAIXA HIDRANTE - LACRE ROMPIDO",
-      "location": "CAIXA DE HIDRANTE - 11.006 - 30006321",
-      "team": "SPCI",
-      "technician": "IGOR GATTO DE OLIVEIRA MARTINS",
-      "opened_at": "2026-08-19T12:21:23.147Z"
-    }
-  ]
+  "incidents": []
 }
