@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "102491",
-      "os_number": "102491",
-      "name": "ZU - AR CONDICIONADO - NÃO LIGA",
-      "location": "VRF-11.001 - 30005624 - CONDENSADORAS P11",
-      "team": "REFRIGERAÇÃO",
-      "technician": "VALDIR LORENA DOS SANTOS",
-      "opened_at": "2026-08-19T16:45:47.357Z"
-    }
-  ]
+  "incidents": []
 }
