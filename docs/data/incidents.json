@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "102502",
-      "os_number": "102502",
-      "name": "ZU - EXTINTOR - LACRE ROMPIDO",
-      "location": "ZCR - CROMO III",
-      "team": "SPCI",
-      "technician": "IGOR GATTO DE OLIVEIRA MARTINS",
-      "opened_at": "2026-08-19T17:49:50.937Z"
-    }
-  ]
+  "incidents": []
 }
