@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "102526",
-      "os_number": "102526",
-      "name": "ZU - DESENTUPIMENTO VASO",
-      "location": "BOX PNE 001 - BAN068 - BRUNIMENTO SUL M ",
-      "team": "CIVIL",
-      "technician": "LUAN NEVES COELHO MACHADO",
-      "opened_at": "2026-08-20T11:39:05.157Z"
-    }
-  ]
+  "incidents": []
 }
