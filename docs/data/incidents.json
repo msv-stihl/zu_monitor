@@ -8,6 +8,15 @@
       "team": "ELÉTRICA",
       "technician": "HENRIQUE GABRIEL DE MELLO PISAROGLO",
       "opened_at": "2026-08-20T10:46:55.360Z"
+    },
+    {
+      "id": "102522",
+      "os_number": "102522",
+      "name": "ZU - BEBEDOURO - MANUTENÇÃO",
+      "location": "BEB-31.014 - 30006195 - EMBARQUE CONTROLADO",
+      "team": "REFRIGERAÇÃO",
+      "technician": "VALDIR LORENA DOS SANTOS",
+      "opened_at": "2026-08-20T10:53:19.233Z"
     }
   ]
 }
