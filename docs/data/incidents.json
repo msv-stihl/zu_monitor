@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "102577",
-      "os_number": "102577",
-      "name": "ZU - DESENTUPIMENTO VASO",
-      "location": "BAN050 - CENTRAL DE SERVIÇOS - F",
-      "team": "CIVIL",
-      "technician": "RAFAEL LUIS GOMES PEREIRA",
-      "opened_at": "2026-08-20T16:53:08.350Z"
-    }
-  ]
+  "incidents": []
 }
