@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "102531",
-      "os_number": "102531",
-      "name": "ZU - TUBULAÇÃO AR COMPRIMIDO - ROMPIDA",
-      "location": "P50 - UTILIDADES",
-      "team": "UTILIDADES",
-      "technician": "RENATO LESKE ERT",
-      "opened_at": "2026-08-20T12:27:11.803Z"
-    }
-  ]
+  "incidents": []
 }
