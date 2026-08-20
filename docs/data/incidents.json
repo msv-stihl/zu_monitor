@@ -8,6 +8,15 @@
       "team": "ELÉTRICA",
       "technician": "HENRIQUE GABRIEL DE MELLO PISAROGLO",
       "opened_at": "2026-08-20T10:46:55.360Z"
+    },
+    {
+      "id": "102524",
+      "os_number": "102524",
+      "name": "ZU - DESENTUPIMENTO MICTÓRIO",
+      "location": "MCT 001 - BAN019 - FUNDIÇÃO GRAVIDADE M",
+      "team": "CIVIL",
+      "technician": "ALEXANDRE LOPES MAGALHAES",
+      "opened_at": "2026-08-20T11:02:50.787Z"
     }
   ]
 }
