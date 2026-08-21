@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "102708",
-      "os_number": "102708",
-      "name": "ZU - HIDRÁULICA - VAZAMENTO",
-      "location": "COPA LESTE - MEZANINO",
-      "team": "CIVIL",
-      "technician": "ANDREY PHILIPP DA SILVA HIPOLITO",
-      "opened_at": "2026-08-21T16:43:10.460000-03:00"
-    }
-  ]
+  "incidents": []
 }
