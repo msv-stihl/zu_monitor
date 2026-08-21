@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "102671",
-      "os_number": "102671",
-      "name": "ZU - MANUTENÇÃO SISTEMA ÁGUA QUENTE",
-      "location": "RESTAURANTE",
-      "team": "REFRIGERAÇÃO",
-      "technician": "WALMORCY KERSTING NETO",
-      "opened_at": "2026-08-21T14:09:59.607000-03:00"
-    }
-  ]
+  "incidents": []
 }
