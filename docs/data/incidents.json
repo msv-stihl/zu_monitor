@@ -8,6 +8,15 @@
       "team": "CIVIL",
       "technician": "VANDERLEI DORNELES DOS SANTOS",
       "opened_at": "2026-08-24T16:12:07.620000-03:00"
+    },
+    {
+      "id": "102728",
+      "os_number": "102728",
+      "name": "ZU - DESENTUPIMENTO VASO",
+      "location": "BAN052 - FUNDIÇAO ALUMINIO - M",
+      "team": "CIVIL",
+      "technician": "RAFAEL LUIS GOMES PEREIRA",
+      "opened_at": "2026-08-24T16:18:56.467000-03:00"
     }
   ]
 }
