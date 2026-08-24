@@ -8,6 +8,15 @@
       "team": "REFRIGERAÇÃO",
       "technician": "VALDIR LORENA DOS SANTOS",
       "opened_at": "2026-08-24T15:24:17.417000-03:00"
+    },
+    {
+      "id": "102725",
+      "os_number": "102725",
+      "name": "ZU - DESENTUPIMENTO VASO",
+      "location": "BOX 002 - BAN020 - FUNDIÇÃO GRAVIDADE F",
+      "team": "CIVIL",
+      "technician": "ALEXANDRE LOPES MAGALHAES",
+      "opened_at": "2026-08-24T15:51:34.853000-03:00"
     }
   ]
 }
