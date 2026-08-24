@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "102716",
-      "os_number": "102716",
-      "name": "ZU - [CG]LIMPEZA - BANHEIRO",
-      "location": "BAN106 - MONTAGEM - M",
-      "team": "LIMPEZA CONVENCIONAL",
-      "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
-      "opened_at": "2026-08-24T09:58:24.470000-03:00"
-    }
-  ]
+  "incidents": []
 }
