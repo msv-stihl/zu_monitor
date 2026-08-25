@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "102813",
-      "os_number": "102813",
-      "name": "ZU - [CG]LIMPEZA - SALA",
-      "location": "SALA RAIO X",
-      "team": "LIMPEZA CONVENCIONAL",
-      "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
-      "opened_at": "2026-08-25T11:23:28.463000-03:00"
-    }
-  ]
+  "incidents": []
 }
