@@ -1,22 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "102730",
-      "os_number": "102730",
-      "name": "ZU - RESERVATÓRIO - VERIFICAÇÃO",
-      "location": "CAA-56.001 - CAA022-RESERVATÓRIO SUPERIOR EXT P56 5M³",
-      "team": "UTILIDADES",
-      "technician": "RENATO LESKE ERT",
-      "opened_at": "2026-08-25T07:45:42.640000-03:00"
-    },
-    {
-      "id": "102732",
-      "os_number": "102732",
-      "name": "ZU - CABEAMENTO ELÉTRICO - MANUTENÇÃO",
-      "location": "UMO - MONTAGEM",
-      "team": "ELÉTRICA",
-      "technician": "ADELAR FERNANDES DE ALMEIDA",
-      "opened_at": "2026-08-25T07:51:42.417000-03:00"
-    }
-  ]
+  "incidents": []
 }
