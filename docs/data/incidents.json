@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "102751",
-      "os_number": "102751",
-      "name": "ZU - HIDROSSANITÁRIA - VAZAMENTO",
-      "location": "PIA 003 - BAN072 - TREINAMENTOS SUL M",
-      "team": "CIVIL",
-      "technician": "LUAN NEVES COELHO MACHADO",
-      "opened_at": "2026-08-25T08:56:27.907000-03:00"
-    }
-  ]
+  "incidents": []
 }
