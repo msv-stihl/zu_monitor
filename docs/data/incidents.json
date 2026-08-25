@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "102737",
-      "os_number": "102737",
-      "name": "ZU - VAZAMENTO DE ÁGUA",
-      "location": "P20 - AFAS",
-      "team": "CIVIL",
-      "technician": "ANDREY PHILIPP DA SILVA HIPOLITO",
-      "opened_at": "2026-08-25T08:15:08.817000-03:00"
-    }
-  ]
+  "incidents": []
 }
