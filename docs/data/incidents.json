@@ -8,6 +8,15 @@
       "team": "ELÉTRICA",
       "technician": "HENRIQUE GABRIEL DE MELLO PISAROGLO",
       "opened_at": "2026-08-26T08:58:12.947000-03:00"
+    },
+    {
+      "id": "102843",
+      "os_number": "102843",
+      "name": "ZU - DESENTUPIMENTO VASO",
+      "location": "BAN107 - MONTAGEM - F",
+      "team": "CIVIL",
+      "technician": "VANDERLEI DORNELES DOS SANTOS",
+      "opened_at": "2026-08-26T09:16:08.903000-03:00"
     }
   ]
 }
