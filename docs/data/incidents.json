@@ -10,13 +10,22 @@
       "opened_at": "2026-08-26T07:52:59.603000-03:00"
     },
     {
-      "id": "102827",
-      "os_number": "102827",
-      "name": "ZU - HIDROSSANITÁRIA - VAZAMENTO",
-      "location": "MCT 001 - BAN111 - MEZANINO OESTE M",
-      "team": "CIVIL",
-      "technician": "RODRIGO DA SILVA SOARES",
-      "opened_at": "2026-08-26T08:04:40-03:00"
+      "id": "102832",
+      "os_number": "102832",
+      "name": "ZU - TOMADA - SEM ENERGIA",
+      "location": "PSL - LOGISTICA",
+      "team": "ELÉTRICA",
+      "technician": "ANDERSON PADILHA DE SOUZA",
+      "opened_at": "2026-08-26T08:13:11.483000-03:00"
+    },
+    {
+      "id": "102834",
+      "os_number": "102834",
+      "name": "ZU - [FC]LIMPEZA - PISO",
+      "location": "HALL DE ENTRADA - RH",
+      "team": "LIMPEZA CONVENCIONAL",
+      "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
+      "opened_at": "2026-08-26T08:17:52.827000-03:00"
     }
   ]
 }
