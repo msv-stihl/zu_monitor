@@ -8,6 +8,15 @@
       "team": "SPCI",
       "technician": "IGOR GATTO DE OLIVEIRA MARTINS",
       "opened_at": "2026-08-26T07:52:59.603000-03:00"
+    },
+    {
+      "id": "102827",
+      "os_number": "102827",
+      "name": "ZU - HIDROSSANITÁRIA - VAZAMENTO",
+      "location": "MCT 001 - BAN111 - MEZANINO OESTE M",
+      "team": "CIVIL",
+      "technician": "RODRIGO DA SILVA SOARES",
+      "opened_at": "2026-08-26T08:04:40-03:00"
     }
   ]
 }
