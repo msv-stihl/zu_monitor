@@ -1,15 +1,6 @@
 {
   "incidents": [
     {
-      "id": "102841",
-      "os_number": "102841",
-      "name": "ZU - HIDROSSANITÁRIA - VAZAMENTO",
-      "location": "MCT 004 - BAN049 - CENTRAL DE SERVIÇOS M",
-      "team": "CIVIL",
-      "technician": "VANDERLEI DORNELES DOS SANTOS",
-      "opened_at": "2026-08-26T08:42:34.930000-03:00"
-    },
-    {
       "id": "102842",
       "os_number": "102842",
       "name": "ZU - PORTA SECCIONAL - VERIFICAÇÃO",
