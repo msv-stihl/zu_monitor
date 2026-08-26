@@ -1,24 +1,6 @@
 {
   "incidents": [
     {
-      "id": "102851",
-      "os_number": "102851",
-      "name": "ZU - DESENTUPIMENTO VASO",
-      "location": "BAN069 - BRUNIMENTO SUL - F",
-      "team": "CIVIL",
-      "technician": "RODRIGO DA SILVA SOARES",
-      "opened_at": "2026-08-26T09:57:46.687000-03:00"
-    },
-    {
-      "id": "102852",
-      "os_number": "102852",
-      "name": "ZU - DESENTUPIMENTO VASO",
-      "location": "BAN049 - CENTRAL DE SERVIÇOS - M",
-      "team": "CIVIL",
-      "technician": "ALEXANDRE LOPES MAGALHAES",
-      "opened_at": "2026-08-26T10:07:31.117000-03:00"
-    },
-    {
       "id": "102853",
       "os_number": "102853",
       "name": "ZU - DESENTUPIMENTO VASO",
