@@ -10,15 +10,6 @@
       "opened_at": "2026-08-26T07:52:59.603000-03:00"
     },
     {
-      "id": "102832",
-      "os_number": "102832",
-      "name": "ZU - TOMADA - SEM ENERGIA",
-      "location": "PSL - LOGISTICA",
-      "team": "ELÉTRICA",
-      "technician": "ANDERSON PADILHA DE SOUZA",
-      "opened_at": "2026-08-26T08:13:11.483000-03:00"
-    },
-    {
       "id": "102834",
       "os_number": "102834",
       "name": "ZU - [FC]LIMPEZA - PISO",
@@ -26,6 +17,15 @@
       "team": "LIMPEZA CONVENCIONAL",
       "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
       "opened_at": "2026-08-26T08:17:52.827000-03:00"
+    },
+    {
+      "id": "102837",
+      "os_number": "102837",
+      "name": "ZU - PORTA RÁPIDA - VERIFICAÇÃO",
+      "location": "PORTA OPEN FAST - 31.011",
+      "team": "ELÉTRICA",
+      "technician": "HENRIQUE GABRIEL DE MELLO PISAROGLO",
+      "opened_at": "2026-08-26T08:22:50.390000-03:00"
     }
   ]
 }
