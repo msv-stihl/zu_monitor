@@ -10,15 +10,6 @@
       "opened_at": "2026-08-27T09:58:03.700000-03:00"
     },
     {
-      "id": "102920",
-      "os_number": "102920",
-      "name": "ZU - HIDROSSANITÁRIA - VAZAMENTO",
-      "location": "BOX 001 - BAN001 - BANHEIRO PLÁSTICO M",
-      "team": "CIVIL",
-      "technician": "ALEXANDRE LOPES MAGALHAES",
-      "opened_at": "2026-08-27T10:16:39.983000-03:00"
-    },
-    {
       "id": "102921",
       "os_number": "102921",
       "name": "ZU - DESENTUPIMENTO VASO",
@@ -35,6 +26,15 @@
       "team": "CIVIL",
       "technician": "ALEXANDRE LOPES MAGALHAES",
       "opened_at": "2026-08-27T10:33:30.413000-03:00"
+    },
+    {
+      "id": "102925",
+      "os_number": "102925",
+      "name": "ZU - FALTA DE ÁGUA",
+      "location": "LAVAGEM DE UTENSILIOS - RESTAURANTE",
+      "team": "CIVIL",
+      "technician": "VANDERLEI DORNELES DOS SANTOS",
+      "opened_at": "2026-08-27T10:43:38.807000-03:00"
     }
   ]
 }
