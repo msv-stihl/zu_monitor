@@ -17,6 +17,15 @@
       "team": "CIVIL",
       "technician": "ALEXANDRE LOPES MAGALHAES",
       "opened_at": "2026-08-27T10:13:32.407000-03:00"
+    },
+    {
+      "id": "102920",
+      "os_number": "102920",
+      "name": "ZU - HIDROSSANITÁRIA - VAZAMENTO",
+      "location": "BOX 001 - BAN001 - BANHEIRO PLÁSTICO M",
+      "team": "CIVIL",
+      "technician": "ALEXANDRE LOPES MAGALHAES",
+      "opened_at": "2026-08-27T10:16:39.983000-03:00"
     }
   ]
 }
