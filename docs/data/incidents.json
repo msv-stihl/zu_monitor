@@ -1,15 +1,6 @@
 {
   "incidents": [
     {
-      "id": "102923",
-      "os_number": "102923",
-      "name": "ZU - DESENTUPIMENTO VASO",
-      "location": "BOX 002 - BAN106 - MONTAGEM M ",
-      "team": "CIVIL",
-      "technician": "ALEXANDRE LOPES MAGALHAES",
-      "opened_at": "2026-08-27T10:33:30.413000-03:00"
-    },
-    {
       "id": "102925",
       "os_number": "102925",
       "name": "ZU - FALTA DE ÁGUA",
