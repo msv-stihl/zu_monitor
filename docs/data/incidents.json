@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "102945",
-      "os_number": "102945",
-      "name": "ZU - FALTA DE ENERGIA - ADMINISTRATIVO",
-      "location": "LAVAGEM DE UTENSILIOS - RESTAURANTE",
-      "team": "ELÉTRICA",
-      "technician": "HENRIQUE GABRIEL DE MELLO PISAROGLO",
-      "opened_at": "2026-08-27T14:37:17.573000-03:00"
-    }
-  ]
+  "incidents": []
 }
