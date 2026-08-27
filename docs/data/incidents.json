@@ -1,6 +1,15 @@
 {
   "incidents": [
     {
+      "id": "102902",
+      "os_number": "102902",
+      "name": "ZU - VENTILADOR - NÃO LIGA",
+      "location": "ZFM - FUNDIÇAO DE MAGNESIO",
+      "team": "ELÉTRICA",
+      "technician": "IZAQUIEL BITELO",
+      "opened_at": "2026-08-27T07:46:11.577000-03:00"
+    },
+    {
       "id": "102904",
       "os_number": "102904",
       "name": "ZU - VAZAMENTO DE ÁGUA",
