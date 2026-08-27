@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "102933",
-      "os_number": "102933",
-      "name": "ZU - BEBEDOURO - MANUTENÇÃO",
-      "location": "BEB-28.001 - 30004504 - FUNDIÇÃO DE ALUMÍNIO",
-      "team": "REFRIGERAÇÃO",
-      "technician": "ARTHUR GABRIEL FERREIRA CADORE",
-      "opened_at": "2026-08-27T13:48:08.513000-03:00"
-    }
-  ]
+  "incidents": []
 }
