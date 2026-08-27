@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "102910",
-      "os_number": "102910",
-      "name": "ZU - REPOSIÇÃO MATERIAL",
-      "location": "BAN046 - CENTRAL DE RESIDUOS - M",
-      "team": "LIMPEZA CONVENCIONAL",
-      "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
-      "opened_at": "2026-08-27T08:46:55.593000-03:00"
-    }
-  ]
+  "incidents": []
 }
