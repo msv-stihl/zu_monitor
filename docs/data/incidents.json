@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "102925",
-      "os_number": "102925",
-      "name": "ZU - FALTA DE ÁGUA",
-      "location": "LAVAGEM DE UTENSILIOS - RESTAURANTE",
-      "team": "CIVIL",
-      "technician": "VANDERLEI DORNELES DOS SANTOS",
-      "opened_at": "2026-08-27T10:43:38.807000-03:00"
-    }
-  ]
+  "incidents": []
 }
