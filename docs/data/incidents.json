@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "102931",
-      "os_number": "102931",
-      "name": "ZU - HIDROSSANITÁRIA - VAZAMENTO",
-      "location": "P56 - VESTIÁRIOS / AMBULATÓRIO",
-      "team": "CIVIL",
-      "technician": "ALEXANDRE LOPES MAGALHAES",
-      "opened_at": "2026-08-27T12:59:35.147000-03:00"
-    }
-  ]
+  "incidents": []
 }
