@@ -1,15 +1,6 @@
 {
   "incidents": [
     {
-      "id": "102972",
-      "os_number": "102972",
-      "name": "ZU - VAZAMENTO DE ÁGUA",
-      "location": "MCT 002 - BAN058 - ADM CILINDROS LESTE M ",
-      "team": "CIVIL",
-      "technician": "RODRIGO DA SILVA SOARES",
-      "opened_at": "2026-08-28T08:24:33.870000-03:00"
-    },
-    {
       "id": "102974",
       "os_number": "102974",
       "name": "ZU - AR CONDICIONADO - NÃO LIGA",
