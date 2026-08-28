@@ -1,15 +1,6 @@
 {
   "incidents": [
     {
-      "id": "102971",
-      "os_number": "102971",
-      "name": "ZU - VENTILADOR - NÃO LIGA",
-      "location": "ZCH - CHIRON",
-      "team": "ELÉTRICA",
-      "technician": "ADELAR FERNANDES DE ALMEIDA",
-      "opened_at": "2026-08-28T08:21:21.437000-03:00"
-    },
-    {
       "id": "102972",
       "os_number": "102972",
       "name": "ZU - VAZAMENTO DE ÁGUA",
