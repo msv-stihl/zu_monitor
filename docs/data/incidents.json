@@ -1,15 +1,6 @@
 {
   "incidents": [
     {
-      "id": "102966",
-      "os_number": "102966",
-      "name": "ZU - AR CONDICIONADO - VAZAMENTO",
-      "location": "ACO-16.005 - 30000893 - MONTAGEM ROLLER HEAD",
-      "team": "REFRIGERAÇÃO",
-      "technician": "MICK PATRICK DOS SANTOS",
-      "opened_at": "2026-08-28T07:39:53.657000-03:00"
-    },
-    {
       "id": "102969",
       "os_number": "102969",
       "name": "ZU - VENTILADOR - NÃO LIGA",
@@ -17,6 +8,15 @@
       "team": "ELÉTRICA",
       "technician": "ANDERSON PADILHA DE SOUZA",
       "opened_at": "2026-08-28T07:58:29.290000-03:00"
+    },
+    {
+      "id": "102970",
+      "os_number": "102970",
+      "name": "ZU - MANUTENÇÃO TELHADO",
+      "location": "TELHADO P07",
+      "team": "CIVIL",
+      "technician": "WALMORCY KERSTING NETO",
+      "opened_at": "2026-08-28T08:04:42.427000-03:00"
     }
   ]
 }
