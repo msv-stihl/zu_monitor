@@ -17,6 +17,15 @@
       "team": "UTILIDADES",
       "technician": "ADELAR FERNANDES DE ALMEIDA",
       "opened_at": "2026-08-28T11:29:29.770000-03:00"
+    },
+    {
+      "id": "103004",
+      "os_number": "103004",
+      "name": "ZU - CURTO CIRCUITO",
+      "location": "ZFE - FORNO DE REFUSAO",
+      "team": "ELÉTRICA",
+      "technician": "IZAQUIEL BITELO",
+      "opened_at": "2026-08-28T11:39:00.733000-03:00"
     }
   ]
 }
