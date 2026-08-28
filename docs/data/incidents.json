@@ -1,22 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "102969",
-      "os_number": "102969",
-      "name": "ZU - VENTILADOR - NÃO LIGA",
-      "location": "VENTILADOR 28.064 - CILINDROS P28",
-      "team": "ELÉTRICA",
-      "technician": "ANDERSON PADILHA DE SOUZA",
-      "opened_at": "2026-08-28T07:58:29.290000-03:00"
-    },
-    {
-      "id": "102970",
-      "os_number": "102970",
-      "name": "ZU - MANUTENÇÃO TELHADO",
-      "location": "TELHADO P07",
-      "team": "CIVIL",
-      "technician": "WALMORCY KERSTING NETO",
-      "opened_at": "2026-08-28T08:04:42.427000-03:00"
-    }
-  ]
+  "incidents": []
 }
