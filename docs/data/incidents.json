@@ -10,24 +10,6 @@
       "opened_at": "2026-08-28T08:51:21.377000-03:00"
     },
     {
-      "id": "103010",
-      "os_number": "103010",
-      "name": "ZU - DESENTUPIMENTO VASO",
-      "location": "BOX 002 - BAN056 - USINAGEM CILINDROS M ",
-      "team": "CIVIL",
-      "technician": "RODRIGO DA SILVA SOARES",
-      "opened_at": "2026-08-28T12:47:53.237000-03:00"
-    },
-    {
-      "id": "103014",
-      "os_number": "103014",
-      "name": "ZU - TORRE DE RESFRIAMENTO - MANUTENÇÃO",
-      "location": "TRR-31.001 - TORRE DE RESFRIAMENTO RES010",
-      "team": "UTILIDADES",
-      "technician": "FABIO LUIS DUTRA",
-      "opened_at": "2026-08-28T13:23:52.070000-03:00"
-    },
-    {
       "id": "103015",
       "os_number": "103015",
       "name": "ZU - EXTINTOR - LACRE ROMPIDO",
