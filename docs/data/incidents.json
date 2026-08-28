@@ -8,6 +8,15 @@
       "team": "REFRIGERAÇÃO",
       "technician": "TÉCNICO MANUTENÇÃO - CD JUNDIAÍ",
       "opened_at": "2026-08-28T08:51:21.377000-03:00"
+    },
+    {
+      "id": "102992",
+      "os_number": "102992",
+      "name": "ZU - VAZAMENTO DE ÁGUA",
+      "location": "TÉRREO",
+      "team": "CIVIL",
+      "technician": "VANDERLEI DORNELES DOS SANTOS",
+      "opened_at": "2026-08-28T10:22:54.767000-03:00"
     }
   ]
 }
