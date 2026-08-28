@@ -8,6 +8,15 @@
       "team": "REFRIGERAÇÃO",
       "technician": "MICK PATRICK DOS SANTOS",
       "opened_at": "2026-08-28T07:39:53.657000-03:00"
+    },
+    {
+      "id": "102969",
+      "os_number": "102969",
+      "name": "ZU - VENTILADOR - NÃO LIGA",
+      "location": "VENTILADOR 28.064 - CILINDROS P28",
+      "team": "ELÉTRICA",
+      "technician": "ANDERSON PADILHA DE SOUZA",
+      "opened_at": "2026-08-28T07:58:29.290000-03:00"
     }
   ]
 }
