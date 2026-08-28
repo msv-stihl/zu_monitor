@@ -8,6 +8,15 @@
       "team": "REFRIGERAÇÃO",
       "technician": "TÉCNICO MANUTENÇÃO - CD JUNDIAÍ",
       "opened_at": "2026-08-28T08:51:21.377000-03:00"
+    },
+    {
+      "id": "103010",
+      "os_number": "103010",
+      "name": "ZU - DESENTUPIMENTO VASO",
+      "location": "BOX 002 - BAN056 - USINAGEM CILINDROS M ",
+      "team": "CIVIL",
+      "technician": "RODRIGO DA SILVA SOARES",
+      "opened_at": "2026-08-28T12:47:53.237000-03:00"
     }
   ]
 }
