@@ -17,6 +17,15 @@
       "team": "SPCI",
       "technician": "IGOR GATTO DE OLIVEIRA MARTINS",
       "opened_at": "2026-08-28T08:30:59.010000-03:00"
+    },
+    {
+      "id": "102974",
+      "os_number": "102974",
+      "name": "ZU - AR CONDICIONADO - NÃO LIGA",
+      "location": "STIHL - STIHL CD JUNDIAÍ",
+      "team": "REFRIGERAÇÃO",
+      "technician": "TÉCNICO MANUTENÇÃO - CD JUNDIAÍ",
+      "opened_at": "2026-08-28T08:51:21.377000-03:00"
     }
   ]
 }
