@@ -19,15 +19,6 @@
       "opened_at": "2026-08-31T13:10:22.680000-03:00"
     },
     {
-      "id": "103088",
-      "os_number": "103088",
-      "name": "ZU - DESENTUPIMENTO VASO",
-      "location": "BAN124 - BANHEIRO CONVIVIO - F / PNE",
-      "team": "CIVIL",
-      "technician": "RODRIGO DA SILVA SOARES",
-      "opened_at": "2026-08-31T13:32:40.793000-03:00"
-    },
-    {
       "id": "103089",
       "os_number": "103089",
       "name": "ZU - DESENTUPIMENTO VASO",
@@ -35,15 +26,6 @@
       "team": "CIVIL",
       "technician": "ANDREY PHILIPP DA SILVA HIPOLITO",
       "opened_at": "2026-08-31T13:38:36.727000-03:00"
-    },
-    {
-      "id": "103090",
-      "os_number": "103090",
-      "name": "ZU - [CG]REPOSIÇÃO MATERIAL",
-      "location": "BEB-11.001 - 30004528 - PMC - MELHORIA CONTÍNUA",
-      "team": "LIMPEZA CONVENCIONAL",
-      "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
-      "opened_at": "2026-08-31T13:42:41.060000-03:00"
     }
   ]
 }
