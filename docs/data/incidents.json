@@ -10,15 +10,6 @@
       "opened_at": "2026-08-28T08:51:21.377000-03:00"
     },
     {
-      "id": "103035",
-      "os_number": "103035",
-      "name": "ZU - EXTINTOR - LACRE ROMPIDO",
-      "location": "EXTINTOR - 50.029 - 30007193",
-      "team": "SPCI",
-      "technician": "GABRIEL NUNES BENDER",
-      "opened_at": "2026-08-31T08:05:23.743000-03:00"
-    },
-    {
       "id": "103041",
       "os_number": "103041",
       "name": "ZU - FALTA DE ÁGUA",
@@ -26,15 +17,6 @@
       "team": "CIVIL",
       "technician": "RODRIGO DA SILVA SOARES",
       "opened_at": "2026-08-31T08:37:17.930000-03:00"
-    },
-    {
-      "id": "103043",
-      "os_number": "103043",
-      "name": "ZU - HIDRÁULICA - VAZAMENTO",
-      "location": "P27 - RESTAURANTE / CENTRAL DE SERVIÇOS",
-      "team": "CIVIL",
-      "technician": "VANDERLEI DORNELES DOS SANTOS",
-      "opened_at": "2026-08-31T08:54:46.987000-03:00"
     }
   ]
 }
