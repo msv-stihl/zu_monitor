@@ -17,6 +17,15 @@
       "team": "SPCI",
       "technician": "GABRIEL NUNES BENDER",
       "opened_at": "2026-08-31T08:05:23.743000-03:00"
+    },
+    {
+      "id": "103041",
+      "os_number": "103041",
+      "name": "ZU - FALTA DE ÁGUA",
+      "location": "P56 - VESTIÁRIOS / AMBULATÓRIO",
+      "team": "CIVIL",
+      "technician": "RODRIGO DA SILVA SOARES",
+      "opened_at": "2026-08-31T08:37:17.930000-03:00"
     }
   ]
 }
