@@ -8,6 +8,15 @@
       "team": "REFRIGERAÇÃO",
       "technician": "TÉCNICO MANUTENÇÃO - CD JUNDIAÍ",
       "opened_at": "2026-08-28T08:51:21.377000-03:00"
+    },
+    {
+      "id": "103035",
+      "os_number": "103035",
+      "name": "ZU - EXTINTOR - LACRE ROMPIDO",
+      "location": "EXTINTOR - 50.029 - 30007193",
+      "team": "SPCI",
+      "technician": "IGOR GATTO DE OLIVEIRA MARTINS",
+      "opened_at": "2026-08-31T08:05:23.743000-03:00"
     }
   ]
 }
