@@ -26,6 +26,15 @@
       "team": "CIVIL",
       "technician": "RODRIGO DA SILVA SOARES",
       "opened_at": "2026-08-31T08:37:17.930000-03:00"
+    },
+    {
+      "id": "103043",
+      "os_number": "103043",
+      "name": "ZU - HIDRÁULICA - VAZAMENTO",
+      "location": "P27 - RESTAURANTE / CENTRAL DE SERVIÇOS",
+      "team": "CIVIL",
+      "technician": "VANDERLEI DORNELES DOS SANTOS",
+      "opened_at": "2026-08-31T08:54:46.987000-03:00"
     }
   ]
 }
