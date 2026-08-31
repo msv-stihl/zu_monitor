@@ -35,6 +35,15 @@
       "team": "CIVIL",
       "technician": "ANDREY PHILIPP DA SILVA HIPOLITO",
       "opened_at": "2026-08-31T13:38:36.727000-03:00"
+    },
+    {
+      "id": "103090",
+      "os_number": "103090",
+      "name": "ZU - [CG]REPOSIÇÃO MATERIAL",
+      "location": "BEB-11.001 - 30004528 - PMC - MELHORIA CONTÍNUA",
+      "team": "LIMPEZA CONVENCIONAL",
+      "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
+      "opened_at": "2026-08-31T13:42:41.060000-03:00"
     }
   ]
 }
