@@ -8,33 +8,6 @@
       "team": "REFRIGERAÇÃO",
       "technician": "TÉCNICO MANUTENÇÃO - CD JUNDIAÍ",
       "opened_at": "2026-08-28T08:51:21.377000-03:00"
-    },
-    {
-      "id": "103094",
-      "os_number": "103094",
-      "name": "ZU - [CG]REPOSIÇÃO MATERIAL",
-      "location": "COPA RH",
-      "team": "LIMPEZA CONVENCIONAL",
-      "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
-      "opened_at": "2026-08-31T14:21:13.310000-03:00"
-    },
-    {
-      "id": "103097",
-      "os_number": "103097",
-      "name": "ZU - BEBEDOURO - MANUTENÇÃO",
-      "location": "BEB-50.004 - 30009400 - MONTAGEM",
-      "team": "REFRIGERAÇÃO",
-      "technician": "GIOVANE SANHUDO VARGAS",
-      "opened_at": "2026-08-31T14:35:20.687000-03:00"
-    },
-    {
-      "id": "103099",
-      "os_number": "103099",
-      "name": "ZU - DESENTUPIMENTO MICTÓRIO",
-      "location": "BAN002 - VIRABREQUIM - M",
-      "team": "CIVIL",
-      "technician": "VANDERLEI DORNELES DOS SANTOS",
-      "opened_at": "2026-08-31T14:45:30.037000-03:00"
     }
   ]
 }
