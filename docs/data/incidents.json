@@ -10,15 +10,6 @@
       "opened_at": "2026-08-28T08:51:21.377000-03:00"
     },
     {
-      "id": "103093",
-      "os_number": "103093",
-      "name": "ZU - HIDRÁULICA - VAZAMENTO",
-      "location": "PIA 002- BAN019 - FUNDIÇÃO GRAVIDADE M",
-      "team": "CIVIL",
-      "technician": "LUAN NEVES COELHO MACHADO",
-      "opened_at": "2026-08-31T14:17:23.210000-03:00"
-    },
-    {
       "id": "103094",
       "os_number": "103094",
       "name": "ZU - [CG]REPOSIÇÃO MATERIAL",
@@ -26,6 +17,15 @@
       "team": "LIMPEZA CONVENCIONAL",
       "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
       "opened_at": "2026-08-31T14:21:13.310000-03:00"
+    },
+    {
+      "id": "103097",
+      "os_number": "103097",
+      "name": "ZU - BEBEDOURO - MANUTENÇÃO",
+      "location": "BEB-50.004 - 30009400 - MONTAGEM",
+      "team": "REFRIGERAÇÃO",
+      "technician": "GIOVANE SANHUDO VARGAS",
+      "opened_at": "2026-08-31T14:35:20.687000-03:00"
     }
   ]
 }
