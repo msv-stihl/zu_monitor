@@ -26,6 +26,15 @@
       "team": "CIVIL",
       "technician": "RODRIGO DA SILVA SOARES",
       "opened_at": "2026-08-31T13:32:40.793000-03:00"
+    },
+    {
+      "id": "103089",
+      "os_number": "103089",
+      "name": "ZU - DESENTUPIMENTO VASO",
+      "location": "BAN052 - FUNDIÇAO ALUMINIO - M",
+      "team": "CIVIL",
+      "technician": "ANDREY PHILIPP DA SILVA HIPOLITO",
+      "opened_at": "2026-08-31T13:38:36.727000-03:00"
     }
   ]
 }
