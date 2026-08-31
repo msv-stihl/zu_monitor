@@ -17,6 +17,15 @@
       "team": "CIVIL",
       "technician": "ALEXANDRE LOPES MAGALHAES",
       "opened_at": "2026-08-31T13:10:22.680000-03:00"
+    },
+    {
+      "id": "103088",
+      "os_number": "103088",
+      "name": "ZU - DESENTUPIMENTO VASO",
+      "location": "BAN124 - BANHEIRO CONVIVIO - F / PNE",
+      "team": "CIVIL",
+      "technician": "RODRIGO DA SILVA SOARES",
+      "opened_at": "2026-08-31T13:32:40.793000-03:00"
     }
   ]
 }
