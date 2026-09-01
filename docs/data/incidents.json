@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "104176",
-      "os_number": "104176",
-      "name": "ZU - [FC]LIMPEZA - PISO",
-      "location": "COPA RH",
-      "team": "LIMPEZA CONVENCIONAL",
-      "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
-      "opened_at": "2026-09-01T09:58:37.703000-03:00"
-    }
-  ]
+  "incidents": []
 }
