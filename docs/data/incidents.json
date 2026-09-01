@@ -1,15 +1,6 @@
 {
   "incidents": [
     {
-      "id": "102974",
-      "os_number": "102974",
-      "name": "ZU - AR CONDICIONADO - NÃO LIGA",
-      "location": "STIHL - STIHL CD JUNDIAÍ",
-      "team": "REFRIGERAÇÃO",
-      "technician": "TÉCNICO MANUTENÇÃO - CD JUNDIAÍ",
-      "opened_at": "2026-08-28T08:51:21.377000-03:00"
-    },
-    {
       "id": "104163",
       "os_number": "104163",
       "name": "ZU - CARRO DE APOIO - LACRE ROMPIDO",
@@ -26,15 +17,6 @@
       "team": "CIVIL",
       "technician": "LUAN NEVES COELHO MACHADO",
       "opened_at": "2026-09-01T07:50:02.013000-03:00"
-    },
-    {
-      "id": "104166",
-      "os_number": "104166",
-      "name": "ZU - TOMADA - SEM ENERGIA",
-      "location": "COZINHA",
-      "team": "ELÉTRICA",
-      "technician": "IZAQUIEL BITELO",
-      "opened_at": "2026-09-01T07:53:41.753000-03:00"
     }
   ]
 }
