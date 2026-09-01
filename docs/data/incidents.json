@@ -26,6 +26,15 @@
       "team": "CIVIL",
       "technician": "LUAN NEVES COELHO MACHADO",
       "opened_at": "2026-09-01T07:50:02.013000-03:00"
+    },
+    {
+      "id": "104166",
+      "os_number": "104166",
+      "name": "ZU - TOMADA - SEM ENERGIA",
+      "location": "COZINHA",
+      "team": "ELÉTRICA",
+      "technician": "IZAQUIEL BITELO",
+      "opened_at": "2026-09-01T07:53:41.753000-03:00"
     }
   ]
 }
