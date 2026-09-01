@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "104163",
-      "os_number": "104163",
-      "name": "ZU - CARRO DE APOIO - LACRE ROMPIDO",
-      "location": "CARRO DE APOIO - 31.002 - 30006479",
-      "team": "SPCI",
-      "technician": "DIOGO TRASSANTE URBANETTO",
-      "opened_at": "2026-09-01T07:40:16.793000-03:00"
-    }
-  ]
+  "incidents": []
 }
