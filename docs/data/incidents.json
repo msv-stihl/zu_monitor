@@ -1,15 +1,6 @@
 {
   "incidents": [
     {
-      "id": "104175",
-      "os_number": "104175",
-      "name": "ZU - DESENTUPIMENTO VASO",
-      "location": "BOX 002 - BAN109 - PINTURA M",
-      "team": "CIVIL",
-      "technician": "RAFAEL LUIS GOMES PEREIRA",
-      "opened_at": "2026-09-01T09:48:28.027000-03:00"
-    },
-    {
       "id": "104176",
       "os_number": "104176",
       "name": "ZU - [FC]LIMPEZA - PISO",
