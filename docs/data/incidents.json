@@ -17,6 +17,15 @@
       "team": "SPCI",
       "technician": "DIOGO TRASSANTE URBANETTO",
       "opened_at": "2026-09-01T07:40:16.793000-03:00"
+    },
+    {
+      "id": "104164",
+      "os_number": "104164",
+      "name": "ZU - HIDROSSANITÁRIA - VAZAMENTO",
+      "location": "MCT 002 - BAN001 - BANHEIRO PLÁSTICO M",
+      "team": "CIVIL",
+      "technician": "LUAN NEVES COELHO MACHADO",
+      "opened_at": "2026-09-01T07:50:02.013000-03:00"
     }
   ]
 }
