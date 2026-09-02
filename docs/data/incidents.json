@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "105535",
-      "os_number": "105535",
-      "name": "ZU - FALTA DE ENERGIA - FÁBRICA",
-      "location": "WRS - EXPEDIÇAO",
-      "team": "ELÉTRICA",
-      "technician": "ADELAR FERNANDES DE ALMEIDA",
-      "opened_at": "2026-09-02T15:27:32.887000-03:00"
-    }
-  ]
+  "incidents": []
 }
