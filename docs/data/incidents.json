@@ -8,6 +8,24 @@
       "team": "ELÉTRICA",
       "technician": "IZAQUIEL BITELO",
       "opened_at": "2026-09-02T08:26:18.107000-03:00"
+    },
+    {
+      "id": "105477",
+      "os_number": "105477",
+      "name": "ZU - DESENTUPIMENTO VASO",
+      "location": "BOX 004 - BAN001 - BANHEIRO PLÁSTICO M",
+      "team": "CIVIL",
+      "technician": "LUAN NEVES COELHO MACHADO",
+      "opened_at": "2026-09-02T08:43:08.173000-03:00"
+    },
+    {
+      "id": "105478",
+      "os_number": "105478",
+      "name": "ZU - DESENTUPIMENTO MICTÓRIO",
+      "location": "BAN056 - USINAGEM CILINDROS - M",
+      "team": "CIVIL",
+      "technician": "RAFAEL LUIS GOMES PEREIRA",
+      "opened_at": "2026-09-02T08:46:11.583000-03:00"
     }
   ]
 }
