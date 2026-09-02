@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "105479",
-      "os_number": "105479",
-      "name": "ZU - [CG]REPOSIÇÃO MATERIAL",
-      "location": "BEB-50.003 - 30009399 - MONTAGEM",
-      "team": "LIMPEZA CONVENCIONAL",
-      "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
-      "opened_at": "2026-09-02T08:52:54.283000-03:00"
-    }
-  ]
+  "incidents": []
 }
