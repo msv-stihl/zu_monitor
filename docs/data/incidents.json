@@ -1,15 +1,6 @@
 {
   "incidents": [
     {
-      "id": "105533",
-      "os_number": "105533",
-      "name": "ZU - [CG]REPOSIÇÃO MATERIAL",
-      "location": "P26 - CENTRAL DE RESÍDUOS",
-      "team": "LIMPEZA CONVENCIONAL",
-      "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
-      "opened_at": "2026-09-02T15:07:22.297000-03:00"
-    },
-    {
       "id": "105535",
       "os_number": "105535",
       "name": "ZU - FALTA DE ENERGIA - FÁBRICA",
