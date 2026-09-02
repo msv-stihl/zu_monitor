@@ -8,6 +8,15 @@
       "team": "LIMPEZA CONVENCIONAL",
       "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
       "opened_at": "2026-09-02T15:07:22.297000-03:00"
+    },
+    {
+      "id": "105535",
+      "os_number": "105535",
+      "name": "ZU - FALTA DE ENERGIA - FÁBRICA",
+      "location": "WRS - EXPEDIÇAO",
+      "team": "ELÉTRICA",
+      "technician": "ADELAR FERNANDES DE ALMEIDA",
+      "opened_at": "2026-09-02T15:27:32.887000-03:00"
     }
   ]
 }
