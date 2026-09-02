@@ -1,15 +1,6 @@
 {
   "incidents": [
     {
-      "id": "105476",
-      "os_number": "105476",
-      "name": "ZU - FALTA DE ENERGIA - ADMINISTRATIVO",
-      "location": "SALA METROLOGIA TRIDIMENSIONAL",
-      "team": "ELÉTRICA",
-      "technician": "IZAQUIEL BITELO",
-      "opened_at": "2026-09-02T08:26:18.107000-03:00"
-    },
-    {
       "id": "105477",
       "os_number": "105477",
       "name": "ZU - DESENTUPIMENTO VASO",
@@ -26,6 +17,24 @@
       "team": "CIVIL",
       "technician": "RAFAEL LUIS GOMES PEREIRA",
       "opened_at": "2026-09-02T08:46:11.583000-03:00"
+    },
+    {
+      "id": "105479",
+      "os_number": "105479",
+      "name": "ZU - [CG]REPOSIÇÃO MATERIAL",
+      "location": "BEB-50.003 - 30009399 - MONTAGEM",
+      "team": "LIMPEZA CONVENCIONAL",
+      "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
+      "opened_at": "2026-09-02T08:52:54.283000-03:00"
+    },
+    {
+      "id": "105480",
+      "os_number": "105480",
+      "name": "ZU - DESENTUPIMENTO VASO",
+      "location": "BOX 003 - BAN070 - BRUNIMENTO NORTE M",
+      "team": "CIVIL",
+      "technician": "ALEXANDRE LOPES MAGALHAES",
+      "opened_at": "2026-09-02T08:55:50.627000-03:00"
     }
   ]
 }
