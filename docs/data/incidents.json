@@ -8,6 +8,15 @@
       "team": "REFRIGERAÇÃO",
       "technician": "ARTHUR GABRIEL FERREIRA CADORE",
       "opened_at": "2026-09-02T14:50:03.287000-03:00"
+    },
+    {
+      "id": "105532",
+      "os_number": "105532",
+      "name": "ZU - KIT DE EMERGÊNCIA - LACRE ROMPIDO",
+      "location": "KIT DE EMERGENCIA - 26.001 - 30005185",
+      "team": "SPCI",
+      "technician": "RODRIGO ASCAL RODRIGUES",
+      "opened_at": "2026-09-02T14:57:05.427000-03:00"
     }
   ]
 }
