@@ -1,15 +1,6 @@
 {
   "incidents": [
     {
-      "id": "105477",
-      "os_number": "105477",
-      "name": "ZU - DESENTUPIMENTO VASO",
-      "location": "BOX 004 - BAN001 - BANHEIRO PLÁSTICO M",
-      "team": "CIVIL",
-      "technician": "LUAN NEVES COELHO MACHADO",
-      "opened_at": "2026-09-02T08:43:08.173000-03:00"
-    },
-    {
       "id": "105479",
       "os_number": "105479",
       "name": "ZU - [CG]REPOSIÇÃO MATERIAL",
@@ -17,15 +8,6 @@
       "team": "LIMPEZA CONVENCIONAL",
       "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
       "opened_at": "2026-09-02T08:52:54.283000-03:00"
-    },
-    {
-      "id": "105480",
-      "os_number": "105480",
-      "name": "ZU - DESENTUPIMENTO VASO",
-      "location": "BOX 003 - BAN070 - BRUNIMENTO NORTE M",
-      "team": "CIVIL",
-      "technician": "ALEXANDRE LOPES MAGALHAES",
-      "opened_at": "2026-09-02T08:55:50.627000-03:00"
     }
   ]
 }
