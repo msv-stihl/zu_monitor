@@ -1,15 +1,6 @@
 {
   "incidents": [
     {
-      "id": "105550",
-      "os_number": "105550",
-      "name": "ZU - HIDROSSANITÁRIA - VAZAMENTO",
-      "location": "BAN001 - BANHEIRO PLÁSTICO - M",
-      "team": "CIVIL",
-      "technician": "LUAN NEVES COELHO MACHADO",
-      "opened_at": "2026-09-03T08:01:30.357000-03:00"
-    },
-    {
       "id": "105554",
       "os_number": "105554",
       "name": "ZU - DESENTUPIMENTO RALO",
