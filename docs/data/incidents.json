@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "105582",
-      "os_number": "105582",
-      "name": "ZU - FIAÇÃO EXPOSTA",
-      "location": "RESTAURANTE",
-      "team": "ELÉTRICA",
-      "technician": "ADELAR FERNANDES DE ALMEIDA",
-      "opened_at": "2026-09-03T10:10:44.470000-03:00"
-    }
-  ]
+  "incidents": []
 }
