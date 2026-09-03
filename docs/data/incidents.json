@@ -1,15 +1,6 @@
 {
   "incidents": [
     {
-      "id": "105593",
-      "os_number": "105593",
-      "name": "ZU - HIDROSSANITÁRIA - VAZAMENTO",
-      "location": "BAN094 - MARKETING - M",
-      "team": "CIVIL",
-      "technician": "ANDREY PHILIPP DA SILVA HIPOLITO",
-      "opened_at": "2026-09-03T14:27:08.353000-03:00"
-    },
-    {
       "id": "105594",
       "os_number": "105594",
       "name": "ZU - [CG]LIMPEZA - SALA",
