@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "105608",
-      "os_number": "105608",
-      "name": "ZU - AR CONDICIONADO - NÃO RESFRIA",
-      "location": "ACO-50.009 - 30007077 - SALA DE ETIQUETAS",
-      "team": "REFRIGERAÇÃO",
-      "technician": "WALMORCY KERSTING NETO",
-      "opened_at": "2026-09-04T08:18:25.720000-03:00"
-    }
-  ]
+  "incidents": []
 }
