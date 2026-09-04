@@ -1,15 +1,6 @@
 {
   "incidents": [
     {
-      "id": "105609",
-      "os_number": "105609",
-      "name": "ZU - DESENTUPIMENTO PIA",
-      "location": "SALA TOMOGRAFIA COMPUTADORIZADA",
-      "team": "CIVIL",
-      "technician": "RAFAEL LUIS GOMES PEREIRA",
-      "opened_at": "2026-09-04T09:29:32.947000-03:00"
-    },
-    {
       "id": "105610",
       "os_number": "105610",
       "name": "ZU - VAZAMENTO DE ÁGUA",
