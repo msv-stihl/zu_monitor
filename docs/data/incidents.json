@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "105630",
-      "os_number": "105630",
-      "name": "ZU - POCETO - TRANSBORDO",
-      "location": "PCT-08.004 - TAN369-BACIA DE CONTENÇÃO - UNIDADE DE BOMBEAMENTO DE EFLUENTE OLEOSO",
-      "team": "UTILIDADES",
-      "technician": "FABIO LUIS DUTRA",
-      "opened_at": "2026-09-04T13:20:20.440000-03:00"
-    }
-  ]
+  "incidents": []
 }
