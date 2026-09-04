@@ -1,22 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "105642",
-      "os_number": "105642",
-      "name": "ZU - ELEVADOR - VERIFICAÇÃO",
-      "location": "ELEVADOR SOCIAL",
-      "team": "ELÉTRICA",
-      "technician": "CLEOTON BRUNO LIMA GONÇALVES",
-      "opened_at": "2026-09-04T16:14:04.330000-03:00"
-    },
-    {
-      "id": "105646",
-      "os_number": "105646",
-      "name": "ZU - EXTINTOR - SUBSTITUIÇÃO",
-      "location": "EXTINTOR - 31.013 - 30003517",
-      "team": "SPCI",
-      "technician": "IGOR GATTO DE OLIVEIRA MARTINS",
-      "opened_at": "2026-09-04T16:55:58.077000-03:00"
-    }
-  ]
+  "incidents": []
 }
