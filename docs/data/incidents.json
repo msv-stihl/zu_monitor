@@ -1,15 +1,6 @@
 {
   "incidents": [
     {
-      "id": "105687",
-      "os_number": "105687",
-      "name": "ZU - HIDROSSANITÁRIA - VAZAMENTO",
-      "location": "BOX 002 - BAN089 - EMBALAGEM F ",
-      "team": "CIVIL",
-      "technician": "LUAN NEVES COELHO MACHADO",
-      "opened_at": "2026-09-08T10:07:59.987000-03:00"
-    },
-    {
       "id": "105689",
       "os_number": "105689",
       "name": "ZU - DESENTUPIMENTO VASO",
