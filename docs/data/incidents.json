@@ -8,33 +8,6 @@
       "team": "SPCI",
       "technician": "GABRIEL NUNES BENDER",
       "opened_at": "2026-09-08T10:25:09.230000-03:00"
-    },
-    {
-      "id": "105692",
-      "os_number": "105692",
-      "name": "ZU - HIDROSSANITÁRIA - VAZAMENTO",
-      "location": "BOX 001 - BAN001 - BANHEIRO PLÁSTICO M",
-      "team": "CIVIL",
-      "technician": "RAFAEL LUIS GOMES PEREIRA",
-      "opened_at": "2026-09-08T10:42:20.387000-03:00"
-    },
-    {
-      "id": "105693",
-      "os_number": "105693",
-      "name": "ZU - DESENTUPIMENTO VASO",
-      "location": "BOX 001 - BAN106 - MONTAGEM M ",
-      "team": "CIVIL",
-      "technician": "ALEXANDRE LOPES MAGALHAES",
-      "opened_at": "2026-09-08T10:45:46.323000-03:00"
-    },
-    {
-      "id": "105694",
-      "os_number": "105694",
-      "name": "ZU - DESENTUPIMENTO VASO",
-      "location": "BOX 002 - BAN100 - VESTIÁRIO TÉRREO M",
-      "team": "CIVIL",
-      "technician": "LUAN NEVES COELHO MACHADO",
-      "opened_at": "2026-09-08T10:49:40.510000-03:00"
     }
   ]
 }
