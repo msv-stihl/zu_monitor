@@ -26,6 +26,15 @@
       "team": "CIVIL",
       "technician": "ANDREY PHILIPP DA SILVA HIPOLITO",
       "opened_at": "2026-09-08T10:20:01.040000-03:00"
+    },
+    {
+      "id": "105690",
+      "os_number": "105690",
+      "name": "ZU - KIT DE EMERGÊNCIA - LACRE ROMPIDO",
+      "location": "KIT DE EMERGENCIA - 43.001 - 30004778",
+      "team": "SPCI",
+      "technician": "GABRIEL NUNES BENDER",
+      "opened_at": "2026-09-08T10:25:09.230000-03:00"
     }
   ]
 }
