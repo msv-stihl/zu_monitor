@@ -1,15 +1,6 @@
 {
   "incidents": [
     {
-      "id": "105703",
-      "os_number": "105703",
-      "name": "ZU - PORTA SECCIONAL - VERIFICAÇÃO",
-      "location": "PORTA RÁPIDA SECCIONAL 43.004 - EXPEDIÇÃO",
-      "team": "ELÉTRICA",
-      "technician": "HENRIQUE GABRIEL DE MELLO PISAROGLO",
-      "opened_at": "2026-09-08T13:34:20.843000-03:00"
-    },
-    {
       "id": "105705",
       "os_number": "105705",
       "name": "ZU - PORTA SECCIONAL - VERIFICAÇÃO",
