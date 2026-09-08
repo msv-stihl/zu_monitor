@@ -44,6 +44,15 @@
       "team": "CIVIL",
       "technician": "RAFAEL LUIS GOMES PEREIRA",
       "opened_at": "2026-09-08T10:42:20.387000-03:00"
+    },
+    {
+      "id": "105693",
+      "os_number": "105693",
+      "name": "ZU - DESENTUPIMENTO VASO",
+      "location": "BOX 001 - BAN106 - MONTAGEM M ",
+      "team": "CIVIL",
+      "technician": "ALEXANDRE LOPES MAGALHAES",
+      "opened_at": "2026-09-08T10:45:46.323000-03:00"
     }
   ]
 }
