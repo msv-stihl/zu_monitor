@@ -8,6 +8,15 @@
       "team": "ELÉTRICA",
       "technician": "HENRIQUE GABRIEL DE MELLO PISAROGLO",
       "opened_at": "2026-09-09T07:50:35.357000-03:00"
+    },
+    {
+      "id": "105721",
+      "os_number": "105721",
+      "name": "ZU - MACA - LACRE ROMPIDO",
+      "location": "MACA - 16.001 - 30002686",
+      "team": "SPCI",
+      "technician": "GABRIEL NUNES BENDER",
+      "opened_at": "2026-09-09T07:55:48.677000-03:00"
     }
   ]
 }
