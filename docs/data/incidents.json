@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "105751",
-      "os_number": "105751",
-      "name": "ZU - DESENTUPIMENTO PIA",
-      "location": "BAN130 - VESTIARIO 3º PAVIMENTO - F",
-      "team": "CIVIL",
-      "technician": "LUAN NEVES COELHO MACHADO",
-      "opened_at": "2026-09-09T15:38:18.180000-03:00"
-    }
-  ]
+  "incidents": []
 }
