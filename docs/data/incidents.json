@@ -8,6 +8,15 @@
       "team": "ELÉTRICA",
       "technician": "IZAQUIEL BITELO",
       "opened_at": "2026-09-09T15:32:00.493000-03:00"
+    },
+    {
+      "id": "105751",
+      "os_number": "105751",
+      "name": "ZU - DESENTUPIMENTO PIA",
+      "location": "BAN130 - VESTIARIO 3º PAVIMENTO - F",
+      "team": "CIVIL",
+      "technician": "LUAN NEVES COELHO MACHADO",
+      "opened_at": "2026-09-09T15:38:18.180000-03:00"
     }
   ]
 }
