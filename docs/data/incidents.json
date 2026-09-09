@@ -1,15 +1,6 @@
 {
   "incidents": [
     {
-      "id": "105750",
-      "os_number": "105750",
-      "name": "ZU - TOMADA - SEM ENERGIA",
-      "location": "ZCR - CROMO II",
-      "team": "ELÉTRICA",
-      "technician": "IZAQUIEL BITELO",
-      "opened_at": "2026-09-09T15:32:00.493000-03:00"
-    },
-    {
       "id": "105751",
       "os_number": "105751",
       "name": "ZU - DESENTUPIMENTO PIA",
