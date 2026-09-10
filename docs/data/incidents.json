@@ -8,6 +8,15 @@
       "team": "REFRIGERAÇÃO",
       "technician": "ARTHUR GABRIEL FERREIRA CADORE",
       "opened_at": "2026-09-10T07:39:04.873000-03:00"
+    },
+    {
+      "id": "105765",
+      "os_number": "105765",
+      "name": "ZU - CÂMARA FRIA - MANUTENÇÃO",
+      "location": "CAMARA FRIA - COZINHA",
+      "team": "REFRIGERAÇÃO",
+      "technician": "MICK PATRICK DOS SANTOS",
+      "opened_at": "2026-09-10T07:48:41.047000-03:00"
     }
   ]
 }
