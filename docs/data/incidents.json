@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "105785",
-      "os_number": "105785",
-      "name": "ZU - FALTA DE ENERGIA - ADMINISTRATIVO",
-      "location": "LAVAGEM DE UTENSILIOS - RESTAURANTE",
-      "team": "ELÉTRICA",
-      "technician": "CLEOTON BRUNO LIMA GONÇALVES",
-      "opened_at": "2026-09-10T09:59:05.540000-03:00"
-    }
-  ]
+  "incidents": []
 }
