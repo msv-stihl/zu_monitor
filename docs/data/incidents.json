@@ -35,6 +35,15 @@
       "team": "CIVIL",
       "technician": "ANDREY PHILIPP DA SILVA HIPOLITO",
       "opened_at": "2026-09-10T08:15:38.397000-03:00"
+    },
+    {
+      "id": "105775",
+      "os_number": "105775",
+      "name": "ZU - BEBEDOURO - MANUTENÇÃO",
+      "location": "BEB-43.001 - 30004559 - EXPEDIÇÃO",
+      "team": "REFRIGERAÇÃO",
+      "technician": "ARTHUR GABRIEL FERREIRA CADORE",
+      "opened_at": "2026-09-10T08:22:47.040000-03:00"
     }
   ]
 }
