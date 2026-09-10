@@ -8,6 +8,24 @@
       "team": "REFRIGERAÇÃO",
       "technician": "ARTHUR GABRIEL FERREIRA CADORE",
       "opened_at": "2026-09-10T07:39:04.873000-03:00"
+    },
+    {
+      "id": "105767",
+      "os_number": "105767",
+      "name": "ZU - HIDROSSANITÁRIA - VAZAMENTO",
+      "location": "BAN004 - VIRABREQUIM - F",
+      "team": "CIVIL",
+      "technician": "ANDREY PHILIPP DA SILVA HIPOLITO",
+      "opened_at": "2026-09-10T07:59:11.800000-03:00"
+    },
+    {
+      "id": "105769",
+      "os_number": "105769",
+      "name": "ZU - DESENTUPIMENTO VASO",
+      "location": "BOX 003 - BAN109 - PINTURA M",
+      "team": "CIVIL",
+      "technician": "RAFAEL LUIS GOMES PEREIRA",
+      "opened_at": "2026-09-10T08:02:57.723000-03:00"
     }
   ]
 }
