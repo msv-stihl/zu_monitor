@@ -19,15 +19,6 @@
       "opened_at": "2026-09-10T07:59:11.800000-03:00"
     },
     {
-      "id": "105769",
-      "os_number": "105769",
-      "name": "ZU - DESENTUPIMENTO VASO",
-      "location": "BOX 003 - BAN109 - PINTURA M",
-      "team": "CIVIL",
-      "technician": "RAFAEL LUIS GOMES PEREIRA",
-      "opened_at": "2026-09-10T08:02:57.723000-03:00"
-    },
-    {
       "id": "105770",
       "os_number": "105770",
       "name": "ZU - DESENTUPIMENTO VASO",
@@ -35,6 +26,15 @@
       "team": "CIVIL",
       "technician": "ALEXANDRE LOPES MAGALHAES",
       "opened_at": "2026-09-10T08:07:10.650000-03:00"
+    },
+    {
+      "id": "105774",
+      "os_number": "105774",
+      "name": "ZU - VAZAMENTO DE ÁGUA",
+      "location": "AREA EXTERNA - RESTAURANTE",
+      "team": "CIVIL",
+      "technician": "ANDREY PHILIPP DA SILVA HIPOLITO",
+      "opened_at": "2026-09-10T08:15:38.397000-03:00"
     }
   ]
 }
