@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "105893",
-      "os_number": "105893",
-      "name": "ZU - HIDROSSANITÁRIA - VAZAMENTO",
-      "location": "BAN004 - VIRABREQUIM - F",
-      "team": "CIVIL",
-      "technician": "VANDERLEI DORNELES DOS SANTOS",
-      "opened_at": "2026-09-11T15:45:04.110000-03:00"
-    }
-  ]
+  "incidents": []
 }
