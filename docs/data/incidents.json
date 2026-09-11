@@ -8,6 +8,15 @@
       "team": "CIVIL",
       "technician": "ANDREY PHILIPP DA SILVA HIPOLITO",
       "opened_at": "2026-09-11T09:39:09.937000-03:00"
+    },
+    {
+      "id": "105819",
+      "os_number": "105819",
+      "name": "ZU - SENSOR - SUBSTITUIÇÃO",
+      "location": "BAN087 - EXPEDIÇAO - M",
+      "team": "ELÉTRICA",
+      "technician": "ADELAR FERNANDES DE ALMEIDA",
+      "opened_at": "2026-09-11T10:27:08.577000-03:00"
     }
   ]
 }
