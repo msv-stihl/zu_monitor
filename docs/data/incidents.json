@@ -26,6 +26,15 @@
       "team": "ELÉTRICA",
       "technician": "ADELAR FERNANDES DE ALMEIDA",
       "opened_at": "2026-09-11T08:28:54.457000-03:00"
+    },
+    {
+      "id": "105809",
+      "os_number": "105809",
+      "name": "ZU - DESENTUPIMENTO PIA",
+      "location": "COPA MEZANINO",
+      "team": "CIVIL",
+      "technician": "LUAN NEVES COELHO MACHADO",
+      "opened_at": "2026-09-11T08:35:32.347000-03:00"
     }
   ]
 }
