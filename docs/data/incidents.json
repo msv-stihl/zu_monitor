@@ -8,6 +8,15 @@
       "team": "LIMPEZA CONVENCIONAL",
       "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
       "opened_at": "2026-09-11T07:54:18.910000-03:00"
+    },
+    {
+      "id": "105806",
+      "os_number": "105806",
+      "name": "ZU - AR CONDICIONADO - NÃO LIGA",
+      "location": "ACO-31.002 - 30000831 - SALA DA COLA",
+      "team": "REFRIGERAÇÃO",
+      "technician": "VALDIR LORENA DOS SANTOS",
+      "opened_at": "2026-09-11T08:22:11.947000-03:00"
     }
   ]
 }
