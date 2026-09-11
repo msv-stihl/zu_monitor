@@ -15,8 +15,17 @@
       "name": "ZU - AR CONDICIONADO - NÃO LIGA",
       "location": "ACO-31.002 - 30000831 - SALA DA COLA",
       "team": "REFRIGERAÇÃO",
-      "technician": "VALDIR LORENA DOS SANTOS",
+      "technician": "EDER EVALDT DA SILVA",
       "opened_at": "2026-09-11T08:22:11.947000-03:00"
+    },
+    {
+      "id": "105808",
+      "os_number": "105808",
+      "name": "ZU - LUMINÁRIA - SUBSTITUIÇÃO",
+      "location": "P32 - ETE",
+      "team": "ELÉTRICA",
+      "technician": "ADELAR FERNANDES DE ALMEIDA",
+      "opened_at": "2026-09-11T08:28:54.457000-03:00"
     }
   ]
 }
