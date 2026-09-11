@@ -8,6 +8,15 @@
       "team": "LIMPEZA CONVENCIONAL",
       "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
       "opened_at": "2026-09-11T07:54:18.910000-03:00"
+    },
+    {
+      "id": "105804",
+      "os_number": "105804",
+      "name": "ZU - PORTA RÁPIDA - VERIFICAÇÃO",
+      "location": "PORTA OPEN FAST - 28.003",
+      "team": "ELÉTRICA",
+      "technician": "HENRIQUE GABRIEL DE MELLO PISAROGLO",
+      "opened_at": "2026-09-11T08:02:03.670000-03:00"
     }
   ]
 }
