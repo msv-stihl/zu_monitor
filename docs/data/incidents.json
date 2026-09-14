@@ -1,15 +1,6 @@
 {
   "incidents": [
     {
-      "id": "105898",
-      "os_number": "105898",
-      "name": "ZU - DESENTUPIMENTO PIA",
-      "location": "PIA 002 - BAN063 - FUNDIÇÃO MAGNESIO F ",
-      "team": "CIVIL",
-      "technician": "RAFAEL LUIS GOMES PEREIRA",
-      "opened_at": "2026-09-14T07:53:37.037000-03:00"
-    },
-    {
       "id": "105904",
       "os_number": "105904",
       "name": "ZU - DESENTUPIMENTO VASO",
@@ -17,15 +8,6 @@
       "team": "CIVIL",
       "technician": "ANDREY PHILIPP DA SILVA HIPOLITO",
       "opened_at": "2026-09-14T08:22:43.227000-03:00"
-    },
-    {
-      "id": "105906",
-      "os_number": "105906",
-      "name": "ZU - DESENTUPIMENTO VASO",
-      "location": "BOX 006 - BAN106 - MONTAGEM M ",
-      "team": "CIVIL",
-      "technician": "ALEXANDRE LOPES MAGALHAES",
-      "opened_at": "2026-09-14T08:28:26.823000-03:00"
     }
   ]
 }
