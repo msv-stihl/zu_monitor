@@ -19,15 +19,6 @@
       "opened_at": "2026-09-14T07:58:17.977000-03:00"
     },
     {
-      "id": "105901",
-      "os_number": "105901",
-      "name": "ZU - BEBEDOURO - MANUTENÇÃO",
-      "location": "BEB-28.001 - 30004504 - FUNDIÇÃO DE ALUMÍNIO",
-      "team": "REFRIGERAÇÃO",
-      "technician": "ARTHUR GABRIEL FERREIRA CADORE",
-      "opened_at": "2026-09-14T08:04:54.203000-03:00"
-    },
-    {
       "id": "105902",
       "os_number": "105902",
       "name": "ZU - FALTA DE ENERGIA - FÁBRICA",
@@ -35,6 +26,15 @@
       "team": "ELÉTRICA",
       "technician": "ADELAR FERNANDES DE ALMEIDA",
       "opened_at": "2026-09-14T08:11:42.067000-03:00"
+    },
+    {
+      "id": "105904",
+      "os_number": "105904",
+      "name": "ZU - DESENTUPIMENTO VASO",
+      "location": "BOX 003 - BAN056 - USINAGEM CILINDROS M ",
+      "team": "CIVIL",
+      "technician": "ANDREY PHILIPP DA SILVA HIPOLITO",
+      "opened_at": "2026-09-14T08:22:43.227000-03:00"
     }
   ]
 }
