@@ -17,6 +17,15 @@
       "team": "ELÉTRICA",
       "technician": "ADELAR FERNANDES DE ALMEIDA",
       "opened_at": "2026-09-14T15:57:36.187000-03:00"
+    },
+    {
+      "id": "105932",
+      "os_number": "105932",
+      "name": "ZU - FALTA DE ENERGIA - ADMINISTRATIVO",
+      "location": "COZINHA",
+      "team": "ELÉTRICA",
+      "technician": "ADELAR FERNANDES DE ALMEIDA",
+      "opened_at": "2026-09-14T16:01:28.437000-03:00"
     }
   ]
 }
