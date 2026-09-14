@@ -19,15 +19,6 @@
       "opened_at": "2026-09-14T07:58:17.977000-03:00"
     },
     {
-      "id": "105902",
-      "os_number": "105902",
-      "name": "ZU - FALTA DE ENERGIA - FÁBRICA",
-      "location": "P32 - ETE",
-      "team": "ELÉTRICA",
-      "technician": "ADELAR FERNANDES DE ALMEIDA",
-      "opened_at": "2026-09-14T08:11:42.067000-03:00"
-    },
-    {
       "id": "105904",
       "os_number": "105904",
       "name": "ZU - DESENTUPIMENTO VASO",
@@ -35,6 +26,15 @@
       "team": "CIVIL",
       "technician": "ANDREY PHILIPP DA SILVA HIPOLITO",
       "opened_at": "2026-09-14T08:22:43.227000-03:00"
+    },
+    {
+      "id": "105906",
+      "os_number": "105906",
+      "name": "ZU - DESENTUPIMENTO VASO",
+      "location": "BOX 006 - BAN106 - MONTAGEM M ",
+      "team": "CIVIL",
+      "technician": "ALEXANDRE LOPES MAGALHAES",
+      "opened_at": "2026-09-14T08:28:26.823000-03:00"
     }
   ]
 }
