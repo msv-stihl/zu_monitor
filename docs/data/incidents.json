@@ -8,6 +8,24 @@
       "team": "CIVIL",
       "technician": "ANDREY PHILIPP DA SILVA HIPOLITO",
       "opened_at": "2026-09-14T07:45:15.163000-03:00"
+    },
+    {
+      "id": "105897",
+      "os_number": "105897",
+      "name": "ZU - DESENTUPIMENTO VASO",
+      "location": "BOX 004 - BAN106 - MONTAGEM M ",
+      "team": "CIVIL",
+      "technician": "ALEXANDRE LOPES MAGALHAES",
+      "opened_at": "2026-09-14T07:50:31.317000-03:00"
+    },
+    {
+      "id": "105898",
+      "os_number": "105898",
+      "name": "ZU - DESENTUPIMENTO PIA",
+      "location": "PIA 002 - BAN063 - FUNDIÇÃO MAGNESIO F ",
+      "team": "CIVIL",
+      "technician": "RAFAEL LUIS GOMES PEREIRA",
+      "opened_at": "2026-09-14T07:53:37.037000-03:00"
     }
   ]
 }
