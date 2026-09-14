@@ -1,15 +1,6 @@
 {
   "incidents": [
     {
-      "id": "105897",
-      "os_number": "105897",
-      "name": "ZU - DESENTUPIMENTO VASO",
-      "location": "BOX 004 - BAN106 - MONTAGEM M ",
-      "team": "CIVIL",
-      "technician": "ALEXANDRE LOPES MAGALHAES",
-      "opened_at": "2026-09-14T07:50:31.317000-03:00"
-    },
-    {
       "id": "105898",
       "os_number": "105898",
       "name": "ZU - DESENTUPIMENTO PIA",
@@ -35,6 +26,15 @@
       "team": "REFRIGERAÇÃO",
       "technician": "ARTHUR GABRIEL FERREIRA CADORE",
       "opened_at": "2026-09-14T08:04:54.203000-03:00"
+    },
+    {
+      "id": "105902",
+      "os_number": "105902",
+      "name": "ZU - FALTA DE ENERGIA - FÁBRICA",
+      "location": "P32 - ETE",
+      "team": "ELÉTRICA",
+      "technician": "ADELAR FERNANDES DE ALMEIDA",
+      "opened_at": "2026-09-14T08:11:42.067000-03:00"
     }
   ]
 }
