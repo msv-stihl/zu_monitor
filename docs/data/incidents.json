@@ -17,6 +17,15 @@
       "team": "REFRIGERAÇÃO",
       "technician": "MICK PATRICK DOS SANTOS",
       "opened_at": "2026-09-15T08:14:50.947000-03:00"
+    },
+    {
+      "id": "105945",
+      "os_number": "105945",
+      "name": "ZU - PORTA RÁPIDA - VERIFICAÇÃO",
+      "location": "PORTA OPEN FAST - 50.014",
+      "team": "ELÉTRICA",
+      "technician": "HENRIQUE GABRIEL DE MELLO PISAROGLO",
+      "opened_at": "2026-09-15T08:28:31.437000-03:00"
     }
   ]
 }
