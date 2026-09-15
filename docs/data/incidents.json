@@ -8,6 +8,15 @@
       "team": "ELÉTRICA",
       "technician": "ADELAR FERNANDES DE ALMEIDA",
       "opened_at": "2026-09-15T09:19:28.587000-03:00"
+    },
+    {
+      "id": "105951",
+      "os_number": "105951",
+      "name": "ZU - AR CONDICIONADO - NÃO ESQUENTA",
+      "location": "ACO-38.002 - 30004992 - DERRIÇADOR",
+      "team": "REFRIGERAÇÃO",
+      "technician": "LUIS ALEJANDRO BITTAR BRITO",
+      "opened_at": "2026-09-15T09:28:25.943000-03:00"
     }
   ]
 }
