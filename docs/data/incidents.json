@@ -1,15 +1,6 @@
 {
   "incidents": [
     {
-      "id": "105950",
-      "os_number": "105950",
-      "name": "ZU - VENTILADOR - NÃO LIGA",
-      "location": "VENTILADOR 28.021 - CILINDROS P28",
-      "team": "ELÉTRICA",
-      "technician": "ADELAR FERNANDES DE ALMEIDA",
-      "opened_at": "2026-09-15T09:19:28.587000-03:00"
-    },
-    {
       "id": "105951",
       "os_number": "105951",
       "name": "ZU - AR CONDICIONADO - NÃO ESQUENTA",
@@ -17,6 +8,15 @@
       "team": "REFRIGERAÇÃO",
       "technician": "LUIS ALEJANDRO BITTAR BRITO",
       "opened_at": "2026-09-15T09:28:25.943000-03:00"
+    },
+    {
+      "id": "105952",
+      "os_number": "105952",
+      "name": "ZU - AR CONDICIONADO - NÃO ESQUENTA",
+      "location": "ACO-38.004 - 30004994 - KAMBAN",
+      "team": "REFRIGERAÇÃO",
+      "technician": "LUIS ALEJANDRO BITTAR BRITO",
+      "opened_at": "2026-09-15T09:37:23.440000-03:00"
     }
   ]
 }
