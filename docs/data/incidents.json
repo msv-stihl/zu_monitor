@@ -1,15 +1,6 @@
 {
   "incidents": [
     {
-      "id": "105949",
-      "os_number": "105949",
-      "name": "ZU - FIAÇÃO EXPOSTA",
-      "location": "UMO - MONTAGEM",
-      "team": "ELÉTRICA",
-      "technician": "ANDERSON PADILHA DE SOUZA",
-      "opened_at": "2026-09-15T09:08:51.147000-03:00"
-    },
-    {
       "id": "105950",
       "os_number": "105950",
       "name": "ZU - VENTILADOR - NÃO LIGA",
