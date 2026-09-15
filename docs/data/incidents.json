@@ -10,22 +10,13 @@
       "opened_at": "2026-09-15T07:53:48.417000-03:00"
     },
     {
-      "id": "105942",
-      "os_number": "105942",
-      "name": "ZU - CÂMARA FRIA - MANUTENÇÃO",
-      "location": "CAMARA FRIA - COZINHA",
+      "id": "105946",
+      "os_number": "105946",
+      "name": "ZU - BEBEDOURO - MANUTENÇÃO",
+      "location": "BEB-52.002 - 30010196 - COPA MEZANINO",
       "team": "REFRIGERAÇÃO",
-      "technician": "MICK PATRICK DOS SANTOS",
-      "opened_at": "2026-09-15T08:14:50.947000-03:00"
-    },
-    {
-      "id": "105945",
-      "os_number": "105945",
-      "name": "ZU - PORTA RÁPIDA - VERIFICAÇÃO",
-      "location": "PORTA OPEN FAST - 50.014",
-      "team": "ELÉTRICA",
-      "technician": "HENRIQUE GABRIEL DE MELLO PISAROGLO",
-      "opened_at": "2026-09-15T08:28:31.437000-03:00"
+      "technician": "ARTHUR GABRIEL FERREIRA CADORE",
+      "opened_at": "2026-09-15T08:45:32.627000-03:00"
     }
   ]
 }
