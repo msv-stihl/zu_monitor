@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "105982",
-      "os_number": "105982",
-      "name": "ZU - DESENTUPIMENTO MICTÓRIO",
-      "location": "MCT 003 - BAN116 - TÉRREO M",
-      "team": "CIVIL",
-      "technician": "ALEXANDRE LOPES MAGALHAES",
-      "opened_at": "2026-09-15T15:25:35.683000-03:00"
-    }
-  ]
+  "incidents": []
 }
