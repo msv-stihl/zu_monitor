@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "105961",
-      "os_number": "105961",
-      "name": "ZU - LUMINÁRIA - SUBSTITUIÇÃO",
-      "location": "LOGISTICA - RECEBIMENTO",
-      "team": "ELÉTRICA",
-      "technician": "CLEOTON BRUNO LIMA GONÇALVES",
-      "opened_at": "2026-09-15T11:03:00.817000-03:00"
-    }
-  ]
+  "incidents": []
 }
