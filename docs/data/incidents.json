@@ -35,6 +35,15 @@
       "team": "CIVIL",
       "technician": "RODRIGO DA SILVA SOARES",
       "opened_at": "2026-09-16T10:24:53.910000-03:00"
+    },
+    {
+      "id": "106019",
+      "os_number": "106019",
+      "name": "ZU - [CG]REPOSIÇÃO MATERIAL",
+      "location": "P27 - RESTAURANTE / CENTRAL DE SERVIÇOS",
+      "team": "LIMPEZA CONVENCIONAL",
+      "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
+      "opened_at": "2026-09-16T10:28:55.190000-03:00"
     }
   ]
 }
