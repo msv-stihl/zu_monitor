@@ -1,15 +1,6 @@
 {
   "incidents": [
     {
-      "id": "106039",
-      "os_number": "106039",
-      "name": "ZU - DESENTUPIMENTO RALO",
-      "location": "BAN050 - CENTRAL DE SERVIÇOS - F",
-      "team": "CIVIL",
-      "technician": "RAFAEL LUIS GOMES PEREIRA",
-      "opened_at": "2026-09-16T14:55:38.997000-03:00"
-    },
-    {
       "id": "106041",
       "os_number": "106041",
       "name": "ZU - [CG]LIMPEZA - PISO",
