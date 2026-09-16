@@ -1,15 +1,6 @@
 {
   "incidents": [
     {
-      "id": "105990",
-      "os_number": "105990",
-      "name": "ZU - HIDROSSANITÁRIA - MANUTENÇÃO",
-      "location": "BAN043 - AFAS GALPAO - F",
-      "team": "CIVIL",
-      "technician": "LUAN NEVES COELHO MACHADO",
-      "opened_at": "2026-09-15T16:39:27.997000-03:00"
-    },
-    {
       "id": "105996",
       "os_number": "105996",
       "name": "ZU - DESENTUPIMENTO VASO",
@@ -26,15 +17,6 @@
       "team": "CIVIL",
       "technician": "RAFAEL LUIS GOMES PEREIRA",
       "opened_at": "2026-09-16T08:26:35.677000-03:00"
-    },
-    {
-      "id": "106000",
-      "os_number": "106000",
-      "name": "ZU - FALTA DE ENERGIA - ADMINISTRATIVO",
-      "location": "LAVAGEM DE UTENSILIOS - RESTAURANTE",
-      "team": "ELÉTRICA",
-      "technician": "ANDERSON PADILHA DE SOUZA",
-      "opened_at": "2026-09-16T08:34:56.367000-03:00"
     },
     {
       "id": "106001",
