@@ -1,15 +1,6 @@
 {
   "incidents": [
     {
-      "id": "106019",
-      "os_number": "106019",
-      "name": "ZU - [CG]REPOSIÇÃO MATERIAL",
-      "location": "P27 - RESTAURANTE / CENTRAL DE SERVIÇOS",
-      "team": "LIMPEZA CONVENCIONAL",
-      "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
-      "opened_at": "2026-09-16T10:28:55.190000-03:00"
-    },
-    {
       "id": "106023",
       "os_number": "106023",
       "name": "ZU - AR CONDICIONADO - NÃO ESQUENTA",
