@@ -17,6 +17,24 @@
       "team": "REFRIGERAÇÃO",
       "technician": "LUIS ALEJANDRO BITTAR BRITO",
       "opened_at": "2026-09-16T09:42:48.427000-03:00"
+    },
+    {
+      "id": "106009",
+      "os_number": "106009",
+      "name": "ZU - SOLO CONTAMINADO - REMOÇÃO",
+      "location": "PCT-28.001 - TAN381-TANQUE RESÍDUOS DESMOLDANTE",
+      "team": "CIVIL",
+      "technician": "ALEXANDRE LOPES MAGALHAES",
+      "opened_at": "2026-09-16T09:46:15.277000-03:00"
+    },
+    {
+      "id": "106010",
+      "os_number": "106010",
+      "name": "ZU - [CG]RECOLHIMENTO RESÍDUOS FÁBRICA",
+      "location": "P31 - PREDIO NOVO CILINDRO / CROMO NOVO",
+      "team": "LIMPEZA CONVENCIONAL",
+      "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
+      "opened_at": "2026-09-16T09:46:34.137000-03:00"
     }
   ]
 }
