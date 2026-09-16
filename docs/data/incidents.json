@@ -17,6 +17,15 @@
       "team": "CIVIL",
       "technician": "RAFAEL LUIS GOMES PEREIRA",
       "opened_at": "2026-09-16T13:32:25.157000-03:00"
+    },
+    {
+      "id": "106029",
+      "os_number": "106029",
+      "name": "ZU - SOLO CONTAMINADO - REMOÇÃO",
+      "location": "P31 - PREDIO NOVO CILINDRO / CROMO NOVO",
+      "team": "CIVIL",
+      "technician": "ALEXANDRE LOPES MAGALHAES",
+      "opened_at": "2026-09-16T13:37:47.437000-03:00"
     }
   ]
 }
