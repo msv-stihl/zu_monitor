@@ -17,6 +17,15 @@
       "team": "SPCI",
       "technician": "GABRIEL NUNES BENDER",
       "opened_at": "2026-09-16T08:07:41.133000-03:00"
+    },
+    {
+      "id": "105996",
+      "os_number": "105996",
+      "name": "ZU - DESENTUPIMENTO VASO",
+      "location": "BOX 001 - BAN070 - BRUNIMENTO NORTE M",
+      "team": "CIVIL",
+      "technician": "RAFAEL LUIS GOMES PEREIRA",
+      "opened_at": "2026-09-16T08:13:51.490000-03:00"
     }
   ]
 }
