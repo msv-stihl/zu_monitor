@@ -1,15 +1,6 @@
 {
   "incidents": [
     {
-      "id": "106015",
-      "os_number": "106015",
-      "name": "ZU - VAZAMENTO DE ÁGUA ",
-      "location": "SALA DILUIÇAO MANSERV",
-      "team": "CIVIL",
-      "technician": "RODRIGO DA SILVA SOARES",
-      "opened_at": "2026-09-16T10:20:24.010000-03:00"
-    },
-    {
       "id": "106019",
       "os_number": "106019",
       "name": "ZU - [CG]REPOSIÇÃO MATERIAL",
@@ -17,15 +8,6 @@
       "team": "LIMPEZA CONVENCIONAL",
       "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
       "opened_at": "2026-09-16T10:28:55.190000-03:00"
-    },
-    {
-      "id": "106020",
-      "os_number": "106020",
-      "name": "ZU - MACA - LACRE ROMPIDO",
-      "location": "MACA - 31.010 - 30010287",
-      "team": "SPCI",
-      "technician": "GABRIEL NUNES BENDER",
-      "opened_at": "2026-09-16T10:34:40.857000-03:00"
     }
   ]
 }
