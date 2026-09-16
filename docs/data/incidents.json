@@ -35,6 +35,15 @@
       "team": "LIMPEZA CONVENCIONAL",
       "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
       "opened_at": "2026-09-16T09:46:34.137000-03:00"
+    },
+    {
+      "id": "106011",
+      "os_number": "106011",
+      "name": "ZU - DESENTUPIMENTO VASO",
+      "location": "BAN109 - PINTURA - M",
+      "team": "CIVIL",
+      "technician": "RAFAEL LUIS GOMES PEREIRA",
+      "opened_at": "2026-09-16T09:52:52.200000-03:00"
     }
   ]
 }
