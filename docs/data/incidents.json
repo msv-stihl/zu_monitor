@@ -1,15 +1,6 @@
 {
   "incidents": [
     {
-      "id": "106034",
-      "os_number": "106034",
-      "name": "ZU - AR CONDICIONADO - NÃO ESQUENTA",
-      "location": "ACO-38.013 - 30006162 - LABORATÓRIO MECATRÔNICA",
-      "team": "REFRIGERAÇÃO",
-      "technician": "LUIS ALEJANDRO BITTAR BRITO",
-      "opened_at": "2026-09-16T14:29:48.787000-03:00"
-    },
-    {
       "id": "106035",
       "os_number": "106035",
       "name": "ZU - AR CONDICIONADO - NÃO ESQUENTA",
