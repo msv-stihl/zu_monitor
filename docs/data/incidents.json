@@ -8,6 +8,15 @@
       "team": "REFRIGERAÇÃO",
       "technician": "VALDIR LORENA DOS SANTOS",
       "opened_at": "2026-09-16T09:34:22.977000-03:00"
+    },
+    {
+      "id": "106008",
+      "os_number": "106008",
+      "name": "ZU - AR CONDICIONADO - RUÍDO",
+      "location": "ACO-40.001 - 36000 BTUS - SUBESTAÇÃO 00",
+      "team": "REFRIGERAÇÃO",
+      "technician": "LUIS ALEJANDRO BITTAR BRITO",
+      "opened_at": "2026-09-16T09:42:48.427000-03:00"
     }
   ]
 }
