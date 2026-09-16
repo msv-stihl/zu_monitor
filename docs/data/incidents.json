@@ -6,7 +6,7 @@
       "name": "ZU - AR CONDICIONADO - VAZAMENTO",
       "location": "ACO-28.013 - 30000908 - METROLOGIA TRIDIMENSIONAL",
       "team": "REFRIGERAÇÃO",
-      "technician": "VALDIR LORENA DOS SANTOS",
+      "technician": "EDER EVALDT DA SILVA",
       "opened_at": "2026-09-16T09:34:22.977000-03:00"
     },
     {
@@ -17,15 +17,6 @@
       "team": "REFRIGERAÇÃO",
       "technician": "LUIS ALEJANDRO BITTAR BRITO",
       "opened_at": "2026-09-16T09:42:48.427000-03:00"
-    },
-    {
-      "id": "106009",
-      "os_number": "106009",
-      "name": "ZU - SOLO CONTAMINADO - REMOÇÃO",
-      "location": "PCT-28.001 - TAN381-TANQUE RESÍDUOS DESMOLDANTE",
-      "team": "CIVIL",
-      "technician": "ALEXANDRE LOPES MAGALHAES",
-      "opened_at": "2026-09-16T09:46:15.277000-03:00"
     },
     {
       "id": "106010",
