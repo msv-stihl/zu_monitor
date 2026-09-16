@@ -35,6 +35,15 @@
       "team": "ELÉTRICA",
       "technician": "ANDERSON PADILHA DE SOUZA",
       "opened_at": "2026-09-16T08:34:56.367000-03:00"
+    },
+    {
+      "id": "106001",
+      "os_number": "106001",
+      "name": "ZU - [CG]REPOSIÇÃO MATERIAL",
+      "location": "BEB-50.009 - 30010227 - PLÁSTICO / PINTURA",
+      "team": "LIMPEZA CONVENCIONAL",
+      "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
+      "opened_at": "2026-09-16T08:40:19.087000-03:00"
     }
   ]
 }
