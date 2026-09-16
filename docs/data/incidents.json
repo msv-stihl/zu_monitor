@@ -8,6 +8,15 @@
       "team": "LIMPEZA CONVENCIONAL",
       "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
       "opened_at": "2026-09-16T07:51:11.823000-03:00"
+    },
+    {
+      "id": "105995",
+      "os_number": "105995",
+      "name": "ZU - EXTINTOR - LACRE ROMPIDO",
+      "location": "EXTINTOR - 50.073 - 30007316",
+      "team": "SPCI",
+      "technician": "GABRIEL NUNES BENDER",
+      "opened_at": "2026-09-16T08:07:41.133000-03:00"
     }
   ]
 }
