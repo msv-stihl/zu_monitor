@@ -26,6 +26,15 @@
       "team": "CIVIL",
       "technician": "RAFAEL LUIS GOMES PEREIRA",
       "opened_at": "2026-09-16T08:26:35.677000-03:00"
+    },
+    {
+      "id": "106000",
+      "os_number": "106000",
+      "name": "ZU - FALTA DE ENERGIA - ADMINISTRATIVO",
+      "location": "LAVAGEM DE UTENSILIOS - RESTAURANTE",
+      "team": "ELÉTRICA",
+      "technician": "ANDERSON PADILHA DE SOUZA",
+      "opened_at": "2026-09-16T08:34:56.367000-03:00"
     }
   ]
 }
