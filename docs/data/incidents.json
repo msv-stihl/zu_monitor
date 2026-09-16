@@ -26,6 +26,15 @@
       "team": "REFRIGERAÇÃO",
       "technician": "ARTHUR GABRIEL FERREIRA CADORE",
       "opened_at": "2026-09-16T10:14:47.853000-03:00"
+    },
+    {
+      "id": "106015",
+      "os_number": "106015",
+      "name": "ZU - VAZAMENTO DE ÁGUA ",
+      "location": "SALA DILUIÇAO MANSERV",
+      "team": "CIVIL",
+      "technician": "RODRIGO DA SILVA SOARES",
+      "opened_at": "2026-09-16T10:20:24.010000-03:00"
     }
   ]
 }
