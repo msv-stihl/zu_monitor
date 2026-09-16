@@ -1,15 +1,6 @@
 {
   "incidents": [
     {
-      "id": "105996",
-      "os_number": "105996",
-      "name": "ZU - DESENTUPIMENTO VASO",
-      "location": "BOX 001 - BAN070 - BRUNIMENTO NORTE M",
-      "team": "CIVIL",
-      "technician": "RAFAEL LUIS GOMES PEREIRA",
-      "opened_at": "2026-09-16T08:13:51.490000-03:00"
-    },
-    {
       "id": "106001",
       "os_number": "106001",
       "name": "ZU - [CG]REPOSIÇÃO MATERIAL",
@@ -17,6 +8,15 @@
       "team": "LIMPEZA CONVENCIONAL",
       "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
       "opened_at": "2026-09-16T08:40:19.087000-03:00"
+    },
+    {
+      "id": "106006",
+      "os_number": "106006",
+      "name": "ZU - KIT DE EMERGÊNCIA - LACRE ROMPIDO",
+      "location": "KIT DE EMERGENCIA - 43.001 - 30004778",
+      "team": "SPCI",
+      "technician": "GABRIEL NUNES BENDER",
+      "opened_at": "2026-09-16T09:17:37.247000-03:00"
     }
   ]
 }
