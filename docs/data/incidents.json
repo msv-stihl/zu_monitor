@@ -1,15 +1,6 @@
 {
   "incidents": [
     {
-      "id": "106007",
-      "os_number": "106007",
-      "name": "ZU - AR CONDICIONADO - VAZAMENTO",
-      "location": "ACO-28.013 - 30000908 - METROLOGIA TRIDIMENSIONAL",
-      "team": "REFRIGERAÇÃO",
-      "technician": "EDER EVALDT DA SILVA",
-      "opened_at": "2026-09-16T09:34:22.977000-03:00"
-    },
-    {
       "id": "106010",
       "os_number": "106010",
       "name": "ZU - [CG]RECOLHIMENTO RESÍDUOS FÁBRICA",
@@ -35,6 +26,15 @@
       "team": "CIVIL",
       "technician": "RODRIGO DA SILVA SOARES",
       "opened_at": "2026-09-16T10:20:24.010000-03:00"
+    },
+    {
+      "id": "106017",
+      "os_number": "106017",
+      "name": "ZU - DESENTUPIMENTO VASO",
+      "location": "BOX 001 - BAN116 - TÉRREO M",
+      "team": "CIVIL",
+      "technician": "RODRIGO DA SILVA SOARES",
+      "opened_at": "2026-09-16T10:24:53.910000-03:00"
     }
   ]
 }
