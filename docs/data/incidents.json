@@ -10,15 +10,6 @@
       "opened_at": "2026-09-16T09:34:22.977000-03:00"
     },
     {
-      "id": "106008",
-      "os_number": "106008",
-      "name": "ZU - AR CONDICIONADO - RUÍDO",
-      "location": "ACO-40.001 - 36000 BTUS - SUBESTAÇÃO 00",
-      "team": "REFRIGERAÇÃO",
-      "technician": "LUIS ALEJANDRO BITTAR BRITO",
-      "opened_at": "2026-09-16T09:42:48.427000-03:00"
-    },
-    {
       "id": "106010",
       "os_number": "106010",
       "name": "ZU - [CG]RECOLHIMENTO RESÍDUOS FÁBRICA",
@@ -26,6 +17,15 @@
       "team": "LIMPEZA CONVENCIONAL",
       "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
       "opened_at": "2026-09-16T09:46:34.137000-03:00"
+    },
+    {
+      "id": "106013",
+      "os_number": "106013",
+      "name": "ZU - BEBEDOURO - MANUTENÇÃO",
+      "location": "BEB-52.002 - 30010196 - COPA MEZANINO",
+      "team": "REFRIGERAÇÃO",
+      "technician": "ARTHUR GABRIEL FERREIRA CADORE",
+      "opened_at": "2026-09-16T10:14:47.853000-03:00"
     }
   ]
 }
