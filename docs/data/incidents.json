@@ -1,15 +1,6 @@
 {
   "incidents": [
     {
-      "id": "106010",
-      "os_number": "106010",
-      "name": "ZU - [CG]RECOLHIMENTO RESÍDUOS FÁBRICA",
-      "location": "P31 - PREDIO NOVO CILINDRO / CROMO NOVO",
-      "team": "LIMPEZA CONVENCIONAL",
-      "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
-      "opened_at": "2026-09-16T09:46:34.137000-03:00"
-    },
-    {
       "id": "106013",
       "os_number": "106013",
       "name": "ZU - BEBEDOURO - MANUTENÇÃO",
@@ -44,6 +35,15 @@
       "team": "LIMPEZA CONVENCIONAL",
       "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
       "opened_at": "2026-09-16T10:28:55.190000-03:00"
+    },
+    {
+      "id": "106020",
+      "os_number": "106020",
+      "name": "ZU - MACA - LACRE ROMPIDO",
+      "location": "MACA - 31.010 - 30010287",
+      "team": "SPCI",
+      "technician": "GABRIEL NUNES BENDER",
+      "opened_at": "2026-09-16T10:34:40.857000-03:00"
     }
   ]
 }
