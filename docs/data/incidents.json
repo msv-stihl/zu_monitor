@@ -1,3 +1,13 @@
 {
-  "incidents": []
+  "incidents": [
+    {
+      "id": "106090",
+      "os_number": "106090",
+      "name": "ZU - AR CONDICIONADO - NÃO LIGA",
+      "location": "ACO-11.001 - 30000399 - SUPERVISÃO FUNDIÇÃO POR GRAVIDADE",
+      "team": "REFRIGERAÇÃO",
+      "technician": "WALMORCY KERSTING NETO",
+      "opened_at": "2026-09-17T16:13:45.320000-03:00"
+    }
+  ]
 }
