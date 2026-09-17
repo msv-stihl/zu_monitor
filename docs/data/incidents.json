@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "106088",
-      "os_number": "106088",
-      "name": "ZU - HIDROSSANITÁRIA - VAZAMENTO",
-      "location": "BAN131 - VESTIARIO 3º PAVIMENTO - M",
-      "team": "CIVIL",
-      "technician": "VANDERLEI DORNELES DOS SANTOS",
-      "opened_at": "2026-09-17T15:42:17.453000-03:00"
-    }
-  ]
+  "incidents": []
 }
