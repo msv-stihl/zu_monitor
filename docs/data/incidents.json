@@ -6,7 +6,7 @@
       "name": "ZU - AR CONDICIONADO - VAZAMENTO",
       "location": "ACO-31.040 - 30001160 - SALA TRIDIMENSIONAL",
       "team": "REFRIGERAÇÃO",
-      "technician": "VALDIR LORENA DOS SANTOS",
+      "technician": "EDER EVALDT DA SILVA",
       "opened_at": "2026-09-17T07:42:07.497000-03:00"
     },
     {
@@ -17,6 +17,15 @@
       "team": "ELÉTRICA",
       "technician": "IZAQUIEL BITELO",
       "opened_at": "2026-09-17T07:46:50.250000-03:00"
+    },
+    {
+      "id": "106050",
+      "os_number": "106050",
+      "name": "ZU - DESENTUPIMENTO VASO",
+      "location": "BOX 003 - BAN052 - FUNDIÇÃO ALUMÍNIO M ",
+      "team": "CIVIL",
+      "technician": "LUAN NEVES COELHO MACHADO",
+      "opened_at": "2026-09-17T08:00:28.200000-03:00"
     }
   ]
 }
