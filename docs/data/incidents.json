@@ -1,15 +1,6 @@
 {
   "incidents": [
     {
-      "id": "106074",
-      "os_number": "106074",
-      "name": "ZU - HIDROSSANITÁRIA - VAZAMENTO",
-      "location": "BOX 004 - BAN060 - CQS M",
-      "team": "CIVIL",
-      "technician": "ALEXANDRE LOPES MAGALHAES",
-      "opened_at": "2026-09-17T12:55:08.907000-03:00"
-    },
-    {
       "id": "106079",
       "os_number": "106079",
       "name": "ZU - FALTA DE ÁGUA",
