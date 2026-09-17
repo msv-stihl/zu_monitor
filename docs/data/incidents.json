@@ -1,15 +1,6 @@
 {
   "incidents": [
     {
-      "id": "106079",
-      "os_number": "106079",
-      "name": "ZU - FALTA DE ÁGUA",
-      "location": "P56 - VESTIÁRIOS / AMBULATÓRIO",
-      "team": "CIVIL",
-      "technician": "ALEXANDRE LOPES MAGALHAES",
-      "opened_at": "2026-09-17T13:21:10.613000-03:00"
-    },
-    {
       "id": "106084",
       "os_number": "106084",
       "name": "ZU - DESENTUPIMENTO VASO",
