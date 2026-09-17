@@ -8,6 +8,15 @@
       "team": "CIVIL",
       "technician": "ALEXANDRE LOPES MAGALHAES",
       "opened_at": "2026-09-17T13:21:10.613000-03:00"
+    },
+    {
+      "id": "106084",
+      "os_number": "106084",
+      "name": "ZU - DESENTUPIMENTO VASO",
+      "location": "BAN001 - BANHEIRO PLÁSTICO - M",
+      "team": "CIVIL",
+      "technician": "ANDREY PHILIPP DA SILVA HIPOLITO",
+      "opened_at": "2026-09-17T14:09:22.857000-03:00"
     }
   ]
 }
