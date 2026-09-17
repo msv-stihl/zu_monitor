@@ -1,15 +1,6 @@
 {
   "incidents": [
     {
-      "id": "106047",
-      "os_number": "106047",
-      "name": "ZU - AR CONDICIONADO - VAZAMENTO",
-      "location": "ACO-31.040 - 30001160 - SALA TRIDIMENSIONAL",
-      "team": "REFRIGERAÇÃO",
-      "technician": "EDER EVALDT DA SILVA",
-      "opened_at": "2026-09-17T07:42:07.497000-03:00"
-    },
-    {
       "id": "106052",
       "os_number": "106052",
       "name": "ZU - HIDROSSANITÁRIA - VAZAMENTO",
