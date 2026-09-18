@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "106129",
-      "os_number": "106129",
-      "name": "ZU - AR CONDICIONADO - NÃO LIGA",
-      "location": "ACO-22.002 - 7500 BTUS TORRE RESFRIAMENTO",
-      "team": "REFRIGERAÇÃO",
-      "technician": "LUIS ALEJANDRO BITTAR BRITO",
-      "opened_at": "2026-09-18T15:28:29.463000-03:00"
-    }
-  ]
+  "incidents": []
 }
