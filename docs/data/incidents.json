@@ -1,3 +1,13 @@
 {
-  "incidents": []
+  "incidents": [
+    {
+      "id": "106110",
+      "os_number": "106110",
+      "name": "ZU - FALTA DE ENERGIA - ADMINISTRATIVO",
+      "location": "LAVAGEM DE UTENSILIOS - RESTAURANTE",
+      "team": "ELÉTRICA",
+      "technician": "ADELAR FERNANDES DE ALMEIDA",
+      "opened_at": "2026-09-18T11:23:48.317000-03:00"
+    }
+  ]
 }
