@@ -26,6 +26,15 @@
       "team": "REFRIGERAÇÃO",
       "technician": "ARTHUR GABRIEL FERREIRA CADORE",
       "opened_at": "2026-09-18T08:17:00.103000-03:00"
+    },
+    {
+      "id": "106099",
+      "os_number": "106099",
+      "name": "ZU - CAIXA HIDRANTE - MANUTENÇÃO",
+      "location": "CAIXA DE HIDRANTE - 15.003 - 30004309",
+      "team": "SPCI",
+      "technician": "GABRIEL NUNES BENDER",
+      "opened_at": "2026-09-18T08:36:56.173000-03:00"
     }
   ]
 }
