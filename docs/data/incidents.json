@@ -10,15 +10,6 @@
       "opened_at": "2026-09-18T07:58:40.680000-03:00"
     },
     {
-      "id": "106097",
-      "os_number": "106097",
-      "name": "ZU - [CG]RECOLHIMENTO RESÍDUOS FÁBRICA",
-      "location": "P52 - FERRAMENTARIA",
-      "team": "LIMPEZA CONVENCIONAL",
-      "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
-      "opened_at": "2026-09-18T08:13:09.863000-03:00"
-    },
-    {
       "id": "106098",
       "os_number": "106098",
       "name": "ZU - BEBEDOURO - MANUTENÇÃO",
@@ -26,6 +17,15 @@
       "team": "REFRIGERAÇÃO",
       "technician": "ARTHUR GABRIEL FERREIRA CADORE",
       "opened_at": "2026-09-18T08:17:00.103000-03:00"
+    },
+    {
+      "id": "106100",
+      "os_number": "106100",
+      "name": "ZU - PORTA RÁPIDA - VERIFICAÇÃO",
+      "location": "PORTA OPEN FAST - 50.015",
+      "team": "ELÉTRICA",
+      "technician": "HENRIQUE GABRIEL DE MELLO PISAROGLO",
+      "opened_at": "2026-09-18T08:50:42.287000-03:00"
     }
   ]
 }
