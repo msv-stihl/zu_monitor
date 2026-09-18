@@ -8,6 +8,15 @@
       "team": "ELÉTRICA",
       "technician": "ADELAR FERNANDES DE ALMEIDA",
       "opened_at": "2026-09-18T07:50:29.617000-03:00"
+    },
+    {
+      "id": "106096",
+      "os_number": "106096",
+      "name": "ZU - VENTILADOR - NÃO LIGA",
+      "location": "VENTILADOR 11.014 - ZFG",
+      "team": "ELÉTRICA",
+      "technician": "IZAQUIEL BITELO",
+      "opened_at": "2026-09-18T07:58:40.680000-03:00"
     }
   ]
 }
