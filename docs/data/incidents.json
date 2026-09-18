@@ -1,22 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "106096",
-      "os_number": "106096",
-      "name": "ZU - VENTILADOR - NÃO LIGA",
-      "location": "VENTILADOR 11.014 - ZFG",
-      "team": "ELÉTRICA",
-      "technician": "IZAQUIEL BITELO",
-      "opened_at": "2026-09-18T07:58:40.680000-03:00"
-    },
-    {
-      "id": "106106",
-      "os_number": "106106",
-      "name": "ZU - DESENTUPIMENTO VASO",
-      "location": "BOX 004 - BAN001 - BANHEIRO PLÁSTICO M",
-      "team": "CIVIL",
-      "technician": "RODRIGO DA SILVA SOARES",
-      "opened_at": "2026-09-18T10:12:43.707000-03:00"
-    }
-  ]
+  "incidents": []
 }
