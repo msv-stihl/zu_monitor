@@ -26,6 +26,15 @@
       "team": "LIMPEZA CONVENCIONAL",
       "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
       "opened_at": "2026-09-21T08:03:59.440000-03:00"
+    },
+    {
+      "id": "106148",
+      "os_number": "106148",
+      "name": "ZU - FALTA DE ENERGIA - ADMINISTRATIVO",
+      "location": "SALA TECNICA",
+      "team": "ELÉTRICA",
+      "technician": "IZAQUIEL BITELO",
+      "opened_at": "2026-09-21T08:23:47.310000-03:00"
     }
   ]
 }
