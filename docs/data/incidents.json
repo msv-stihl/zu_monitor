@@ -8,6 +8,15 @@
       "team": "REFRIGERAÇÃO",
       "technician": "LUIS ALEJANDRO BITTAR BRITO",
       "opened_at": "2026-09-21T09:41:36.767000-03:00"
+    },
+    {
+      "id": "106166",
+      "os_number": "106166",
+      "name": "ZU - VENTILADOR - NÃO LIGA",
+      "location": "VENTILADOR BIG-FAN 50.004 - NOVO MOTORES",
+      "team": "ELÉTRICA",
+      "technician": "IZAQUIEL BITELO",
+      "opened_at": "2026-09-21T09:51:04.173000-03:00"
     }
   ]
 }
