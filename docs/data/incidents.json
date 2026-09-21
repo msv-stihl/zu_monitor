@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "106179",
-      "os_number": "106179",
-      "name": "ZU - AR CONDICIONADO - NÃO RESFRIA",
-      "location": "ACO-50.025 - 30007093 - LABORATÓRIO VIRABREQUIM",
-      "team": "REFRIGERAÇÃO",
-      "technician": "VALDIR LORENA DOS SANTOS",
-      "opened_at": "2026-09-21T10:43:33.123000-03:00"
-    }
-  ]
+  "incidents": []
 }
