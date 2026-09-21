@@ -1,15 +1,6 @@
 {
   "incidents": [
     {
-      "id": "106141",
-      "os_number": "106141",
-      "name": "ZU - EXAUSTÃO - MANUTENÇÃO",
-      "location": "SISTEMA DE EXAUSTÃO",
-      "team": "UTILIDADES",
-      "technician": "RENATO LESKE ERT",
-      "opened_at": "2026-09-21T07:49:17.903000-03:00"
-    },
-    {
       "id": "106143",
       "os_number": "106143",
       "name": "ZU - BEBEDOURO - MANUTENÇÃO",
@@ -26,6 +17,15 @@
       "team": "ELÉTRICA",
       "technician": "IZAQUIEL BITELO",
       "opened_at": "2026-09-21T08:23:47.310000-03:00"
+    },
+    {
+      "id": "106151",
+      "os_number": "106151",
+      "name": "ZU - [CG]RECOLHIMENTO RESÍDUOS FÁBRICA",
+      "location": "UMP - PINTURA",
+      "team": "LIMPEZA CONVENCIONAL",
+      "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
+      "opened_at": "2026-09-21T08:47:46.507000-03:00"
     }
   ]
 }
