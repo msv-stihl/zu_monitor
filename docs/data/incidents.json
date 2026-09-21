@@ -10,15 +10,6 @@
       "opened_at": "2026-09-21T07:49:17.903000-03:00"
     },
     {
-      "id": "106142",
-      "os_number": "106142",
-      "name": "ZU - [FC]LIMPEZA - PISO",
-      "location": "HALL AMBULATORIO",
-      "team": "LIMPEZA CONVENCIONAL",
-      "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
-      "opened_at": "2026-09-21T07:51:18.777000-03:00"
-    },
-    {
       "id": "106143",
       "os_number": "106143",
       "name": "ZU - BEBEDOURO - MANUTENÇÃO",
@@ -26,6 +17,15 @@
       "team": "REFRIGERAÇÃO",
       "technician": "ARTHUR GABRIEL FERREIRA CADORE",
       "opened_at": "2026-09-21T08:00:22.093000-03:00"
+    },
+    {
+      "id": "106144",
+      "os_number": "106144",
+      "name": "ZU - [CG]RECOLHIMENTO RESÍDUOS SALA",
+      "location": "TRF - SALA ADM",
+      "team": "LIMPEZA CONVENCIONAL",
+      "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
+      "opened_at": "2026-09-21T08:03:59.440000-03:00"
     }
   ]
 }
