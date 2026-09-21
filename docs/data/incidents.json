@@ -1,3 +1,13 @@
 {
-  "incidents": []
+  "incidents": [
+    {
+      "id": "106195",
+      "os_number": "106195",
+      "name": "ZU - [CG]REPOSIÇÃO MATERIAL",
+      "location": "BEB-01.003 - 30004514 - USINAGEM DE MAGNÉSIO",
+      "team": "LIMPEZA CONVENCIONAL",
+      "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
+      "opened_at": "2026-09-21T15:43:35.240000-03:00"
+    }
+  ]
 }
