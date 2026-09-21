@@ -35,6 +35,15 @@
       "team": "ELÉTRICA",
       "technician": "CLEOTON BRUNO LIMA GONÇALVES",
       "opened_at": "2026-09-21T09:00:17.453000-03:00"
+    },
+    {
+      "id": "106156",
+      "os_number": "106156",
+      "name": "ZU - VENTILADOR - NÃO LIGA",
+      "location": "ZFA - FUNDIÇAO DE ALUMINIO",
+      "team": "ELÉTRICA",
+      "technician": "ADELAR FERNANDES DE ALMEIDA",
+      "opened_at": "2026-09-21T09:04:47.157000-03:00"
     }
   ]
 }
