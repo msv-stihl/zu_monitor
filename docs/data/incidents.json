@@ -1,3 +1,13 @@
 {
-  "incidents": []
+  "incidents": [
+    {
+      "id": "106246",
+      "os_number": "106246",
+      "name": "ZU - [CG]REPOSIÇÃO MATERIAL",
+      "location": "P43 - CENTRO DE DISTRIBUIÇÃO",
+      "team": "LIMPEZA CONVENCIONAL",
+      "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
+      "opened_at": "2026-09-22T16:16:05.950000-03:00"
+    }
+  ]
 }
