@@ -8,6 +8,15 @@
       "team": "LIMPEZA CONVENCIONAL",
       "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
       "opened_at": "2026-09-22T13:55:52.003000-03:00"
+    },
+    {
+      "id": "106234",
+      "os_number": "106234",
+      "name": "ZU - EQUIPAMENTOS - REMOÇÃO",
+      "location": "P15 - ALMOXARIFADO CENTRAL / PORTARIA 2",
+      "team": "CIVIL",
+      "technician": "ALEXANDRE LOPES MAGALHAES",
+      "opened_at": "2026-09-22T14:03:25.157000-03:00"
     }
   ]
 }
