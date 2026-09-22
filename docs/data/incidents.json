@@ -17,6 +17,15 @@
       "team": "SPCI",
       "technician": "GABRIEL NUNES BENDER",
       "opened_at": "2026-09-22T09:44:10.363000-03:00"
+    },
+    {
+      "id": "106213",
+      "os_number": "106213",
+      "name": "ZU - AR CONDICIONADO - NÃO LIGA",
+      "location": "P43 - CENTRO DE DISTRIBUIÇÃO",
+      "team": "REFRIGERAÇÃO",
+      "technician": "VALDIR LORENA DOS SANTOS",
+      "opened_at": "2026-09-22T09:51:53.230000-03:00"
     }
   ]
 }
