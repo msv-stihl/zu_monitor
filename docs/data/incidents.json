@@ -17,6 +17,15 @@
       "team": "CIVIL",
       "technician": "VANDERLEI DORNELES DOS SANTOS",
       "opened_at": "2026-09-22T10:59:18.637000-03:00"
+    },
+    {
+      "id": "106225",
+      "os_number": "106225",
+      "name": "ZU - POCETO - TRANSBORDO",
+      "location": "PCT-31.005 - TAN388-TANQUE RESÍDUO DESMOLDANTE PORÃO",
+      "team": "UTILIDADES",
+      "technician": "RENATO LESKE ERT",
+      "opened_at": "2026-09-22T11:07:11.503000-03:00"
     }
   ]
 }
