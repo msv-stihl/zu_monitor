@@ -1,31 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "106221",
-      "os_number": "106221",
-      "name": "ZU - DESENTUPIMENTO MICTÓRIO",
-      "location": "MCT 001 - BAN070 - BRUNIMENTO NORTE M",
-      "team": "CIVIL",
-      "technician": "RODRIGO DA SILVA SOARES",
-      "opened_at": "2026-09-22T10:56:25.640000-03:00"
-    },
-    {
-      "id": "106222",
-      "os_number": "106222",
-      "name": "ZU - DESENTUPIMENTO VASO",
-      "location": "BOX 002 - BAN049 - CENTRAL DE SERVIÇOS M",
-      "team": "CIVIL",
-      "technician": "VANDERLEI DORNELES DOS SANTOS",
-      "opened_at": "2026-09-22T10:59:18.637000-03:00"
-    },
-    {
-      "id": "106225",
-      "os_number": "106225",
-      "name": "ZU - POCETO - TRANSBORDO",
-      "location": "PCT-31.005 - TAN388-TANQUE RESÍDUO DESMOLDANTE PORÃO",
-      "team": "UTILIDADES",
-      "technician": "RENATO LESKE ERT",
-      "opened_at": "2026-09-22T11:07:11.503000-03:00"
-    }
-  ]
+  "incidents": []
 }
