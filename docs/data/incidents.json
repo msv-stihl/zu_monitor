@@ -8,6 +8,15 @@
       "team": "SPCI",
       "technician": "GABRIEL NUNES BENDER",
       "opened_at": "2026-09-22T09:44:10.363000-03:00"
+    },
+    {
+      "id": "106221",
+      "os_number": "106221",
+      "name": "ZU - DESENTUPIMENTO MICTÓRIO",
+      "location": "MCT 001 - BAN070 - BRUNIMENTO NORTE M",
+      "team": "CIVIL",
+      "technician": "RODRIGO DA SILVA SOARES",
+      "opened_at": "2026-09-22T10:56:25.640000-03:00"
     }
   ]
 }
