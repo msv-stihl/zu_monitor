@@ -26,15 +26,6 @@
       "team": "REFRIGERAÇÃO",
       "technician": "VALDIR LORENA DOS SANTOS",
       "opened_at": "2026-09-22T09:51:53.230000-03:00"
-    },
-    {
-      "id": "106214",
-      "os_number": "106214",
-      "name": "ZU - FALTA DE ENERGIA - FÁBRICA",
-      "location": "P50 - NOVO MOTORES",
-      "team": "ELÉTRICA",
-      "technician": "ADELAR FERNANDES DE ALMEIDA",
-      "opened_at": "2026-09-22T09:55:22.220000-03:00"
     }
   ]
 }
