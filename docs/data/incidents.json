@@ -8,6 +8,15 @@
       "team": "REFRIGERAÇÃO",
       "technician": "ARTHUR GABRIEL FERREIRA CADORE",
       "opened_at": "2026-09-23T13:45:02.027000-03:00"
+    },
+    {
+      "id": "106282",
+      "os_number": "106282",
+      "name": "ZU - DESENTUPIMENTO VASO",
+      "location": "BAN106 - MONTAGEM - M",
+      "team": "CIVIL",
+      "technician": "RODRIGO DA SILVA SOARES",
+      "opened_at": "2026-09-23T13:48:36.203000-03:00"
     }
   ]
 }
