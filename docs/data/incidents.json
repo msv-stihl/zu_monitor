@@ -1,24 +1,6 @@
 {
   "incidents": [
     {
-      "id": "106282",
-      "os_number": "106282",
-      "name": "ZU - DESENTUPIMENTO VASO",
-      "location": "BAN106 - MONTAGEM - M",
-      "team": "CIVIL",
-      "technician": "RODRIGO DA SILVA SOARES",
-      "opened_at": "2026-09-23T13:48:36.203000-03:00"
-    },
-    {
-      "id": "106285",
-      "os_number": "106285",
-      "name": "ZU - SECADOR DE AR - VERIFICAÇÃO",
-      "location": "SAR-11.001 - SEC021-SECADOR DE AR INGERSOLL RAND",
-      "team": "UTILIDADES",
-      "technician": "VITOR LEANDRO DA SILVA",
-      "opened_at": "2026-09-23T14:06:10.287000-03:00"
-    },
-    {
       "id": "106288",
       "os_number": "106288",
       "name": "ZU - MACA - LACRE ROMPIDO",
@@ -26,6 +8,15 @@
       "team": "SPCI",
       "technician": "GABRIEL NUNES BENDER",
       "opened_at": "2026-09-23T14:13:39.930000-03:00"
+    },
+    {
+      "id": "106289",
+      "os_number": "106289",
+      "name": "ZU - KIT DE EMERGÊNCIA - LACRE ROMPIDO",
+      "location": "KIT DE EMERGENCIA - 49.001 - 30005941",
+      "team": "SPCI",
+      "technician": "RODRIGO ASCAL RODRIGUES",
+      "opened_at": "2026-09-23T14:17:49.637000-03:00"
     }
   ]
 }
