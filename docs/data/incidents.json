@@ -17,6 +17,15 @@
       "team": "UTILIDADES",
       "technician": "VITOR LEANDRO DA SILVA",
       "opened_at": "2026-09-23T14:06:10.287000-03:00"
+    },
+    {
+      "id": "106288",
+      "os_number": "106288",
+      "name": "ZU - MACA - LACRE ROMPIDO",
+      "location": "MACA - 43.001 - 30004765",
+      "team": "SPCI",
+      "technician": "GABRIEL NUNES BENDER",
+      "opened_at": "2026-09-23T14:13:39.930000-03:00"
     }
   ]
 }
