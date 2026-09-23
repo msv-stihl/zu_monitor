@@ -8,6 +8,15 @@
       "team": "CIVIL",
       "technician": "RODRIGO DA SILVA SOARES",
       "opened_at": "2026-09-23T13:48:36.203000-03:00"
+    },
+    {
+      "id": "106285",
+      "os_number": "106285",
+      "name": "ZU - SECADOR DE AR - VERIFICAÇÃO",
+      "location": "SAR-11.001 - SEC021-SECADOR DE AR INGERSOLL RAND",
+      "team": "UTILIDADES",
+      "technician": "VITOR LEANDRO DA SILVA",
+      "opened_at": "2026-09-23T14:06:10.287000-03:00"
     }
   ]
 }
