@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "106296",
-      "os_number": "106296",
-      "name": "ZU - BEBEDOURO - MANUTENÇÃO",
-      "location": "BEB-28.003 - 30004506 - CROMO II",
-      "team": "REFRIGERAÇÃO",
-      "technician": "ARTHUR GABRIEL FERREIRA CADORE",
-      "opened_at": "2026-09-23T16:43:02.877000-03:00"
-    }
-  ]
+  "incidents": []
 }
