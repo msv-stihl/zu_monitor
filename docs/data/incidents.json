@@ -1,3 +1,13 @@
 {
-  "incidents": []
+  "incidents": [
+    {
+      "id": "106260",
+      "os_number": "106260",
+      "name": "ZU - CURTO CIRCUITO",
+      "location": "LABORATÓRIO ZFG",
+      "team": "ELÉTRICA",
+      "technician": "ADELAR FERNANDES DE ALMEIDA",
+      "opened_at": "2026-09-23T09:24:26.257000-03:00"
+    }
+  ]
 }
