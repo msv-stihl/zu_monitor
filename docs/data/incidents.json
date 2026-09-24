@@ -1,3 +1,13 @@
 {
-  "incidents": []
+  "incidents": [
+    {
+      "id": "106336",
+      "os_number": "106336",
+      "name": "ZU - AR CONDICIONADO - NÃO LIGA",
+      "location": "SALA SUPERVISAO",
+      "team": "REFRIGERAÇÃO",
+      "technician": "MICK PATRICK DOS SANTOS",
+      "opened_at": "2026-09-24T14:25:23.830000-03:00"
+    }
+  ]
 }
