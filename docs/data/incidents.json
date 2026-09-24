@@ -1,13 +1,13 @@
 {
   "incidents": [
     {
-      "id": "106304",
-      "os_number": "106304",
-      "name": "ZU - [CG]RECOLHIMENTO RESÍDUOS FÁBRICA",
-      "location": "P52 - FERRAMENTARIA",
-      "team": "LIMPEZA CONVENCIONAL",
-      "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
-      "opened_at": "2026-09-24T08:25:51.103000-03:00"
+      "id": "106312",
+      "os_number": "106312",
+      "name": "ZU - KIT DE EMERGÊNCIA - LACRE ROMPIDO",
+      "location": "KIT DE EMERGENCIA - 28.007 - 30003305",
+      "team": "SPCI",
+      "technician": "GABRIEL NUNES BENDER",
+      "opened_at": "2026-09-24T09:29:39.280000-03:00"
     }
   ]
 }
