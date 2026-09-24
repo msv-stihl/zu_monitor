@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "106337",
-      "os_number": "106337",
-      "name": "ZU - DESENTUPIMENTO VASO",
-      "location": "BOX 002 - BAN071 - BRUNIMENTO NORTE M",
-      "team": "CIVIL",
-      "technician": "VANDERLEI DORNELES DOS SANTOS",
-      "opened_at": "2026-09-24T14:53:16.863000-03:00"
-    }
-  ]
+  "incidents": []
 }
