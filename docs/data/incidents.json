@@ -17,6 +17,15 @@
       "team": "CIVIL",
       "technician": "LUAN NEVES COELHO MACHADO",
       "opened_at": "2026-09-24T08:36:19.063000-03:00"
+    },
+    {
+      "id": "106308",
+      "os_number": "106308",
+      "name": "ZU - DESENTUPIMENTO VASO",
+      "location": "BOX 006 - BAN049 - CENTRAL DE SERVIÇOS M",
+      "team": "CIVIL",
+      "technician": "VANDERLEI DORNELES DOS SANTOS",
+      "opened_at": "2026-09-24T08:39:25.147000-03:00"
     }
   ]
 }
