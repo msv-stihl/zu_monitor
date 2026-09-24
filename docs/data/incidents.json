@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "106301",
-      "os_number": "106301",
-      "name": "ZU - PORTA RÁPIDA - VERIFICAÇÃO",
-      "location": "PORTA OPEN FAST - 50.007",
-      "team": "ELÉTRICA",
-      "technician": "CLEOTON BRUNO LIMA GONÇALVES",
-      "opened_at": "2026-09-24T08:03:12.353000-03:00"
-    }
-  ]
+  "incidents": []
 }
