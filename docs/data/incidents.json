@@ -8,6 +8,15 @@
       "team": "CIVIL",
       "technician": "ALEXANDRE LOPES MAGALHAES",
       "opened_at": "2026-09-24T10:08:43.967000-03:00"
+    },
+    {
+      "id": "106316",
+      "os_number": "106316",
+      "name": "ZU - DESENTUPIMENTO VASO",
+      "location": "BOX 002 - BAN100 - VESTIÁRIO TÉRREO M",
+      "team": "CIVIL",
+      "technician": "VANDERLEI DORNELES DOS SANTOS",
+      "opened_at": "2026-09-24T10:15:23.953000-03:00"
     }
   ]
 }
