@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "106333",
-      "os_number": "106333",
-      "name": "ZU - EXTINTOR - SUBSTITUIÇÃO",
-      "location": "EXTINTOR - 50.140 - 30009785",
-      "team": "SPCI",
-      "technician": "ROBERTO DA SILVA PRESTES JUNIOR",
-      "opened_at": "2026-09-24T13:56:05.827000-03:00"
-    }
-  ]
+  "incidents": []
 }
