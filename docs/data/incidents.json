@@ -1,15 +1,6 @@
 {
   "incidents": [
     {
-      "id": "106315",
-      "os_number": "106315",
-      "name": "ZU - DESENTUPIMENTO VASO",
-      "location": "BAN109 - PINTURA - M",
-      "team": "CIVIL",
-      "technician": "ALEXANDRE LOPES MAGALHAES",
-      "opened_at": "2026-09-24T10:08:43.967000-03:00"
-    },
-    {
       "id": "106316",
       "os_number": "106316",
       "name": "ZU - DESENTUPIMENTO VASO",
