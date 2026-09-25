@@ -8,6 +8,15 @@
       "team": "LIMPEZA CONVENCIONAL",
       "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
       "opened_at": "2026-09-25T13:36:34.767000-03:00"
+    },
+    {
+      "id": "106367",
+      "os_number": "106367",
+      "name": "ZU - VENTILADOR - NÃO LIGA",
+      "location": "VENTILADOR BIG-FAN 50.003 - NOVO MOTORES",
+      "team": "ELÉTRICA",
+      "technician": "IZAQUIEL BITELO",
+      "opened_at": "2026-09-25T13:40:22.993000-03:00"
     }
   ]
 }
