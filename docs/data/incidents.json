@@ -1,3 +1,13 @@
 {
-  "incidents": []
+  "incidents": [
+    {
+      "id": "106366",
+      "os_number": "106366",
+      "name": "ZU - [CG]RECOLHIMENTO RESÍDUOS FÁBRICA",
+      "location": "ZCR - CROMO II",
+      "team": "LIMPEZA CONVENCIONAL",
+      "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
+      "opened_at": "2026-09-25T13:36:34.767000-03:00"
+    }
+  ]
 }
