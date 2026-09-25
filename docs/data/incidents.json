@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "106348",
-      "os_number": "106348",
-      "name": "ZU - HIDRÁULICA - VAZAMENTO",
-      "location": "BAN126 - VESTIARIO RESTAURANTE - F",
-      "team": "CIVIL",
-      "technician": "ALEXANDRE LOPES MAGALHAES",
-      "opened_at": "2026-09-25T07:46:23.927000-03:00"
-    }
-  ]
+  "incidents": []
 }
