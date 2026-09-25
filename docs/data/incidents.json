@@ -8,6 +8,15 @@
       "team": "LIMPEZA CONVENCIONAL",
       "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
       "opened_at": "2026-09-25T15:50:06.740000-03:00"
+    },
+    {
+      "id": "106392",
+      "os_number": "106392",
+      "name": "ZU - VAZAMENTO DE ÁGUA",
+      "location": "BAN107 - MONTAGEM - F",
+      "team": "CIVIL",
+      "technician": "RAFAEL LUIS GOMES PEREIRA",
+      "opened_at": "2026-09-25T16:08:00.667000-03:00"
     }
   ]
 }
