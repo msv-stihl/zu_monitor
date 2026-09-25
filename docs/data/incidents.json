@@ -17,6 +17,15 @@
       "team": "CIVIL",
       "technician": "LUAN NEVES COELHO MACHADO",
       "opened_at": "2026-09-25T09:39:31.257000-03:00"
+    },
+    {
+      "id": "106361",
+      "os_number": "106361",
+      "name": "ZU - BEBEDOURO - MANUTENÇÃO",
+      "location": "BEB-11.003 - 30004530 - FUNDIÇÃO POR GRAVIDADE",
+      "team": "REFRIGERAÇÃO",
+      "technician": "ARTHUR GABRIEL FERREIRA CADORE",
+      "opened_at": "2026-09-25T09:45:22.977000-03:00"
     }
   ]
 }
