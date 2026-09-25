@@ -1,3 +1,13 @@
 {
-  "incidents": []
+  "incidents": [
+    {
+      "id": "106396",
+      "os_number": "106396",
+      "name": "ZU - VENTILADOR - NÃO LIGA",
+      "location": "ZCP - BRUNIMENTO",
+      "team": "ELÉTRICA",
+      "technician": "ANDERSON PADILHA DE SOUZA",
+      "opened_at": "2026-09-25T16:58:36.260000-03:00"
+    }
+  ]
 }
