@@ -1,15 +1,6 @@
 {
   "incidents": [
     {
-      "id": "106349",
-      "os_number": "106349",
-      "name": "ZU - DESENTUPIMENTO VASO",
-      "location": "BOX 001 - BAN089 - EMBALAGEM F ",
-      "team": "CIVIL",
-      "technician": "VANDERLEI DORNELES DOS SANTOS",
-      "opened_at": "2026-09-25T07:59:35.753000-03:00"
-    },
-    {
       "id": "106352",
       "os_number": "106352",
       "name": "ZU - DESENTUPIMENTO VASO",
