@@ -8,6 +8,15 @@
       "team": "ELÉTRICA",
       "technician": "ANDERSON PADILHA DE SOUZA",
       "opened_at": "2026-09-28T15:15:15.093000-03:00"
+    },
+    {
+      "id": "106443",
+      "os_number": "106443",
+      "name": "ZU - PORTA AUTOMÁTICA - MANUTENÇÃO",
+      "location": "HALL DE ENTRADA",
+      "team": "ELÉTRICA",
+      "technician": "ANDERSON PADILHA DE SOUZA",
+      "opened_at": "2026-09-28T15:24:48.967000-03:00"
     }
   ]
 }
