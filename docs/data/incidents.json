@@ -1,15 +1,6 @@
 {
   "incidents": [
     {
-      "id": "106409",
-      "os_number": "106409",
-      "name": "ZU - DESENTUPIMENTO VASO",
-      "location": "PNE 001 - BAN030 - LOGÍSTICA M",
-      "team": "CIVIL",
-      "technician": "VANDERLEI DORNELES DOS SANTOS",
-      "opened_at": "2026-09-28T08:52:25.073000-03:00"
-    },
-    {
       "id": "106411",
       "os_number": "106411",
       "name": "ZU - DESENTUPIMENTO VASO",
