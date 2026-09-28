@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "106441",
-      "os_number": "106441",
-      "name": "ZU - VAZAMENTO DE ÁGUA",
-      "location": "UMO - MONTAGEM",
-      "team": "CIVIL",
-      "technician": "LUAN NEVES COELHO MACHADO",
-      "opened_at": "2026-09-28T15:04:25.603000-03:00"
-    }
-  ]
+  "incidents": []
 }
