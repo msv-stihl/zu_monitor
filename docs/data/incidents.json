@@ -8,6 +8,15 @@
       "team": "CIVIL",
       "technician": "ALEXANDRE LOPES MAGALHAES",
       "opened_at": "2026-09-28T08:55:02.673000-03:00"
+    },
+    {
+      "id": "106412",
+      "os_number": "106412",
+      "name": "ZU - AR CONDICIONADO - NÃO LIGA",
+      "location": "ACO-50.035 - 30007103 - ENGENHARIA DE PROCESSOS DE MOTORES",
+      "team": "REFRIGERAÇÃO",
+      "technician": "VALDIR LORENA DOS SANTOS",
+      "opened_at": "2026-09-28T09:16:24.687000-03:00"
     }
   ]
 }
