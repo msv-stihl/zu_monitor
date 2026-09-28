@@ -10,15 +10,6 @@
       "opened_at": "2026-09-28T07:57:59.460000-03:00"
     },
     {
-      "id": "106401",
-      "os_number": "106401",
-      "name": "ZU - POCETO - TRANSBORDO",
-      "location": "PCT-32.001 - TAN372-BACIA CONTENÇÃO LAV. EMPILHADEIRA",
-      "team": "UTILIDADES",
-      "technician": "FABIO LUIS DUTRA",
-      "opened_at": "2026-09-28T07:59:25.603000-03:00"
-    },
-    {
       "id": "106403",
       "os_number": "106403",
       "name": "ZU - TOMADA - SEM ENERGIA",
@@ -26,6 +17,15 @@
       "team": "ELÉTRICA",
       "technician": "IZAQUIEL BITELO",
       "opened_at": "2026-09-28T08:12:50.350000-03:00"
+    },
+    {
+      "id": "106404",
+      "os_number": "106404",
+      "name": "ZU - AR CONDICIONADO - VAZAMENTO",
+      "location": "BAN107 - MONTAGEM - F",
+      "team": "REFRIGERAÇÃO",
+      "technician": "EDER EVALDT DA SILVA",
+      "opened_at": "2026-09-28T08:18:20.300000-03:00"
     }
   ]
 }
