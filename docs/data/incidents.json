@@ -1,3 +1,13 @@
 {
-  "incidents": []
+  "incidents": [
+    {
+      "id": "106399",
+      "os_number": "106399",
+      "name": "ZU - AR CONDICIONADO - VAZAMENTO",
+      "location": "ACO-28.016 - 30004969 - QUALIDADE METROLOGIA",
+      "team": "REFRIGERAÇÃO",
+      "technician": "LUIS ALEJANDRO BITTAR BRITO",
+      "opened_at": "2026-09-28T07:49:49.523000-03:00"
+    }
+  ]
 }
