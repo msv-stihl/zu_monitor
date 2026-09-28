@@ -19,13 +19,13 @@
       "opened_at": "2026-09-28T07:59:25.603000-03:00"
     },
     {
-      "id": "106402",
-      "os_number": "106402",
-      "name": "ZU - VENTILADOR - NÃO LIGA",
-      "location": "UMP - PLASTICO / PINTURA",
+      "id": "106403",
+      "os_number": "106403",
+      "name": "ZU - TOMADA - SEM ENERGIA",
+      "location": "ZCH - CHIRON",
       "team": "ELÉTRICA",
-      "technician": "ANDERSON PADILHA DE SOUZA",
-      "opened_at": "2026-09-28T08:04:41.020000-03:00"
+      "technician": "IZAQUIEL BITELO",
+      "opened_at": "2026-09-28T08:12:50.350000-03:00"
     }
   ]
 }
