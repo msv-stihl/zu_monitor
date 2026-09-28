@@ -8,6 +8,24 @@
       "team": "REFRIGERAÇÃO",
       "technician": "LUIS ALEJANDRO BITTAR BRITO",
       "opened_at": "2026-09-28T07:49:49.523000-03:00"
+    },
+    {
+      "id": "106400",
+      "os_number": "106400",
+      "name": "ZU - DESENTUPIMENTO VASO",
+      "location": "BOX 001 - BAN098 - UIE M",
+      "team": "CIVIL",
+      "technician": "RODRIGO DA SILVA SOARES",
+      "opened_at": "2026-09-28T07:57:59.460000-03:00"
+    },
+    {
+      "id": "106401",
+      "os_number": "106401",
+      "name": "ZU - POCETO - TRANSBORDO",
+      "location": "PCT-32.001 - TAN372-BACIA CONTENÇÃO LAV. EMPILHADEIRA",
+      "team": "UTILIDADES",
+      "technician": "FABIO LUIS DUTRA",
+      "opened_at": "2026-09-28T07:59:25.603000-03:00"
     }
   ]
 }
