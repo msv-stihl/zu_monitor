@@ -1,15 +1,6 @@
 {
   "incidents": [
     {
-      "id": "106400",
-      "os_number": "106400",
-      "name": "ZU - DESENTUPIMENTO VASO",
-      "location": "BOX 001 - BAN098 - UIE M",
-      "team": "CIVIL",
-      "technician": "RODRIGO DA SILVA SOARES",
-      "opened_at": "2026-09-28T07:57:59.460000-03:00"
-    },
-    {
       "id": "106403",
       "os_number": "106403",
       "name": "ZU - TOMADA - SEM ENERGIA",
@@ -26,6 +17,33 @@
       "team": "REFRIGERAÇÃO",
       "technician": "EDER EVALDT DA SILVA",
       "opened_at": "2026-09-28T08:18:20.300000-03:00"
+    },
+    {
+      "id": "106405",
+      "os_number": "106405",
+      "name": "ZU -  [CG]RECOLHIMENTO RESÍDUOS FÁBRICA",
+      "location": "UMG - USINAGEM DE MAGNÉSIO",
+      "team": "LIMPEZA CONVENCIONAL",
+      "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
+      "opened_at": "2026-09-28T08:26:35.900000-03:00"
+    },
+    {
+      "id": "106406",
+      "os_number": "106406",
+      "name": "ZU - POCETO - TRANSBORDO",
+      "location": "P28 - UTILIDADES",
+      "team": "UTILIDADES",
+      "technician": "FABIO LUIS DUTRA",
+      "opened_at": "2026-09-28T08:30:17.197000-03:00"
+    },
+    {
+      "id": "106407",
+      "os_number": "106407",
+      "name": "ZU -  [CG]RECOLHIMENTO RESÍDUOS FÁBRICA",
+      "location": "UMP - PINTURA",
+      "team": "LIMPEZA CONVENCIONAL",
+      "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
+      "opened_at": "2026-09-28T08:30:33.393000-03:00"
     }
   ]
 }
