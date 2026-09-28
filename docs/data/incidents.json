@@ -1,24 +1,6 @@
 {
   "incidents": [
     {
-      "id": "106405",
-      "os_number": "106405",
-      "name": "ZU -  [CG]RECOLHIMENTO RESÍDUOS FÁBRICA",
-      "location": "UMG - USINAGEM DE MAGNÉSIO",
-      "team": "LIMPEZA CONVENCIONAL",
-      "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
-      "opened_at": "2026-09-28T08:26:35.900000-03:00"
-    },
-    {
-      "id": "106407",
-      "os_number": "106407",
-      "name": "ZU -  [CG]RECOLHIMENTO RESÍDUOS FÁBRICA",
-      "location": "UMP - PINTURA",
-      "team": "LIMPEZA CONVENCIONAL",
-      "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
-      "opened_at": "2026-09-28T08:30:33.393000-03:00"
-    },
-    {
       "id": "106409",
       "os_number": "106409",
       "name": "ZU - DESENTUPIMENTO VASO",
@@ -26,6 +8,15 @@
       "team": "CIVIL",
       "technician": "VANDERLEI DORNELES DOS SANTOS",
       "opened_at": "2026-09-28T08:52:25.073000-03:00"
+    },
+    {
+      "id": "106411",
+      "os_number": "106411",
+      "name": "ZU - DESENTUPIMENTO VASO",
+      "location": "BOX 002 - BAN100 - VESTIÁRIO TÉRREO M",
+      "team": "CIVIL",
+      "technician": "ALEXANDRE LOPES MAGALHAES",
+      "opened_at": "2026-09-28T08:55:02.673000-03:00"
     }
   ]
 }
