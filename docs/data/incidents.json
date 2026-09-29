@@ -8,6 +8,15 @@
       "team": "LIMPEZA CONVENCIONAL",
       "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
       "opened_at": "2026-09-29T13:55:06.133000-03:00"
+    },
+    {
+      "id": "106500",
+      "os_number": "106500",
+      "name": "ZU - VAZAMENTO DE ÁGUA",
+      "location": "P27 - RESTAURANTE / CENTRAL DE SERVIÇOS",
+      "team": "CIVIL",
+      "technician": "ALEXANDRE LOPES MAGALHAES",
+      "opened_at": "2026-09-29T14:43:18.647000-03:00"
     }
   ]
 }
