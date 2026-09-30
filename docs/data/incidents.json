@@ -1,22 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "106508",
-      "os_number": "106508",
-      "name": "ZU - HIDROSSANITÁRIA - VAZAMENTO",
-      "location": "BAN094 - MARKETING - M",
-      "team": "CIVIL",
-      "technician": "ALEXANDRE LOPES MAGALHAES",
-      "opened_at": "2026-09-30T14:13:23.027000-03:00"
-    },
-    {
-      "id": "106510",
-      "os_number": "106510",
-      "name": "ZU - FALTA DE ENERGIA - FÁBRICA",
-      "location": "P16 - SABRES",
-      "team": "ELÉTRICA",
-      "technician": "RODRIGO SCHILLING FINGER",
-      "opened_at": "2026-09-30T14:33:05.063000-03:00"
-    }
-  ]
+  "incidents": []
 }
