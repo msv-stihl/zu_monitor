@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "107573",
-      "os_number": "107573",
-      "name": "ZU - DESCARTE MATERIAL",
-      "location": "P28 - CILINDROS - FUNDIÇÃO / USINAGEM / CROMO II",
-      "team": "CIVIL",
-      "technician": "RODRIGO DA SILVA SOARES",
-      "opened_at": "2026-09-30T16:46:06.813000-03:00"
-    }
-  ]
+  "incidents": []
 }
