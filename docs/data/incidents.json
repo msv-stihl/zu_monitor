@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "109232",
-      "os_number": "109232",
-      "name": "ZU - REPOSIÇÃO MATERIAL",
-      "location": "P31 - PREDIO NOVO CILINDRO / CROMO NOVO",
-      "team": "LIMPEZA CONVENCIONAL",
-      "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
-      "opened_at": "2026-10-01T10:14:19.857000-03:00"
-    }
-  ]
+  "incidents": []
 }
