@@ -8,6 +8,15 @@
       "team": "CIVIL",
       "technician": "RAFAEL LUIS GOMES PEREIRA",
       "opened_at": "2026-10-01T08:11:04.483000-03:00"
+    },
+    {
+      "id": "109230",
+      "os_number": "109230",
+      "name": "ZU - BEBEDOURO - MANUTENÇÃO",
+      "location": "BEB-01.003 - 30004514 - USINAGEM DE MAGNÉSIO",
+      "team": "REFRIGERAÇÃO",
+      "technician": "ARTHUR GABRIEL FERREIRA CADORE",
+      "opened_at": "2026-10-01T08:54:57.597000-03:00"
     }
   ]
 }
