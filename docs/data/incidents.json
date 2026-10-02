@@ -17,6 +17,15 @@
       "team": "CIVIL",
       "technician": "RAFAEL LUIS GOMES PEREIRA",
       "opened_at": "2026-10-02T12:42:01.467000-03:00"
+    },
+    {
+      "id": "109383",
+      "os_number": "109383",
+      "name": "ZU - TUBULAÇÃO AR COMPRIMIDO - VAZAMENTO!@",
+      "location": "P43 - UTILIDADES",
+      "team": "UTILIDADES",
+      "technician": "FABIO LUIS DUTRA",
+      "opened_at": "2026-10-02T13:18:13.317000-03:00"
     }
   ]
 }
