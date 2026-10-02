@@ -1,15 +1,6 @@
 {
   "incidents": [
     {
-      "id": "109375",
-      "os_number": "109375",
-      "name": "ZU - DESENTUPIMENTO VASO",
-      "location": "BOX 004 - BAN106 - MONTAGEM M ",
-      "team": "CIVIL",
-      "technician": "RODRIGO DA SILVA SOARES",
-      "opened_at": "2026-10-02T12:38:46.723000-03:00"
-    },
-    {
       "id": "109377",
       "os_number": "109377",
       "name": "ZU - DESENTUPIMENTO VASO",
