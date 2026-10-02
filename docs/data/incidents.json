@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "109355",
-      "os_number": "109355",
-      "name": "ZU - PORTA SECCIONAL - VERIFICAÇÃO",
-      "location": "PORTA RÁPIDA SECCIONAL 43.016 - EXPEDIÇÃO",
-      "team": "ELÉTRICA",
-      "technician": "CLEOTON BRUNO LIMA GONÇALVES",
-      "opened_at": "2026-10-02T07:47:19.787000-03:00"
-    }
-  ]
+  "incidents": []
 }
