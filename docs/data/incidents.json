@@ -1,15 +1,6 @@
 {
   "incidents": [
     {
-      "id": "109412",
-      "os_number": "109412",
-      "name": "ZU - [CG]REPOSIÇÃO MATERIAL",
-      "location": "UMG - USINAGEM DE MAGNÉSIO",
-      "team": "LIMPEZA CONVENCIONAL",
-      "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
-      "opened_at": "2026-10-05T14:52:50.860000-03:00"
-    },
-    {
       "id": "109414",
       "os_number": "109414",
       "name": "ZU - BEBEDOURO - MANUTENÇÃO",
