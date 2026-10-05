@@ -8,6 +8,15 @@
       "team": "LIMPEZA CONVENCIONAL",
       "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
       "opened_at": "2026-10-05T14:52:50.860000-03:00"
+    },
+    {
+      "id": "109414",
+      "os_number": "109414",
+      "name": "ZU - BEBEDOURO - MANUTENÇÃO",
+      "location": "BEB-27.004 - 30004571 - HALL AMBULATÓRIO",
+      "team": "REFRIGERAÇÃO",
+      "technician": "ARTHUR GABRIEL FERREIRA CADORE",
+      "opened_at": "2026-10-05T15:34:39.510000-03:00"
     }
   ]
 }
