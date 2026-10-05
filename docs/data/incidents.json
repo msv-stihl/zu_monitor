@@ -8,6 +8,15 @@
       "team": "CIVIL",
       "technician": "LUAN LOPES ARIS",
       "opened_at": "2026-10-05T10:21:51.867000-03:00"
+    },
+    {
+      "id": "109406",
+      "os_number": "109406",
+      "name": "ZU - HIDROSSANITÁRIA - VAZAMENTO",
+      "location": "BOX 002 - BAN110 - PINTURA F",
+      "team": "CIVIL",
+      "technician": "RODRIGO DA SILVA SOARES",
+      "opened_at": "2026-10-05T10:25:57.350000-03:00"
     }
   ]
 }
