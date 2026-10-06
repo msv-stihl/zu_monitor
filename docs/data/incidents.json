@@ -14,9 +14,18 @@
       "os_number": "109420",
       "name": "ZU - [CG]LIMPEZA - PISO",
       "location": "P31 - PREDIO NOVO CILINDRO / CROMO NOVO",
-      "team": "CIVIL",
+      "team": "LIMPEZA CONVENCIONAL",
       "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
       "opened_at": "2026-10-06T09:17:14.997000-03:00"
+    },
+    {
+      "id": "109425",
+      "os_number": "109425",
+      "name": "ZU - VENTILADOR - MANUTENÇÃO",
+      "location": "P31 - PREDIO NOVO CILINDRO / CROMO NOVO",
+      "team": "ELÉTRICA",
+      "technician": "ANDERSON PADILHA DE SOUZA",
+      "opened_at": "2026-10-06T09:56:37.470000-03:00"
     }
   ]
 }
