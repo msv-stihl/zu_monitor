@@ -8,6 +8,15 @@
       "team": "LIMPEZA CONVENCIONAL",
       "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
       "opened_at": "2026-10-06T08:54:10.920000-03:00"
+    },
+    {
+      "id": "109419",
+      "os_number": "109419",
+      "name": "ZU - DESCARTE MATERIAL",
+      "location": "COPA AUDITÓRIO",
+      "team": "CIVIL",
+      "technician": "ANDREY PHILIPP DA SILVA HIPOLITO",
+      "opened_at": "2026-10-06T09:14:44.703000-03:00"
     }
   ]
 }
