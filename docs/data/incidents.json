@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "109461",
-      "os_number": "109461",
-      "name": "ZU - AR CONDICIONADO - VAZAMENTO",
-      "location": "ACO-37.001 - 30006161 - HALL PORTARIA 4",
-      "team": "REFRIGERAÇÃO",
-      "technician": "WALMORCY KERSTING NETO",
-      "opened_at": "2026-10-07T15:23:09.700000-03:00"
-    }
-  ]
+  "incidents": []
 }
