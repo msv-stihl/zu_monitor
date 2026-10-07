@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "109459",
-      "os_number": "109459",
-      "name": "ZU - BEBEDOURO - MANUTENÇÃO",
-      "location": "BEB-31.004 - 30004493 - CHIRON",
-      "team": "REFRIGERAÇÃO",
-      "technician": "ARTHUR GABRIEL FERREIRA CADORE",
-      "opened_at": "2026-10-07T14:15:06.800000-03:00"
-    }
-  ]
+  "incidents": []
 }
