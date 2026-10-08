@@ -8,6 +8,24 @@
       "team": "CIVIL",
       "technician": "ALEXANDRE LOPES MAGALHAES",
       "opened_at": "2026-10-08T14:42:14.023000-03:00"
+    },
+    {
+      "id": "109527",
+      "os_number": "109527",
+      "name": "ZU - DESENTUPIMENTO VASO",
+      "location": "BOX 002 - BAN100 - VESTIÁRIO TÉRREO M",
+      "team": "CIVIL",
+      "technician": "LUAN NEVES COELHO MACHADO",
+      "opened_at": "2026-10-08T14:47:07.137000-03:00"
+    },
+    {
+      "id": "109529",
+      "os_number": "109529",
+      "name": "ZU - AR CONDICIONADO - NÃO LIGA",
+      "location": "ACO-18.006 - 30000877 - HALL ENTRADA PRESIDÊNCIA",
+      "team": "REFRIGERAÇÃO",
+      "technician": "LUIS ALEJANDRO BITTAR BRITO",
+      "opened_at": "2026-10-08T14:49:44.603000-03:00"
     }
   ]
 }
