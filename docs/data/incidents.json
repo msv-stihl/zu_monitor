@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "109536",
-      "os_number": "109536",
-      "name": "ZU - AR CONDICIONADO - VAZAMENTO",
-      "location": "ACO-15.006 - 30004850 - LABORATÓRIO DIMENSIONAL",
-      "team": "REFRIGERAÇÃO",
-      "technician": "MICK PATRICK DOS SANTOS",
-      "opened_at": "2026-10-08T15:43:21.520000-03:00"
-    }
-  ]
+  "incidents": []
 }
