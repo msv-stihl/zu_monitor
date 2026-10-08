@@ -26,6 +26,24 @@
       "team": "REFRIGERAÇÃO",
       "technician": "LUIS ALEJANDRO BITTAR BRITO",
       "opened_at": "2026-10-08T14:49:44.603000-03:00"
+    },
+    {
+      "id": "109530",
+      "os_number": "109530",
+      "name": "ZU - DESENTUPIMENTO VASO",
+      "location": "BOX 001 - BAN109 - PINTURA M",
+      "team": "CIVIL",
+      "technician": "LUAN NEVES COELHO MACHADO",
+      "opened_at": "2026-10-08T14:54:10.917000-03:00"
+    },
+    {
+      "id": "109531",
+      "os_number": "109531",
+      "name": "ZU - AR CONDICIONADO - NÃO LIGA",
+      "location": "ACO-31.064 - 30000853 - SALA ENGENHARIA MANUTENÇÃO",
+      "team": "REFRIGERAÇÃO",
+      "technician": "VALDIR LORENA DOS SANTOS",
+      "opened_at": "2026-10-08T14:57:46.100000-03:00"
     }
   ]
 }
