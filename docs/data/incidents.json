@@ -8,6 +8,24 @@
       "team": "ELÉTRICA",
       "technician": "IZAQUIEL BITELO",
       "opened_at": "2026-10-08T13:37:35.003000-03:00"
+    },
+    {
+      "id": "109515",
+      "os_number": "109515",
+      "name": "ZU - ELEVADOR - VERIFICAÇÃO",
+      "location": "ELEVADOR DE CARGA EXPEDIÇÃO",
+      "team": "ELÉTRICA",
+      "technician": "CLEOTON BRUNO LIMA GONÇALVES",
+      "opened_at": "2026-10-08T13:41:07.363000-03:00"
+    },
+    {
+      "id": "109516",
+      "os_number": "109516",
+      "name": "ZU - DESENTUPIMENTO VASO",
+      "location": "BOX 001 - BAN064 - PLANEJAMENTO INDUSTRIAL M ",
+      "team": "CIVIL",
+      "technician": "VANDERLEI DORNELES DOS SANTOS",
+      "opened_at": "2026-10-08T13:45:33.963000-03:00"
     }
   ]
 }
