@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "109499",
-      "os_number": "109499",
-      "name": "ZU - DESENTUPIMENTO MICTÓRIO",
-      "location": "MCT 002 - BAN056 - USINAGEM CILINDROS M ",
-      "team": "CIVIL",
-      "technician": "ANDREY PHILIPP DA SILVA HIPOLITO",
-      "opened_at": "2026-10-08T07:52:21.023000-03:00"
-    }
-  ]
+  "incidents": []
 }
