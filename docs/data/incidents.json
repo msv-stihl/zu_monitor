@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "109513",
-      "os_number": "109513",
-      "name": "ZU - HIDRÁULICA - VAZAMENTO",
-      "location": "BAN034 - SABRES - M",
-      "team": "CIVIL",
-      "technician": "RAFAEL LUIS GOMES PEREIRA",
-      "opened_at": "2026-10-08T12:17:20.657000-03:00"
-    }
-  ]
+  "incidents": []
 }
