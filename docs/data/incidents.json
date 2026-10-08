@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "109516",
-      "os_number": "109516",
-      "name": "ZU - DESENTUPIMENTO VASO",
-      "location": "BOX 001 - BAN064 - PLANEJAMENTO INDUSTRIAL M ",
-      "team": "CIVIL",
-      "technician": "VANDERLEI DORNELES DOS SANTOS",
-      "opened_at": "2026-10-08T13:45:33.963000-03:00"
-    }
-  ]
+  "incidents": []
 }
