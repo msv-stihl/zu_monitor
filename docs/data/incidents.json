@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "109554",
-      "os_number": "109554",
-      "name": "ZU - POCETO - DESOBSTRUÇÃO",
-      "location": "P28 - UTILIDADES",
-      "team": "UTILIDADES",
-      "technician": "FABIO LUIS DUTRA",
-      "opened_at": "2026-10-09T10:11:04.303000-03:00"
-    }
-  ]
+  "incidents": []
 }
