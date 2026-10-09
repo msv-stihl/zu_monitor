@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "109540",
-      "os_number": "109540",
-      "name": "ZU - POCETO - TRANSBORDO",
-      "location": "SISTEMA DE EFLUENTES P11",
-      "team": "UTILIDADES",
-      "technician": "RENATO LESKE ERT",
-      "opened_at": "2026-10-09T08:34:17.683000-03:00"
-    }
-  ]
+  "incidents": []
 }
