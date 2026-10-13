@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "109603",
-      "os_number": "109603",
-      "name": "ZU - REPOSIÇÃO MATERIAL",
-      "location": "BAN076 - JURÍDICO SUL - M",
-      "team": "LIMPEZA CONVENCIONAL",
-      "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
-      "opened_at": "2026-10-13T09:51:22.893000-03:00"
-    }
-  ]
+  "incidents": []
 }
