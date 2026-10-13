@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "109596",
-      "os_number": "109596",
-      "name": "ZU - FALTA DE ENERGIA - ADMINISTRATIVO",
-      "location": "COZINHA",
-      "team": "ELÉTRICA",
-      "technician": "IZAQUIEL BITELO",
-      "opened_at": "2026-10-13T07:56:29.910000-03:00"
-    }
-  ]
+  "incidents": []
 }
