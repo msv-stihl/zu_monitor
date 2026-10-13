@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "109598",
-      "os_number": "109598",
-      "name": "ZU - POCETO - TRANSBORDO",
-      "location": "P31 - UTILIDADES",
-      "team": "UTILIDADES",
-      "technician": "RENATO LESKE ERT",
-      "opened_at": "2026-10-13T08:39:48.427000-03:00"
-    }
-  ]
+  "incidents": []
 }
