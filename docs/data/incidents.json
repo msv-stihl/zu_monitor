@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "109636",
-      "os_number": "109636",
-      "name": "ZU - BEBEDOURO - MANUTENÇÃO",
-      "location": "BEB-52.002 - 30010196 - COPA MEZANINO",
-      "team": "REFRIGERAÇÃO",
-      "technician": "ARTHUR GABRIEL FERREIRA CADORE",
-      "opened_at": "2026-10-13T15:19:37.607000-03:00"
-    }
-  ]
+  "incidents": []
 }
