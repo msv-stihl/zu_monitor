@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "109640",
-      "os_number": "109640",
-      "name": "ZU - CÂMERA FRIA - MANUTENÇÃO",
-      "location": "P27 - RESTAURANTE / CENTRAL DE SERVIÇOS",
-      "team": "REFRIGERAÇÃO",
-      "technician": "MICK PATRICK DOS SANTOS",
-      "opened_at": "2026-10-14T08:04:23.110000-03:00"
-    }
-  ]
+  "incidents": []
 }
