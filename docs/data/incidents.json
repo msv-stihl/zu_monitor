@@ -8,6 +8,15 @@
       "team": "REFRIGERAÇÃO",
       "technician": "ARTHUR GABRIEL FERREIRA CADORE",
       "opened_at": "2026-10-14T08:54:31.620000-03:00"
+    },
+    {
+      "id": "109661",
+      "os_number": "109661",
+      "name": "ZU - [CG]REPOSIÇÃO MATERIAL",
+      "location": "BAN066 - ENGENHARIA MANUTENÇAO - M",
+      "team": "LIMPEZA CONVENCIONAL",
+      "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
+      "opened_at": "2026-10-14T09:11:48.677000-03:00"
     }
   ]
 }
