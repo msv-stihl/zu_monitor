@@ -1,22 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "109697",
-      "os_number": "109697",
-      "name": "ZU - [FC]LIMPEZA - PISO",
-      "location": "HALL ENGENHARIA MANUTENÇAO",
-      "team": "LIMPEZA CONVENCIONAL",
-      "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
-      "opened_at": "2026-10-15T09:24:18.107000-03:00"
-    },
-    {
-      "id": "109699",
-      "os_number": "109699",
-      "name": "ZU - PORTA RÁPIDA - VERIFICAÇÃO",
-      "location": "PORTA OPEN FAST - 15.002",
-      "team": "ELÉTRICA",
-      "technician": "CLEOTON BRUNO LIMA GONÇALVES",
-      "opened_at": "2026-10-15T09:49:19.307000-03:00"
-    }
-  ]
+  "incidents": []
 }
