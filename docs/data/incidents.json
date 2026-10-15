@@ -8,6 +8,15 @@
       "team": "LIMPEZA TÉCNICA",
       "technician": "MARCIO PEREIRA DOS SANTOS",
       "opened_at": "2026-10-15T15:53:20.973000-03:00"
+    },
+    {
+      "id": "109711",
+      "os_number": "109711",
+      "name": "ZU - PORTA RÁPIDA - VERIFICAÇÃO",
+      "location": "PORTA OPEN FAST - 31.005",
+      "team": "ELÉTRICA",
+      "technician": "CLEOTON BRUNO LIMA GONÇALVES",
+      "opened_at": "2026-10-15T16:29:54.647000-03:00"
     }
   ]
 }
