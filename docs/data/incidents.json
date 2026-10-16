@@ -8,6 +8,15 @@
       "team": "LIMPEZA CONVENCIONAL",
       "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
       "opened_at": "2026-10-16T15:55:17.230000-03:00"
+    },
+    {
+      "id": "109756",
+      "os_number": "109756",
+      "name": "ZU - HIDROSSANITÁRIA - VAZAMENTO",
+      "location": "BAN002 - VIRABREQUIM - M",
+      "team": "CIVIL",
+      "technician": "LUAN NEVES COELHO MACHADO",
+      "opened_at": "2026-10-16T16:19:44.637000-03:00"
     }
   ]
 }
