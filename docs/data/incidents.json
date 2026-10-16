@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "109758",
-      "os_number": "109758",
-      "name": "ZU - POCETO - TRANSBORDO",
-      "location": "PCT-31.005 - TAN388-TANQUE RESÍDUO DESMOLDANTE PORÃO",
-      "team": "UTILIDADES",
-      "technician": "RODRIGO SCHILLING FINGER",
-      "opened_at": "2026-10-16T16:49:23.557000-03:00"
-    }
-  ]
+  "incidents": []
 }
