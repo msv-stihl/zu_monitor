@@ -8,6 +8,15 @@
       "team": "CIVIL",
       "technician": "RODRIGO DA SILVA SOARES",
       "opened_at": "2026-10-16T07:40:31.113000-03:00"
+    },
+    {
+      "id": "109714",
+      "os_number": "109714",
+      "name": "ZU - CURTO CIRCUITO",
+      "location": "P31 - PREDIO NOVO CILINDRO / CROMO NOVO",
+      "team": "ELÉTRICA",
+      "technician": "ADELAR FERNANDES DE ALMEIDA",
+      "opened_at": "2026-10-16T07:55:19.347000-03:00"
     }
   ]
 }
