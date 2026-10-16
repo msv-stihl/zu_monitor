@@ -8,6 +8,15 @@
       "team": "CIVIL",
       "technician": "ALEXANDRE LOPES MAGALHAES",
       "opened_at": "2026-10-16T08:55:34.517000-03:00"
+    },
+    {
+      "id": "109717",
+      "os_number": "109717",
+      "name": "ZU - BEBEDOURO - MANUTENÇÃO",
+      "location": "BEB-43.008 - 30004566 - HALL ENTRADA RH",
+      "team": "REFRIGERAÇÃO",
+      "technician": "ARTHUR GABRIEL FERREIRA CADORE",
+      "opened_at": "2026-10-16T09:30:52.207000-03:00"
     }
   ]
 }
