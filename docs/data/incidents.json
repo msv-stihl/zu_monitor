@@ -8,6 +8,15 @@
       "team": "CIVIL",
       "technician": "ALEXANDRE LOPES MAGALHAES",
       "opened_at": "2026-10-19T08:03:25.497000-03:00"
+    },
+    {
+      "id": "109761",
+      "os_number": "109761",
+      "name": "ZU - APOIO CIVIL - NÃO PLANEJADO",
+      "location": "P15 - ALMOXARIFADO CENTRAL / PORTARIA 2",
+      "team": "CIVIL",
+      "technician": "ANDREY PHILIPP DA SILVA HIPOLITO",
+      "opened_at": "2026-10-19T08:10:06.007000-03:00"
     }
   ]
 }
