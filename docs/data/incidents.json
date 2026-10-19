@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "109775",
-      "os_number": "109775",
-      "name": "ZU - DESENTUPIMENTO VASO",
-      "location": "BOX 001 - BAN109 - PINTURA M",
-      "team": "CIVIL",
-      "technician": "LUAN NEVES COELHO MACHADO",
-      "opened_at": "2026-10-19T10:42:29.827000-03:00"
-    }
-  ]
+  "incidents": []
 }
