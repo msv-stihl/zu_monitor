@@ -1,15 +1,6 @@
 {
   "incidents": [
     {
-      "id": "109760",
-      "os_number": "109760",
-      "name": "ZU - VAZAMENTO DE ÁGUA",
-      "location": "P16 - SABRES",
-      "team": "CIVIL",
-      "technician": "ALEXANDRE LOPES MAGALHAES",
-      "opened_at": "2026-10-19T08:03:25.497000-03:00"
-    },
-    {
       "id": "109761",
       "os_number": "109761",
       "name": "ZU - APOIO CIVIL - NÃO PLANEJADO",
