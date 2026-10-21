@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "109845",
-      "os_number": "109845",
-      "name": "ZU - [CG]REPOSIÇÃO MATERIAIS",
-      "location": "ZCR - PORAO CROMO III",
-      "team": "LIMPEZA CONVENCIONAL",
-      "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
-      "opened_at": "2026-10-21T14:10:48.230000-03:00"
-    }
-  ]
+  "incidents": []
 }
