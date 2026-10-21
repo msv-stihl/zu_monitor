@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "109843",
-      "os_number": "109843",
-      "name": "ZU - REPOSIÇÃO MATERIAIS ",
-      "location": "LABORATORIO QUIMICO",
-      "team": "LIMPEZA CONVENCIONAL",
-      "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
-      "opened_at": "2026-10-21T11:08:03.050000-03:00"
-    }
-  ]
+  "incidents": []
 }
