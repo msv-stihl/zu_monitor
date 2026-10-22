@@ -1,15 +1,6 @@
 {
   "incidents": [
     {
-      "id": "109901",
-      "os_number": "109901",
-      "name": "ZU - BEBEDOURO - MANUTENÇÃO",
-      "location": "BEB-01.006 - 30004517 - MONTAGEM",
-      "team": "REFRIGERAÇÃO",
-      "technician": "ARTHUR GABRIEL FERREIRA CADORE",
-      "opened_at": "2026-10-22T13:36:38.227000-03:00"
-    },
-    {
       "id": "109902",
       "os_number": "109902",
       "name": "ZU - [CG]REPOSIÇÃO MATERIAIS",
