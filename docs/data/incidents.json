@@ -8,6 +8,15 @@
       "team": "LIMPEZA CONVENCIONAL",
       "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
       "opened_at": "2026-10-22T13:39:37.230000-03:00"
+    },
+    {
+      "id": "109903",
+      "os_number": "109903",
+      "name": "ZU - CURTO CIRCUITO",
+      "location": "PSL - LOGISTICA",
+      "team": "ELÉTRICA",
+      "technician": "IZAQUIEL BITELO",
+      "opened_at": "2026-10-22T14:16:03.533000-03:00"
     }
   ]
 }
