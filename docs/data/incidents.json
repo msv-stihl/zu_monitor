@@ -8,6 +8,15 @@
       "team": "CIVIL",
       "technician": "ALEXANDRE LOPES MAGALHAES",
       "opened_at": "2026-10-22T08:20:55.253000-03:00"
+    },
+    {
+      "id": "109878",
+      "os_number": "109878",
+      "name": "ZU - PORTA RÁPIDA - VERIFICAÇÃO",
+      "location": "PORTA OPEN FAST - 15.003",
+      "team": "ELÉTRICA",
+      "technician": "HENRIQUE GABRIEL DE MELLO PISAROGLO",
+      "opened_at": "2026-10-22T08:50:30.320000-03:00"
     }
   ]
 }
