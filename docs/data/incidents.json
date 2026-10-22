@@ -8,6 +8,15 @@
       "team": "CIVIL",
       "technician": "ALEXANDRE LOPES MAGALHAES",
       "opened_at": "2026-10-22T08:03:22.123000-03:00"
+    },
+    {
+      "id": "109872",
+      "os_number": "109872",
+      "name": "ZU - CHUVEIRO E LAVA OLHOS - MANUTENÇÃO",
+      "location": "CHUVEIRO E LAVA-OLHOS - 08.001 - 30000683",
+      "team": "CIVIL",
+      "technician": "ALEXANDRE LOPES MAGALHAES",
+      "opened_at": "2026-10-22T08:20:55.253000-03:00"
     }
   ]
 }
