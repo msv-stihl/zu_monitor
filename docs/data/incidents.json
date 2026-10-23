@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "109927",
-      "os_number": "109927",
-      "name": "ZU - VENTILADOR - MANUTENÇÃO",
-      "location": "ZCP - BRUNIMENTO",
-      "team": "ELÉTRICA",
-      "technician": "IZAQUIEL BITELO",
-      "opened_at": "2026-10-23T11:23:13.553000-03:00"
-    }
-  ]
+  "incidents": []
 }
