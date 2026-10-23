@@ -6,6 +6,15 @@
       "name": "ZU - POCETO - TRANSBORDO",
       "location": "PCT-28.002 - TAN382-TANQUE RESÍDUOS PINGADEIRA",
       "team": "UTILIDADES",
+      "technician": "FABIO LUIS DUTRA",
+      "opened_at": "2026-10-23T13:36:07.203000-03:00"
+    },
+    {
+      "id": "109929",
+      "os_number": "109929",
+      "name": "ZU - POCETO - TRANSBORDO",
+      "location": "PCT-28.002 - TAN382-TANQUE RESÍDUOS PINGADEIRA",
+      "team": "UTILIDADES",
       "technician": "ROGER CLAUDINO FLORES",
       "opened_at": "2026-10-23T13:36:07.203000-03:00"
     }
