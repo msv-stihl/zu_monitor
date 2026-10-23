@@ -8,6 +8,24 @@
       "team": "UTILIDADES",
       "technician": "RODRIGO SCHILLING FINGER",
       "opened_at": "2026-10-23T14:30:18.980000-03:00"
+    },
+    {
+      "id": "109943",
+      "os_number": "109943",
+      "name": "ZU - DESENTUPIMENTO VASO",
+      "location": "BOX 002 - BAN049 - CENTRAL DE SERVIÇOS M",
+      "team": "CIVIL",
+      "technician": "PIERRE ALEXANDER VIDAL MACHADO",
+      "opened_at": "2026-10-23T14:35:15.850000-03:00"
+    },
+    {
+      "id": "109944",
+      "os_number": "109944",
+      "name": "ZU - DESENTUPIMENTO VASO",
+      "location": "BOX 002 - BAN100 - VESTIÁRIO TÉRREO M",
+      "team": "CIVIL",
+      "technician": "ALEXANDRE LOPES MAGALHAES",
+      "opened_at": "2026-10-23T14:37:37.933000-03:00"
     }
   ]
 }
