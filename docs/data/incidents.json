@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "109944",
-      "os_number": "109944",
-      "name": "ZU - DESENTUPIMENTO VASO",
-      "location": "BOX 002 - BAN100 - VESTIÁRIO TÉRREO M",
-      "team": "CIVIL",
-      "technician": "ALEXANDRE LOPES MAGALHAES",
-      "opened_at": "2026-10-23T14:37:37.933000-03:00"
-    }
-  ]
+  "incidents": []
 }
