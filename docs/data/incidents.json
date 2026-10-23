@@ -8,6 +8,24 @@
       "team": "LIMPEZA CONVENCIONAL",
       "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
       "opened_at": "2026-10-23T09:01:05.213000-03:00"
+    },
+    {
+      "id": "109917",
+      "os_number": "109917",
+      "name": "ZU - HIDROSSANITÁRIA  - VAZAMENTO",
+      "location": "BAN087 - EXPEDIÇAO - M",
+      "team": "CIVIL",
+      "technician": "ALEXANDRE LOPES MAGALHAES",
+      "opened_at": "2026-10-23T09:24:59.090000-03:00"
+    },
+    {
+      "id": "109918",
+      "os_number": "109918",
+      "name": "ZU - CÂMERA FRIA - MANUTENÇÃO",
+      "location": "RESTAURANTE",
+      "team": "REFRIGERAÇÃO",
+      "technician": "MICK PATRICK DOS SANTOS",
+      "opened_at": "2026-10-23T09:31:30.100000-03:00"
     }
   ]
 }
