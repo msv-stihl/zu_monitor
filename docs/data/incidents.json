@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "109954",
-      "os_number": "109954",
-      "name": "ZU - BEBEDOURO - MANUTENÇÃO",
-      "location": "BEB-31.012 - 30004558 - BRUNIMENTO",
-      "team": "REFRIGERAÇÃO",
-      "technician": "ARTHUR GABRIEL FERREIRA CADORE",
-      "opened_at": "2026-10-26T07:53:53.183000-03:00"
-    }
-  ]
+  "incidents": []
 }
