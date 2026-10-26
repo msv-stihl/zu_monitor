@@ -1,15 +1,6 @@
 {
   "incidents": [
     {
-      "id": "109964",
-      "os_number": "109964",
-      "name": "ZU - DESENTUPIMENTO MICTÓRIO",
-      "location": "MCT 001 - BAN062 - FUNDIÇÃO MAGNESIO M",
-      "team": "CIVIL",
-      "technician": "PIERRE ALEXANDER VIDAL MACHADO",
-      "opened_at": "2026-10-26T11:03:43.867000-03:00"
-    },
-    {
       "id": "109965",
       "os_number": "109965",
       "name": "ZU - VAZAMENTO DE ÁGUA",
