@@ -8,6 +8,15 @@
       "team": "ELÉTRICA",
       "technician": "CLEOTON BRUNO LIMA GONÇALVES",
       "opened_at": "2026-10-26T15:34:55.513000-03:00"
+    },
+    {
+      "id": "109976",
+      "os_number": "109976",
+      "name": "ZU - [CG]REPOSIÇÃO MATERIAL",
+      "location": "BAN092 - RH - M",
+      "team": "LIMPEZA CONVENCIONAL",
+      "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
+      "opened_at": "2026-10-26T15:39:20.257000-03:00"
     }
   ]
 }
