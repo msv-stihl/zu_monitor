@@ -1,15 +1,6 @@
 {
   "incidents": [
     {
-      "id": "110003",
-      "os_number": "110003",
-      "name": "ZU - EXTINTOR - LACRE ROMPIDO",
-      "location": "EXTINTOR - 50.078 - 30007321",
-      "team": "SPCI",
-      "technician": "GABRIEL NUNES BENDER",
-      "opened_at": "2026-10-27T11:31:09.980000-03:00"
-    },
-    {
       "id": "110005",
       "os_number": "110005",
       "name": "ZU - DESENTUPIMENTO MICTÓRIO",
