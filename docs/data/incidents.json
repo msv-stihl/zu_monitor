@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "110056",
-      "os_number": "110056",
-      "name": "ZU - CÂMARA FRIA - NÃO LIGA",
-      "location": "COZINHA",
-      "team": "REFRIGERAÇÃO",
-      "technician": "MICK PATRICK DOS SANTOS",
-      "opened_at": "2026-10-28T14:09:36.497000-03:00"
-    }
-  ]
+  "incidents": []
 }
