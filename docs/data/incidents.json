@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "110059",
-      "os_number": "110059",
-      "name": "ZU - BEBEDOURO - MANUTENÇÃO",
-      "location": "BEB-38.001 - 30004557 - HALL DE ENTRADA",
-      "team": "REFRIGERAÇÃO",
-      "technician": "ARTHUR GABRIEL FERREIRA CADORE",
-      "opened_at": "2026-10-28T16:45:41.003000-03:00"
-    }
-  ]
+  "incidents": []
 }
