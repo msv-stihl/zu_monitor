@@ -8,6 +8,15 @@
       "team": "REFRIGERAÇÃO",
       "technician": "WALMORCY KERSTING NETO",
       "opened_at": "2026-10-30T08:41:48.883000-03:00"
+    },
+    {
+      "id": "110126",
+      "os_number": "110126",
+      "name": "ZU - HIDROSSANITÁRIA - VAZAMENTO",
+      "location": "BAN004 - VIRABREQUIM - F",
+      "team": "CIVIL",
+      "technician": "ALEXANDRE LOPES MAGALHAES",
+      "opened_at": "2026-10-30T08:48:06.913000-03:00"
     }
   ]
 }
