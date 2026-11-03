@@ -1,15 +1,6 @@
 {
   "incidents": [
     {
-      "id": "111371",
-      "os_number": "111371",
-      "name": "ZU - [CG]RECOLHIMENTO RESÍDUOS SALA",
-      "location": "COPA - LOGISTICA",
-      "team": "LIMPEZA CONVENCIONAL",
-      "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
-      "opened_at": "2026-11-03T09:52:07.457000-03:00"
-    },
-    {
       "id": "112502",
       "os_number": "112502",
       "name": "ZU - PND - NÃO FUNCIONA",
