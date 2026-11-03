@@ -1,15 +1,6 @@
 {
   "incidents": [
     {
-      "id": "111136",
-      "os_number": "111136",
-      "name": "ZU - AR CONDICIONADO - VAZAMENTO",
-      "location": "ACO-28.026 - 30000904 - ENGENHARIA DE CILINDROS",
-      "team": "REFRIGERAÇÃO",
-      "technician": "EDER EVALDT DA SILVA",
-      "opened_at": "2026-11-03T09:44:26.380000-03:00"
-    },
-    {
       "id": "111371",
       "os_number": "111371",
       "name": "ZU - [CG]RECOLHIMENTO RESÍDUOS SALA",
@@ -26,6 +17,15 @@
       "team": "UTILIDADES",
       "technician": "FABIO LUIS DUTRA",
       "opened_at": "2026-11-03T10:06:48.490000-03:00"
+    },
+    {
+      "id": "112505",
+      "os_number": "112505",
+      "name": "ZU - PORTA AUTOMÁTICA - MANUTENÇÃO",
+      "location": "HALL DE ENTRADA",
+      "team": "ELÉTRICA",
+      "technician": "IZAQUIEL BITELO",
+      "opened_at": "2026-11-03T10:16:01.610000-03:00"
     }
   ]
 }
