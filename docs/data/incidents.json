@@ -17,6 +17,15 @@
       "team": "LIMPEZA CONVENCIONAL",
       "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
       "opened_at": "2026-11-03T09:52:07.457000-03:00"
+    },
+    {
+      "id": "112502",
+      "os_number": "112502",
+      "name": "ZU - PND - NÃO FUNCIONA",
+      "location": "PND-15.005 - PLATAFORMA NIVELADORA DE DOCA",
+      "team": "UTILIDADES",
+      "technician": "FABIO LUIS DUTRA",
+      "opened_at": "2026-11-03T10:06:48.490000-03:00"
     }
   ]
 }
