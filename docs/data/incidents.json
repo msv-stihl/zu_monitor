@@ -53,6 +53,15 @@
       "team": "CIVIL",
       "technician": "PIERRE ALEXANDER VIDAL MACHADO",
       "opened_at": "2026-11-03T14:09:51.467000-03:00"
+    },
+    {
+      "id": "112514",
+      "os_number": "112514",
+      "name": "ZU - FALTA DE ENERGIA - ADMINISTRATIVO",
+      "location": "P29 - CQS",
+      "team": "ELÉTRICA",
+      "technician": "IZAQUIEL BITELO",
+      "opened_at": "2026-11-03T14:14:58.070000-03:00"
     }
   ]
 }
