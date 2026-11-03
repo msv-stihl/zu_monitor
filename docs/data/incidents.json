@@ -8,24 +8,6 @@
       "team": "LIMPEZA CONVENCIONAL",
       "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
       "opened_at": "2026-11-03T13:36:38.017000-03:00"
-    },
-    {
-      "id": "112508",
-      "os_number": "112508",
-      "name": "ZU - [FC]LIMPEZA - BANHEIRO",
-      "location": "BAN125 - VESTIARIO RESTAURANTE - M",
-      "team": "LIMPEZA CONVENCIONAL",
-      "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
-      "opened_at": "2026-11-03T13:59:01.230000-03:00"
-    },
-    {
-      "id": "112511",
-      "os_number": "112511",
-      "name": "ZU - [CG]RECOLHIMENTO DE RESÍDUOS - FÁBRICA",
-      "location": "SALA QUARENTENA",
-      "team": "LIMPEZA CONVENCIONAL",
-      "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
-      "opened_at": "2026-11-03T14:03:24.203000-03:00"
     }
   ]
 }
