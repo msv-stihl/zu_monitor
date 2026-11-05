@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "112603",
-      "os_number": "112603",
-      "name": "ZU - LUMINÁRIA - SUBSTITUIÇÃO",
-      "location": "LAVAGEM DE UTENSILIOS - RESTAURANTE",
-      "team": "ELÉTRICA",
-      "technician": "IZAQUIEL BITELO",
-      "opened_at": "2026-11-05T15:14:44.010000-03:00"
-    }
-  ]
+  "incidents": []
 }
