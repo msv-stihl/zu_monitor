@@ -26,6 +26,15 @@
       "team": "ELÉTRICA",
       "technician": "IZAQUIEL BITELO",
       "opened_at": "2026-11-06T15:52:57.880000-03:00"
+    },
+    {
+      "id": "112661",
+      "os_number": "112661",
+      "name": "ZU - AR CONDICIONADO - NÃO LIGA",
+      "location": "ACO-28.025 - 30000177 - ENGENHARIA DE CILINDROS",
+      "team": "REFRIGERAÇÃO",
+      "technician": "EDER EVALDT DA SILVA",
+      "opened_at": "2026-11-06T15:56:48.407000-03:00"
     }
   ]
 }
