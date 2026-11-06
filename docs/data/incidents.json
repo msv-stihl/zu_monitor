@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "112642",
-      "os_number": "112642",
-      "name": "ZU - FALTA DE ÁGUA",
-      "location": "BOX 001 - BAN068 - BRUNIMENTO SUL M ",
-      "team": "CIVIL",
-      "technician": "PIERRE ALEXANDER VIDAL MACHADO",
-      "opened_at": "2026-11-06T13:50:17.273000-03:00"
-    }
-  ]
+  "incidents": []
 }
