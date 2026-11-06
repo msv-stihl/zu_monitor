@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "112608",
-      "os_number": "112608",
-      "name": "ZU - VENTILADOR - MANUTENÇÃO",
-      "location": "P16 - SABRES",
-      "team": "ELÉTRICA",
-      "technician": "IZAQUIEL BITELO",
-      "opened_at": "2026-11-06T07:58:53.687000-03:00"
-    }
-  ]
+  "incidents": []
 }
