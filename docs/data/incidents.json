@@ -1,31 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "112609",
-      "os_number": "112609",
-      "name": "ZU - [CG]REPOSIÇÃO MATERIAL",
-      "location": "P32 - ETE",
-      "team": "LIMPEZA CONVENCIONAL",
-      "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
-      "opened_at": "2026-11-06T08:25:49.937000-03:00"
-    },
-    {
-      "id": "112612",
-      "os_number": "112612",
-      "name": "ZU - BEBEDOURO - MANUTENÇÃO",
-      "location": "BEB-31.012 - 30004558 - BRUNIMENTO",
-      "team": "REFRIGERAÇÃO",
-      "technician": "ARTHUR GABRIEL FERREIRA CADORE",
-      "opened_at": "2026-11-06T09:35:02.527000-03:00"
-    },
-    {
-      "id": "112615",
-      "os_number": "112615",
-      "name": "ZU - FALTA DE ÁGUA",
-      "location": "RESTAURANTE",
-      "team": "CIVIL",
-      "technician": "PIERRE ALEXANDER VIDAL MACHADO",
-      "opened_at": "2026-11-06T09:57:22.697000-03:00"
-    }
-  ]
+  "incidents": []
 }
