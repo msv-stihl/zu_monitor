@@ -10,15 +10,6 @@
       "opened_at": "2026-11-06T08:25:49.937000-03:00"
     },
     {
-      "id": "112611",
-      "os_number": "112611",
-      "name": "ZU - CÂMARA FRIA - NÃO REFRIGERA",
-      "location": "CMF-27.004 - RESFRIADOS 8,60m²",
-      "team": "REFRIGERAÇÃO",
-      "technician": "MICK PATRICK DOS SANTOS",
-      "opened_at": "2026-11-06T09:27:27.247000-03:00"
-    },
-    {
       "id": "112612",
       "os_number": "112612",
       "name": "ZU - BEBEDOURO - MANUTENÇÃO",
@@ -26,6 +17,15 @@
       "team": "REFRIGERAÇÃO",
       "technician": "ARTHUR GABRIEL FERREIRA CADORE",
       "opened_at": "2026-11-06T09:35:02.527000-03:00"
+    },
+    {
+      "id": "112615",
+      "os_number": "112615",
+      "name": "ZU - FALTA DE ÁGUA",
+      "location": "RESTAURANTE",
+      "team": "CIVIL",
+      "technician": "PIERRE ALEXANDER VIDAL MACHADO",
+      "opened_at": "2026-11-06T09:57:22.697000-03:00"
     }
   ]
 }
