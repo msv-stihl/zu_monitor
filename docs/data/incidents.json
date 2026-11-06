@@ -10,15 +10,6 @@
       "opened_at": "2026-11-06T15:37:48.597000-03:00"
     },
     {
-      "id": "112657",
-      "os_number": "112657",
-      "name": "ZU - CURTO CIRCUITO",
-      "location": "COZINHA",
-      "team": "ELÉTRICA",
-      "technician": "CLEOTON BRUNO LIMA GONÇALVES",
-      "opened_at": "2026-11-06T15:39:41.193000-03:00"
-    },
-    {
       "id": "112658",
       "os_number": "112658",
       "name": "ZU - MANUTENÇÃO PORTA",
@@ -26,6 +17,15 @@
       "team": "CIVIL",
       "technician": "PIERRE ALEXANDER VIDAL MACHADO",
       "opened_at": "2026-11-06T15:46:59.080000-03:00"
+    },
+    {
+      "id": "112659",
+      "os_number": "112659",
+      "name": "ZU - ELEVADOR - VERIFICAÇÃO",
+      "location": "ELEVADOR DE CARGA EXPEDIÇÃO",
+      "team": "ELÉTRICA",
+      "technician": "IZAQUIEL BITELO",
+      "opened_at": "2026-11-06T15:52:57.880000-03:00"
     }
   ]
 }
