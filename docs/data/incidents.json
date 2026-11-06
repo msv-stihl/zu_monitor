@@ -8,6 +8,15 @@
       "team": "LIMPEZA CONVENCIONAL",
       "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
       "opened_at": "2026-11-06T08:25:49.937000-03:00"
+    },
+    {
+      "id": "112611",
+      "os_number": "112611",
+      "name": "ZU - CÂMARA FRIA - NÃO REFRIGERA",
+      "location": "CMF-27.004 - RESFRIADOS 8,60m²",
+      "team": "REFRIGERAÇÃO",
+      "technician": "MICK PATRICK DOS SANTOS",
+      "opened_at": "2026-11-06T09:27:27.247000-03:00"
     }
   ]
 }
