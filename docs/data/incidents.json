@@ -17,6 +17,15 @@
       "team": "LIMPEZA CONVENCIONAL",
       "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
       "opened_at": "2026-11-09T10:39:06.687000-03:00"
+    },
+    {
+      "id": "112706",
+      "os_number": "112706",
+      "name": "ZU - DESENTUPIMENTO VASO",
+      "location": "BAN030 - LOGÍSTICA - M",
+      "team": "CIVIL",
+      "technician": "ALEXANDRE LOPES MAGALHAES",
+      "opened_at": "2026-11-09T10:45:44.800000-03:00"
     }
   ]
 }
