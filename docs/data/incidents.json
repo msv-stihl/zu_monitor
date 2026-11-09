@@ -1,22 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "112670",
-      "os_number": "112670",
-      "name": "ZU - FALTA DE ÁGUA",
-      "location": "HALL AMBULATORIO",
-      "team": "CIVIL",
-      "technician": "PIERRE ALEXANDER VIDAL MACHADO",
-      "opened_at": "2026-11-09T07:40:57.780000-03:00"
-    },
-    {
-      "id": "112672",
-      "os_number": "112672",
-      "name": "ZU - BEBEDOURO - MANUTENÇÃO",
-      "location": "BEB-50.005 - 30009401 - MONTAGEM",
-      "team": "PINTURA",
-      "technician": "ARTHUR GABRIEL FERREIRA CADORE",
-      "opened_at": "2026-11-09T07:49:06.043000-03:00"
-    }
-  ]
+  "incidents": []
 }
