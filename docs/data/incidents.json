@@ -1,15 +1,6 @@
 {
   "incidents": [
     {
-      "id": "112704",
-      "os_number": "112704",
-      "name": "ZU -  HIDROSSANITÁRIA - TORNEIRA",
-      "location": "PIA 002 - BAN048 - COZINHA USO COMUM",
-      "team": "CIVIL",
-      "technician": "LEONARDO DIAS BRAGA",
-      "opened_at": "2026-11-09T10:36:12.273000-03:00"
-    },
-    {
       "id": "112705",
       "os_number": "112705",
       "name": "ZU - [CG]LIMPEZA - SALA",
