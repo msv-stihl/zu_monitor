@@ -1,15 +1,6 @@
 {
   "incidents": [
     {
-      "id": "112705",
-      "os_number": "112705",
-      "name": "ZU - [CG]LIMPEZA - SALA",
-      "location": "SALA ADM LOGISTICA",
-      "team": "LIMPEZA CONVENCIONAL",
-      "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
-      "opened_at": "2026-11-09T10:39:06.687000-03:00"
-    },
-    {
       "id": "112706",
       "os_number": "112706",
       "name": "ZU - DESENTUPIMENTO VASO",
