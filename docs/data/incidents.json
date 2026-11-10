@@ -8,6 +8,15 @@
       "team": "ELÉTRICA",
       "technician": "IZAQUIEL BITELO",
       "opened_at": "2026-11-10T09:08:28.967000-03:00"
+    },
+    {
+      "id": "112760",
+      "os_number": "112760",
+      "name": "ZU - DESENTUPIMENTO VASO",
+      "location": "BOX 001 - BAN090 - MOTORISTAS F ",
+      "team": "CIVIL",
+      "technician": "LEONARDO DIAS BRAGA",
+      "opened_at": "2026-11-10T09:27:40.397000-03:00"
     }
   ]
 }
