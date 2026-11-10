@@ -26,6 +26,15 @@
       "team": "LIMPEZA CONVENCIONAL",
       "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
       "opened_at": "2026-11-10T07:57:30.360000-03:00"
+    },
+    {
+      "id": "112734",
+      "os_number": "112734",
+      "name": "ZU - HIDROSSANITÁRIA - TORNEIRA",
+      "location": "PIA 001 - BAN001 - BANHEIRO PLÁSTICO M",
+      "team": "CIVIL",
+      "technician": "ALEXANDRE LOPES MAGALHAES",
+      "opened_at": "2026-11-10T08:02:33.397000-03:00"
     }
   ]
 }
