@@ -35,6 +35,15 @@
       "team": "CIVIL",
       "technician": "ALEXANDRE LOPES MAGALHAES",
       "opened_at": "2026-11-10T08:02:33.397000-03:00"
+    },
+    {
+      "id": "112737",
+      "os_number": "112737",
+      "name": "ZU - [CG]RECOLHIMENTO DE RESÍDUOS",
+      "location": "P15 - ALMOXARIFADO CENTRAL / PORTARIA 2",
+      "team": "LIMPEZA CONVENCIONAL",
+      "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
+      "opened_at": "2026-11-10T08:08:13.950000-03:00"
     }
   ]
 }
