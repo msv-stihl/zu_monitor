@@ -1,24 +1,6 @@
 {
   "incidents": [
     {
-      "id": "112784",
-      "os_number": "112784",
-      "name": "ZU - DESENTUPIMENTO VASO",
-      "location": "BAN032 - ONE STIHL - M",
-      "team": "CIVIL",
-      "technician": "LEONARDO DIAS BRAGA",
-      "opened_at": "2026-11-10T14:27:52.323000-03:00"
-    },
-    {
-      "id": "112785",
-      "os_number": "112785",
-      "name": "ZU - [CG]RECOLHIMENTO DE RESÍDUOS - SALA",
-      "location": "SALA CAM - SUPORTE",
-      "team": "LIMPEZA CONVENCIONAL",
-      "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
-      "opened_at": "2026-11-10T14:43:09.270000-03:00"
-    },
-    {
       "id": "112787",
       "os_number": "112787",
       "name": "ZU -  BIG FAN - NÃO LIGA",
@@ -26,6 +8,15 @@
       "team": "ELÉTRICA",
       "technician": "CLEOTON BRUNO LIMA GONÇALVES",
       "opened_at": "2026-11-10T14:55:54.220000-03:00"
+    },
+    {
+      "id": "112788",
+      "os_number": "112788",
+      "name": "ZU - AR CONDICIONADO - NÃO LIGA",
+      "location": "COPA PRESIDENCIA",
+      "team": "REFRIGERAÇÃO",
+      "technician": "LUIS ALEJANDRO BITTAR BRITO",
+      "opened_at": "2026-11-10T15:00:47.113000-03:00"
     }
   ]
 }
