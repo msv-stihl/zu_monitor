@@ -8,6 +8,15 @@
       "team": "UTILIDADES",
       "technician": "FABIO LUIS DUTRA",
       "opened_at": "2026-11-10T09:45:52.357000-03:00"
+    },
+    {
+      "id": "112773",
+      "os_number": "112773",
+      "name": "ZU - DESENTUPIMENTO VASO",
+      "location": "BOX 005 - BAN050 - CENTRAL DE SERVIÇOS F ",
+      "team": "CIVIL",
+      "technician": "ALEXANDRE LOPES MAGALHAES",
+      "opened_at": "2026-11-10T10:13:27.030000-03:00"
     }
   ]
 }
