@@ -8,6 +8,24 @@
       "team": "LIMPEZA CONVENCIONAL",
       "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
       "opened_at": "2026-11-10T07:46:36.337000-03:00"
+    },
+    {
+      "id": "112730",
+      "os_number": "112730",
+      "name": "ZU - AR CONDICIONADO - NÃO RESFRIA",
+      "location": "ACO-16.009 - AUDITÓRIO - 30010950",
+      "team": "REFRIGERAÇÃO",
+      "technician": "LUIS ALEJANDRO BITTAR BRITO",
+      "opened_at": "2026-11-10T07:57:16.873000-03:00"
+    },
+    {
+      "id": "112731",
+      "os_number": "112731",
+      "name": "ZU -  [CG]LIMPEZA - SALA",
+      "location": "SALA ADM TRF",
+      "team": "LIMPEZA CONVENCIONAL",
+      "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
+      "opened_at": "2026-11-10T07:57:30.360000-03:00"
     }
   ]
 }
