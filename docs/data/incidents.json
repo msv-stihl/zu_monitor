@@ -17,6 +17,15 @@
       "team": "LIMPEZA CONVENCIONAL",
       "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
       "opened_at": "2026-11-10T14:43:09.270000-03:00"
+    },
+    {
+      "id": "112787",
+      "os_number": "112787",
+      "name": "ZU -  BIG FAN - NÃO LIGA",
+      "location": "VENTILADOR BIG-FAN 50.003 - NOVO MOTORES",
+      "team": "ELÉTRICA",
+      "technician": "CLEOTON BRUNO LIMA GONÇALVES",
+      "opened_at": "2026-11-10T14:55:54.220000-03:00"
     }
   ]
 }
