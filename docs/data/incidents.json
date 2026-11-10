@@ -26,6 +26,15 @@
       "team": "LIMPEZA CONVENCIONAL",
       "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
       "opened_at": "2026-11-10T08:08:13.950000-03:00"
+    },
+    {
+      "id": "112740",
+      "os_number": "112740",
+      "name": "ZU - BEBEDOURO - MANUTENÇÃO",
+      "location": "BEB-01.003 - 30004514 - USINAGEM DE MAGNÉSIO",
+      "team": "REFRIGERAÇÃO",
+      "technician": "ARTHUR GABRIEL FERREIRA CADORE",
+      "opened_at": "2026-11-10T08:20:09.380000-03:00"
     }
   ]
 }
