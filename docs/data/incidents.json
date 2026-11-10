@@ -8,6 +8,15 @@
       "team": "CIVIL",
       "technician": "LEONARDO DIAS BRAGA",
       "opened_at": "2026-11-10T14:27:52.323000-03:00"
+    },
+    {
+      "id": "112785",
+      "os_number": "112785",
+      "name": "ZU - [CG]RECOLHIMENTO DE RESÍDUOS - SALA",
+      "location": "SALA CAM - SUPORTE",
+      "team": "LIMPEZA CONVENCIONAL",
+      "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
+      "opened_at": "2026-11-10T14:43:09.270000-03:00"
     }
   ]
 }
