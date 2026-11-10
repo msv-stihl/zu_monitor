@@ -35,6 +35,15 @@
       "team": "REFRIGERAÇÃO",
       "technician": "ARTHUR GABRIEL FERREIRA CADORE",
       "opened_at": "2026-11-10T08:20:09.380000-03:00"
+    },
+    {
+      "id": "112742",
+      "os_number": "112742",
+      "name": "ZU - [CG]RECOLHIMENTO DE RESÍDUOS",
+      "location": "UMG - USINAGEM DE MAGNÉSIO",
+      "team": "LIMPEZA CONVENCIONAL",
+      "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
+      "opened_at": "2026-11-10T08:23:27.657000-03:00"
     }
   ]
 }
