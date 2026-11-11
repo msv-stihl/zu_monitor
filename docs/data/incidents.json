@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "112792",
-      "os_number": "112792",
-      "name": "ZU - HIDRÁULICA - VAZAMENTO",
-      "location": "HALL DE ENTRADA",
-      "team": "CIVIL",
-      "technician": "ALEXANDRE LOPES MAGALHAES",
-      "opened_at": "2026-11-11T07:46:24.307000-03:00"
-    }
-  ]
+  "incidents": []
 }
