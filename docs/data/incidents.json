@@ -1,22 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "112811",
-      "os_number": "112811",
-      "name": "ZU - BEBEDOURO - MANUTENÇÃO",
-      "location": "BEB-01.008 - 30004519 - MONTAGEM",
-      "team": "REFRIGERAÇÃO",
-      "technician": "ARTHUR GABRIEL FERREIRA CADORE",
-      "opened_at": "2026-11-11T10:39:40.667000-03:00"
-    },
-    {
-      "id": "112812",
-      "os_number": "112812",
-      "name": "ZU - FALTA DE ENERGIA - ADMINISTRATIVO",
-      "location": "SALA ADM - MVV",
-      "team": "ELÉTRICA",
-      "technician": "IZAQUIEL BITELO",
-      "opened_at": "2026-11-11T10:45:48.043000-03:00"
-    }
-  ]
+  "incidents": []
 }
