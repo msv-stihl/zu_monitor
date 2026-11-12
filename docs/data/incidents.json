@@ -1,24 +1,6 @@
 {
   "incidents": [
     {
-      "id": "112834",
-      "os_number": "112834",
-      "name": "ZU -  [FC]LIMPEZA - PISO",
-      "location": "BAN116 - BANHEIRO TÉRREO - M",
-      "team": "LIMPEZA CONVENCIONAL",
-      "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
-      "opened_at": "2026-11-12T09:20:53.203000-03:00"
-    },
-    {
-      "id": "112838",
-      "os_number": "112838",
-      "name": "ZU - BIG FAN - NÃO LIGA",
-      "location": "VENTILADOR BIG-FAN 50.003 - NOVO MOTORES",
-      "team": "ELÉTRICA",
-      "technician": "IZAQUIEL BITELO",
-      "opened_at": "2026-11-12T09:52:16.160000-03:00"
-    },
-    {
       "id": "112839",
       "os_number": "112839",
       "name": "ZU - DESENTUPIMENTO MICTÓRIO",
