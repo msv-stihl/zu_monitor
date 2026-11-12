@@ -17,6 +17,15 @@
       "team": "CIVIL",
       "technician": "LEONARDO DIAS BRAGA",
       "opened_at": "2026-11-12T08:52:22.033000-03:00"
+    },
+    {
+      "id": "112831",
+      "os_number": "112831",
+      "name": "ZU - BEBEDOURO - MANUTENÇÃO",
+      "location": "BEB-56.002 - 30010198 - AMBULATÓRIO - SALA DE AMAMENTAÇÃO",
+      "team": "REFRIGERAÇÃO",
+      "technician": "ARTHUR GABRIEL FERREIRA CADORE",
+      "opened_at": "2026-11-12T08:56:54.660000-03:00"
     }
   ]
 }
