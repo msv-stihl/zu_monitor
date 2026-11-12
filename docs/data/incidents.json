@@ -26,6 +26,15 @@
       "team": "REFRIGERAÇÃO",
       "technician": "MICK PATRICK DOS SANTOS",
       "opened_at": "2026-11-12T09:11:07.247000-03:00"
+    },
+    {
+      "id": "112834",
+      "os_number": "112834",
+      "name": "ZU -  [FC]LIMPEZA - PISO",
+      "location": "BAN116 - BANHEIRO TÉRREO - M",
+      "team": "CIVIL",
+      "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
+      "opened_at": "2026-11-12T09:20:53.203000-03:00"
     }
   ]
 }
