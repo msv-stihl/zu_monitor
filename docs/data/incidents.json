@@ -17,6 +17,15 @@
       "team": "CIVIL",
       "technician": "ALEXANDRE LOPES MAGALHAES",
       "opened_at": "2026-11-12T09:38:29.717000-03:00"
+    },
+    {
+      "id": "112838",
+      "os_number": "112838",
+      "name": "ZU - BIG FAN - NÃO LIGA",
+      "location": "VENTILADOR BIG-FAN 50.003 - NOVO MOTORES",
+      "team": "ELÉTRICA",
+      "technician": "IZAQUIEL BITELO",
+      "opened_at": "2026-11-12T09:52:16.160000-03:00"
     }
   ]
 }
