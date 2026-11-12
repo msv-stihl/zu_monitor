@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "112864",
-      "os_number": "112864",
-      "name": "ZU - BEBEDOURO - MANUTENÇÃO",
-      "location": "BEB-56.001 - 30010197 - AMBULATÓRIO - SALA DE ESPERA",
-      "team": "REFRIGERAÇÃO",
-      "technician": "ARTHUR GABRIEL FERREIRA CADORE",
-      "opened_at": "2026-11-12T14:41:23.380000-03:00"
-    }
-  ]
+  "incidents": []
 }
