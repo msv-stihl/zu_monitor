@@ -8,6 +8,15 @@
       "team": "CIVIL",
       "technician": "ALEXANDRE LOPES MAGALHAES",
       "opened_at": "2026-11-12T07:53:02.917000-03:00"
+    },
+    {
+      "id": "112830",
+      "os_number": "112830",
+      "name": "ZU - VAZAMENTO DE ÁGUA",
+      "location": "AREA DE CONVIVIO",
+      "team": "CIVIL",
+      "technician": "LEONARDO DIAS BRAGA",
+      "opened_at": "2026-11-12T08:52:22.033000-03:00"
     }
   ]
 }
