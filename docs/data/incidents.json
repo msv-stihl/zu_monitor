@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "112839",
-      "os_number": "112839",
-      "name": "ZU - DESENTUPIMENTO MICTÓRIO",
-      "location": "BAN049 - CENTRAL DE SERVIÇOS - M",
-      "team": "CIVIL",
-      "technician": "ALEXANDRE LOPES MAGALHAES",
-      "opened_at": "2026-11-12T09:55:02.760000-03:00"
-    }
-  ]
+  "incidents": []
 }
