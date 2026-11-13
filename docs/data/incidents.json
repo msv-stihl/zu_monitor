@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "112868",
-      "os_number": "112868",
-      "name": "ZU - FALTA DE ENERGIA - ADMINISTRATIVO",
-      "location": "SALA ADM SAPORE",
-      "team": "ELÉTRICA",
-      "technician": "IZAQUIEL BITELO",
-      "opened_at": "2026-11-13T07:43:48.593000-03:00"
-    }
-  ]
+  "incidents": []
 }
