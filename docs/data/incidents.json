@@ -1,15 +1,6 @@
 {
   "incidents": [
     {
-      "id": "112879",
-      "os_number": "112879",
-      "name": "ZU - BEBEDOURO - MANTUENÇÃO",
-      "location": "BEB-15.005 - 30004537 - SALA RENOVA",
-      "team": "REFRIGERAÇÃO",
-      "technician": "ARTHUR GABRIEL FERREIRA CADORE",
-      "opened_at": "2026-11-13T08:53:14.203000-03:00"
-    },
-    {
       "id": "112881",
       "os_number": "112881",
       "name": "ZU - DESENTUPIMENTO VASO",
