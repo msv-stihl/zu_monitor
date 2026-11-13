@@ -1,15 +1,6 @@
 {
   "incidents": [
     {
-      "id": "112881",
-      "os_number": "112881",
-      "name": "ZU - DESENTUPIMENTO VASO",
-      "location": "BOX 001 - BAN116 - TÉRREO M",
-      "team": "CIVIL",
-      "technician": "ALEXANDRE LOPES MAGALHAES",
-      "opened_at": "2026-11-13T09:02:02.130000-03:00"
-    },
-    {
       "id": "112882",
       "os_number": "112882",
       "name": "ZU - EXAUSTOR - MANUTENÇÃO",
