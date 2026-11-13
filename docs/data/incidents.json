@@ -8,6 +8,24 @@
       "team": "LIMPEZA CONVENCIONAL",
       "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
       "opened_at": "2026-11-13T14:10:41.053000-03:00"
+    },
+    {
+      "id": "112888",
+      "os_number": "112888",
+      "name": "ZU - BIG FAN - NÃO LIGA",
+      "location": "UMV - VIRABREQUIM",
+      "team": "ELÉTRICA",
+      "technician": "IZAQUIEL BITELO",
+      "opened_at": "2026-11-13T15:11:08.043000-03:00"
+    },
+    {
+      "id": "112889",
+      "os_number": "112889",
+      "name": "ZU - BEBEDOURO - MANUTENÇÃO",
+      "location": "BEB-31.008 - 30004498 - FUNDIÇÃO DE MAGNÉSIO",
+      "team": "REFRIGERAÇÃO",
+      "technician": "ARTHUR GABRIEL FERREIRA CADORE",
+      "opened_at": "2026-11-13T15:14:06.127000-03:00"
     }
   ]
 }
