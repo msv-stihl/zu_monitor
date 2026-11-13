@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "112885",
-      "os_number": "112885",
-      "name": "ZU - HIDRÁULICA - VAZAMENTO",
-      "location": "BAN004 - VIRABREQUIM - F",
-      "team": "CIVIL",
-      "technician": "LEONARDO DIAS BRAGA",
-      "opened_at": "2026-11-13T11:55:05.867000-03:00"
-    }
-  ]
+  "incidents": []
 }
