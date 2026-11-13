@@ -8,6 +8,24 @@
       "team": "CIVIL",
       "technician": "ALEXANDRE LOPES MAGALHAES",
       "opened_at": "2026-11-13T09:02:02.130000-03:00"
+    },
+    {
+      "id": "112882",
+      "os_number": "112882",
+      "name": "ZU - EXAUSTOR - MANUTENÇÃO",
+      "location": "EXA-52.003 - 30010933 - BAN118",
+      "team": "ELÉTRICA",
+      "technician": "CLEOTON BRUNO LIMA GONÇALVES",
+      "opened_at": "2026-11-13T09:34:06.287000-03:00"
+    },
+    {
+      "id": "112883",
+      "os_number": "112883",
+      "name": "ZU - EXAUSTOR - MANUTENÇÃO",
+      "location": "EXA-52.001 - 30010931 - BAN116",
+      "team": "ELÉTRICA",
+      "technician": "CLEOTON BRUNO LIMA GONÇALVES",
+      "opened_at": "2026-11-13T09:37:57.390000-03:00"
     }
   ]
 }
