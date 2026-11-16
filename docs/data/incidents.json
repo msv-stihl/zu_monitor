@@ -1,22 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "113106",
-      "os_number": "113106",
-      "name": "ZU - BEBEDOURO - MANUTENÇÃO",
-      "location": "BEB-38.001 - 30004557 - HALL DE ENTRADA",
-      "team": "REFRIGERAÇÃO",
-      "technician": "ARTHUR GABRIEL FERREIRA CADORE",
-      "opened_at": "2026-11-16T12:46:38.933000-03:00"
-    },
-    {
-      "id": "113107",
-      "os_number": "113107",
-      "name": "ZU - AR CONDICIONADO - NÃO LIGA",
-      "location": "ACO-38.001 - 30004991 - BIBLIOTECA",
-      "team": "REFRIGERAÇÃO",
-      "technician": "EDER EVALDT DA SILVA",
-      "opened_at": "2026-11-16T12:54:52.030000-03:00"
-    }
-  ]
+  "incidents": []
 }
