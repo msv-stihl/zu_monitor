@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "113066",
-      "os_number": "113066",
-      "name": "ZU - KIT DE EMERGÊNCIA - LACRE ROMPIDO",
-      "location": "KIT DE EMERGENCIA - 43.001 - 30004778",
-      "team": "SPCI",
-      "technician": "GABRIEL NUNES BENDER",
-      "opened_at": "2026-11-16T10:03:32.833000-03:00"
-    }
-  ]
+  "incidents": []
 }
