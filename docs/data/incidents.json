@@ -17,6 +17,15 @@
       "team": "REFRIGERAÇÃO",
       "technician": "LUIS ALEJANDRO BITTAR BRITO",
       "opened_at": "2026-11-16T09:11:07.230000-03:00"
+    },
+    {
+      "id": "113061",
+      "os_number": "113061",
+      "name": "ZU - [CG]RECOLHIMENTO RESÍDUOS - ADM",
+      "location": "SALA ADM TRF",
+      "team": "LIMPEZA CONVENCIONAL",
+      "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
+      "opened_at": "2026-11-16T09:24:21.237000-03:00"
     }
   ]
 }
