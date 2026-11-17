@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "113187",
-      "os_number": "113187",
-      "name": "ZU - FALTA DE ENERGIA - FÁBRICA",
-      "location": "UMO - MONTAGEM",
-      "team": "ELÉTRICA",
-      "technician": "CLEOTON BRUNO LIMA GONÇALVES",
-      "opened_at": "2026-11-17T15:16:12.327000-03:00"
-    }
-  ]
+  "incidents": []
 }
