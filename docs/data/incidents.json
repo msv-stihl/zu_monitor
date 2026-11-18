@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "113194",
-      "os_number": "113194",
-      "name": "ZU - AHU - VAZAMENTO",
-      "location": "FCO-49.001 - ACO400-UNIDADE FANCOIL, TKZ-308",
-      "team": "UTILIDADES",
-      "technician": "WALMORCY KERSTING NETO",
-      "opened_at": "2026-11-18T08:27:31.400000-03:00"
-    }
-  ]
+  "incidents": []
 }
