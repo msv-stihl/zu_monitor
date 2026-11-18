@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "113224",
-      "os_number": "113224",
-      "name": "ZU - ELEVADOR - VERIFICAÇÃO",
-      "location": "ELEVADOR SOCIAL - VESTIARIO",
-      "team": "ELÉTRICA",
-      "technician": "IZAQUIEL BITELO",
-      "opened_at": "2026-11-18T15:52:06.140000-03:00"
-    }
-  ]
+  "incidents": []
 }
