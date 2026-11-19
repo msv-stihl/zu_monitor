@@ -17,6 +17,15 @@
       "team": "REFRIGERAÇÃO",
       "technician": "EDER EVALDT DA SILVA",
       "opened_at": "2026-11-19T13:49:24.877000-03:00"
+    },
+    {
+      "id": "113305",
+      "os_number": "113305",
+      "name": "ZU - AR CONDICIONADO - NÃO LIGA",
+      "location": "ACO-52.001 - 30010064 - SALA CAM - PROCESSOS",
+      "team": "REFRIGERAÇÃO",
+      "technician": "VALDIR LORENA DOS SANTOS",
+      "opened_at": "2026-11-19T14:06:11.523000-03:00"
     }
   ]
 }
