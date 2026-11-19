@@ -8,6 +8,15 @@
       "team": "CIVIL",
       "technician": "PIERRE ALEXANDER VIDAL MACHADO",
       "opened_at": "2026-11-19T08:45:22.350000-03:00"
+    },
+    {
+      "id": "113289",
+      "os_number": "113289",
+      "name": "ZU-  AR CONDICIONADO - NÃO RESFRIA",
+      "location": "ACO-50.010 - 30007078 - MANUTENÇÃO CHAVES DE FENDA",
+      "team": "REFRIGERAÇÃO",
+      "technician": "EDER EVALDT DA SILVA",
+      "opened_at": "2026-11-19T09:29:13.020000-03:00"
     }
   ]
 }
