@@ -8,6 +8,15 @@
       "team": "CIVIL",
       "technician": "PIERRE ALEXANDER VIDAL MACHADO",
       "opened_at": "2026-11-19T08:45:22.350000-03:00"
+    },
+    {
+      "id": "113290",
+      "os_number": "113290",
+      "name": "ZU - AR CONDICIONADO - VAZAMENTO",
+      "location": "UNIDADE TRATAMENTO DE AR 004 - ÁREA EXTERNA",
+      "team": "REFRIGERAÇÃO",
+      "technician": "WALMORCY KERSTING NETO",
+      "opened_at": "2026-11-19T09:58:49.143000-03:00"
     }
   ]
 }
