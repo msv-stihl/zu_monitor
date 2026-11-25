@@ -8,6 +8,15 @@
       "team": "ELÉTRICA",
       "technician": "CLEOTON BRUNO LIMA GONÇALVES",
       "opened_at": "2026-11-25T13:50:11.923000-03:00"
+    },
+    {
+      "id": "113415",
+      "os_number": "113415",
+      "name": "ZU - VENTILADOR - NÃO LIGA ",
+      "location": "VENTILADOR 31.024 - CILINDROS P31",
+      "team": "ELÉTRICA",
+      "technician": "CLEOTON BRUNO LIMA GONÇALVES",
+      "opened_at": "2026-11-25T13:55:39.720000-03:00"
     }
   ]
 }
