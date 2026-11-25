@@ -1,15 +1,6 @@
 {
   "incidents": [
     {
-      "id": "113422",
-      "os_number": "113422",
-      "name": "ZU - HIDRÁULICA - TORNEIRA",
-      "location": "COZINHA",
-      "team": "CIVIL",
-      "technician": "ALEXANDRE LOPES MAGALHAES",
-      "opened_at": "2026-11-25T15:14:43.697000-03:00"
-    },
-    {
       "id": "113423",
       "os_number": "113423",
       "name": "ZU - DESENTUPIMENTO MICTÓRIO",
