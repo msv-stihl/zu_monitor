@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "113451",
-      "os_number": "113451",
-      "name": "ZU - INSUFLADORES - NÃO LIGA",
-      "location": "P31 - PREDIO NOVO CILINDRO / CROMO NOVO",
-      "team": "ELÉTRICA",
-      "technician": "CLEOTON BRUNO LIMA GONÇALVES",
-      "opened_at": "2026-11-26T10:56:31.513000-03:00"
-    }
-  ]
+  "incidents": []
 }
