@@ -1,15 +1,6 @@
 {
   "incidents": [
     {
-      "id": "113428",
-      "os_number": "113428",
-      "name": "ZU - RECOLHIMENTO RESÍDUOS SALA",
-      "location": "SALA ADM TRF",
-      "team": "LIMPEZA CONVENCIONAL",
-      "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
-      "opened_at": "2026-11-26T08:07:55.743000-03:00"
-    },
-    {
       "id": "113429",
       "os_number": "113429",
       "name": "ZU - AR CONDICIONADO - NÃO LIGA",
