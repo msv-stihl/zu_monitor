@@ -8,6 +8,15 @@
       "team": "LIMPEZA CONVENCIONAL",
       "technician": "LIDERANÇAS - LIMPEZA CONVENCIONAL",
       "opened_at": "2026-11-26T08:07:55.743000-03:00"
+    },
+    {
+      "id": "113429",
+      "os_number": "113429",
+      "name": "ZU - AR CONDICIONADO - NÃO LIGA",
+      "location": "ACO-43.028 - 30004899 - HALL INFRAESTRUTURA",
+      "team": "REFRIGERAÇÃO",
+      "technician": "LUIS ALEJANDRO BITTAR BRITO",
+      "opened_at": "2026-11-26T08:20:09.737000-03:00"
     }
   ]
 }
