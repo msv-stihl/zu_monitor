@@ -8,6 +8,15 @@
       "team": "CIVIL",
       "technician": "ALEXANDRE LOPES MAGALHAES",
       "opened_at": "2026-11-26T16:37:58.597000-03:00"
+    },
+    {
+      "id": "113484",
+      "os_number": "113484",
+      "name": "ZU - HIDROSSANITÁRIA - VAZAMENTO",
+      "location": "BOX 001 - BAN062 - FUNDIÇÃO MAGNESIO M",
+      "team": "CIVIL",
+      "technician": "RAFAEL LUIS GOMES PEREIRA",
+      "opened_at": "2026-11-26T16:43:58-03:00"
     }
   ]
 }
