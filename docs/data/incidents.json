@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "113442",
-      "os_number": "113442",
-      "name": "ZU - AR CONDICIONADO - NÃO RESFRIA",
-      "location": "RECEPÇAO PORTARIA 2",
-      "team": "REFRIGERAÇÃO",
-      "technician": "EDER EVALDT DA SILVA",
-      "opened_at": "2026-11-26T09:52:19.210000-03:00"
-    }
-  ]
+  "incidents": []
 }
