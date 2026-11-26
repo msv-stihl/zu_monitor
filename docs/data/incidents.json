@@ -1,15 +1,6 @@
 {
   "incidents": [
     {
-      "id": "113478",
-      "os_number": "113478",
-      "name": "ZU - MANUTENÇÃO PORTA",
-      "location": "BAN004 - VIRABREQUIM - F",
-      "team": "CIVIL",
-      "technician": "RAFAEL LUIS GOMES PEREIRA",
-      "opened_at": "2026-11-26T15:42:00.403000-03:00"
-    },
-    {
       "id": "113479",
       "os_number": "113479",
       "name": "ZU - HIDROSSANITÁRIA - VAZAMENTO",
