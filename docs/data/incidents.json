@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "113470",
-      "os_number": "113470",
-      "name": "ZU - DESENTUPIMENTO VASO",
-      "location": "BOX 002 - BAN100 - VESTIÁRIO TÉRREO M",
-      "team": "CIVIL",
-      "technician": "LEONARDO DIAS BRAGA",
-      "opened_at": "2026-11-26T14:30:44.710000-03:00"
-    }
-  ]
+  "incidents": []
 }
