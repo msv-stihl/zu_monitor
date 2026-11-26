@@ -8,6 +8,15 @@
       "team": "CIVIL",
       "technician": "RAFAEL LUIS GOMES PEREIRA",
       "opened_at": "2026-11-26T15:42:00.403000-03:00"
+    },
+    {
+      "id": "113479",
+      "os_number": "113479",
+      "name": "ZU - HIDROSSANITÁRIA - VAZAMENTO",
+      "location": "BOX PNE 001 - BAN066 - ENGENHARIA MANUTENÇÃO M ",
+      "team": "CIVIL",
+      "technician": "LEONARDO DIAS BRAGA",
+      "opened_at": "2026-11-26T15:53:22.167000-03:00"
     }
   ]
 }
