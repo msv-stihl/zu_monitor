@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "113496",
-      "os_number": "113496",
-      "name": "ZU - DESENTUPIMENTO VASO",
-      "location": "BOX 001 - BAN011 - FINANCEIRO F",
-      "team": "CIVIL",
-      "technician": "RAFAEL LUIS GOMES PEREIRA",
-      "opened_at": "2026-11-27T10:21:18.867000-03:00"
-    }
-  ]
+  "incidents": []
 }
