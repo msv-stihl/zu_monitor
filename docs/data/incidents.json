@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "113510",
-      "os_number": "113510",
-      "name": "ZU - CURTO CIRCUITO",
-      "location": "ALMOXARIFADO STIHL",
-      "team": "ELÉTRICA",
-      "technician": "CLEOTON BRUNO LIMA GONÇALVES",
-      "opened_at": "2026-11-27T13:41:18.417000-03:00"
-    }
-  ]
+  "incidents": []
 }
