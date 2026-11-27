@@ -1,13 +1,3 @@
 {
-  "incidents": [
-    {
-      "id": "113486",
-      "os_number": "113486",
-      "name": "ZU - AR CONDICIONADO - NÃO LIGA",
-      "location": "ACO-01.035 - 30001105 - SALA SUPERVISÃO MANUTENÇÃO",
-      "team": "REFRIGERAÇÃO",
-      "technician": "LUIS ALEJANDRO BITTAR BRITO",
-      "opened_at": "2026-11-27T08:34:49.947000-03:00"
-    }
-  ]
+  "incidents": []
 }
