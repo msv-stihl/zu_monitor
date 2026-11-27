@@ -8,6 +8,15 @@
       "team": "CIVIL",
       "technician": "LEONARDO DIAS BRAGA",
       "opened_at": "2026-11-27T10:04:15.377000-03:00"
+    },
+    {
+      "id": "113495",
+      "os_number": "113495",
+      "name": "ZU - BEBEDOURO - MANUTENÇÃO",
+      "location": "BEB-28.005 - 30004508 - FUNDIÇÃO DE ALUMÍNIO",
+      "team": "CIVIL",
+      "technician": "EDER EVALDT DA SILVA",
+      "opened_at": "2026-11-27T10:13:21.200000-03:00"
     }
   ]
 }
